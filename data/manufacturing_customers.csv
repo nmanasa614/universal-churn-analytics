@@ -1,0 +1,1801 @@
+﻿customer_id,tenure_months,orders_last_90_days,avg_order_value,days_since_last_order,late_delivery_rate,complaint_count,payment_delay_days,discount_dependency,order_frequency_change,region,product_category,customer_type,churn
+CUST00001,12,3,4354.04,10,0.3,0,4,0.06,0.39,East,Raw Materials,Distributor,0
+CUST00002,94,4,2036.75,24,0.09,1,8,0.35,0.01,West,Raw Materials,Retailer,0
+CUST00003,79,7,2216.7,19,0.13,0,27,0.35,0.67,North,Raw Materials,Wholesaler,0
+CUST00004,54,3,2726.21,36,0.13,0,15,0.28,-0.04,East,Industrial Equipment,Distributor,0
+CUST00005,53,5,3843.76,61,0.15,0,8,0.15,-0.26,West,Industrial Equipment,Retailer,0
+CUST00006,104,5,3238.19,38,0.12,2,24,0.12,-0.53,West,Components,Distributor,0
+CUST00007,12,6,1866.74,32,0.18,1,5,0.66,0.26,West,Raw Materials,Wholesaler,0
+CUST00008,84,4,1860.6,41,0.07,1,4,0.14,-0.28,East,Raw Materials,Wholesaler,0
+CUST00009,25,7,1092.05,34,0.19,0,9,0.6,-0.17,West,Industrial Equipment,Wholesaler,1
+CUST00010,13,8,622.84,29,0.23,0,1,0.79,0.29,South,Raw Materials,Retailer,0
+CUST00011,64,3,3221.23,54,0.02,0,8,0.32,0.24,West,Raw Materials,Wholesaler,0
+CUST00012,118,3,12408.37,23,0.25,1,3,0.38,-0.22,South,Components,Retailer,0
+CUST00013,89,1,9304.27,10,0.33,0,20,0.6,-0.18,West,Packaging,Wholesaler,0
+CUST00014,92,4,2022.26,18,0.03,1,12,0.6,-0.54,East,Raw Materials,Wholesaler,0
+CUST00015,87,6,3761.03,16,0.1,0,4,0.53,-0.63,East,Components,Retailer,0
+CUST00016,95,3,1547.63,106,0.07,1,1,0.57,0.16,East,Finished Goods,Retailer,0
+CUST00017,63,7,1683.01,64,0.44,2,10,0.67,0.19,East,Packaging,Wholesaler,0
+CUST00018,17,1,1792.54,32,0.23,1,8,0.18,0.05,West,Raw Materials,Retailer,1
+CUST00019,101,2,3059.4,17,0.35,1,3,0.14,0,South,Industrial Equipment,Wholesaler,0
+CUST00020,55,3,3132.69,54,0.09,1,6,0.19,-0.25,East,Raw Materials,Distributor,1
+CUST00021,61,7,3979.8,31,0.07,1,14,0.62,0.36,East,Packaging,Retailer,0
+CUST00022,46,5,4987.89,23,0.4,1,4,0.17,-0.55,North,Raw Materials,Wholesaler,0
+CUST00023,23,10,2877.61,31,0.07,1,4,0.49,-0.18,Central,Components,Distributor,1
+CUST00024,112,6,3533.03,24,0.13,0,14,0.03,-0.01,West,Packaging,Distributor,1
+CUST00025,95,3,1897.71,40,0.08,0,3,0.61,-0.05,North,Components,Retailer,0
+CUST00026,78,3,1653.3,9,0.25,3,10,0.37,-0.05,North,Components,Distributor,1
+CUST00027,49,5,1518.63,40,0.21,1,2,0.63,-0.2,Central,Components,Retailer,1
+CUST00028,99,2,4949.72,24,0.11,1,27,0.25,0.1,Central,Industrial Equipment,Wholesaler,0
+CUST00029,66,7,2875.99,55,0.14,2,3,0.12,-0.39,West,Components,Retailer,0
+CUST00030,54,6,1237.54,65,0.16,1,2,0.26,-0.09,West,Packaging,Retailer,0
+CUST00031,55,8,3345.26,74,0.16,0,11,0.21,0.07,Central,Industrial Equipment,Wholesaler,1
+CUST00032,29,11,1742.63,111,0.29,0,4,0.16,-0.14,East,Raw Materials,Retailer,0
+CUST00033,12,5,8631.8,73,0.07,0,3,0.2,-0.05,North,Components,Wholesaler,0
+CUST00034,67,4,2519.08,54,0.24,0,4,0.62,0.01,East,Raw Materials,Retailer,0
+CUST00035,107,5,5038.32,11,0.01,1,13,0.46,-0.54,South,Industrial Equipment,Distributor,0
+CUST00036,9,5,6303.94,2,0.26,3,4,0.32,-0.52,North,Components,Wholesaler,0
+CUST00037,104,3,2048.35,59,0.15,0,6,0.1,-0.01,Central,Components,Wholesaler,0
+CUST00038,100,4,3611.31,14,0.04,1,24,0.22,-0.22,West,Finished Goods,Retailer,1
+CUST00039,34,9,4695.72,162,0.13,0,4,0.12,-0.2,Central,Industrial Equipment,Distributor,1
+CUST00040,77,4,3690.62,7,0.13,4,5,0.08,0.11,North,Finished Goods,Wholesaler,1
+CUST00041,21,4,4224.29,52,0.2,2,6,0.72,-0.33,Central,Industrial Equipment,Retailer,0
+CUST00042,92,8,1666.87,34,0.01,0,4,0.27,-0.73,West,Components,Wholesaler,0
+CUST00043,85,2,4697.19,8,0.39,0,5,0.29,0.41,East,Raw Materials,Retailer,0
+CUST00044,44,2,2650.78,34,0.09,1,7,0.39,0.29,North,Industrial Equipment,Retailer,0
+CUST00045,10,0,4197.31,80,0.05,1,4,0.41,0.29,West,Packaging,Retailer,0
+CUST00046,117,2,5744.48,27,0.12,1,1,0.09,-0.36,East,Packaging,Wholesaler,0
+CUST00047,55,6,5003.26,28,0.13,2,6,0.46,-0.07,West,Industrial Equipment,Retailer,1
+CUST00048,108,4,4195.62,16,0.09,0,19,0.12,-0.41,North,Finished Goods,Distributor,1
+CUST00049,82,5,4930.38,22,0.09,0,5,0.04,-0.07,West,Packaging,Retailer,0
+CUST00050,94,3,5057.49,15,0.02,0,7,0.12,-0.15,North,Industrial Equipment,Retailer,0
+CUST00051,92,3,7883.49,5,0.25,1,14,0.35,-0.35,North,Components,Retailer,0
+CUST00052,25,8,3399.12,32,0.03,1,9,0.29,0.09,East,Raw Materials,Wholesaler,0
+CUST00053,45,7,3790.21,72,0.11,1,6,0.09,-0.12,North,Finished Goods,Retailer,1
+CUST00054,57,1,5782.76,16,0.33,0,5,0.5,0.43,West,Finished Goods,Retailer,0
+CUST00055,61,7,2644.63,97,0.06,0,3,0.23,-0.03,East,Finished Goods,Retailer,0
+CUST00056,7,5,1661.71,111,0.2,0,11,0.39,-0.76,South,Raw Materials,Distributor,1
+CUST00057,67,0,4542.7,61,0.11,0,13,0.46,-0.56,South,Industrial Equipment,Retailer,0
+CUST00058,20,6,3092.35,25,0.24,1,11,0.38,0.54,East,Finished Goods,Retailer,0
+CUST00059,90,2,1782.66,21,0.25,1,9,0.19,-0.15,East,Components,Wholesaler,0
+CUST00060,83,4,4561,11,0.24,0,4,0.68,0.02,West,Packaging,Wholesaler,0
+CUST00061,111,2,7609.27,25,0.35,1,3,0.68,-0.05,East,Components,Retailer,0
+CUST00062,90,3,1413.24,23,0.09,0,8,0.6,0.35,East,Packaging,Distributor,0
+CUST00063,45,2,6077.07,31,0.12,0,1,0.53,-0.58,West,Packaging,Wholesaler,0
+CUST00064,117,4,858.01,33,0.21,1,4,0.32,0.32,East,Industrial Equipment,Wholesaler,0
+CUST00065,50,3,2778.99,10,0.04,2,7,0.19,0.3,South,Raw Materials,Wholesaler,0
+CUST00066,40,6,9530.8,45,0.13,1,16,0.31,-0.05,South,Finished Goods,Distributor,0
+CUST00067,109,6,2891.19,24,0.07,0,20,0.05,0.07,East,Industrial Equipment,Retailer,0
+CUST00068,46,5,3639.01,12,0.51,2,2,0.6,-0.15,North,Components,Distributor,1
+CUST00069,11,4,5268.9,24,0.47,4,8,0.14,-0.52,South,Components,Retailer,1
+CUST00070,57,7,1347.41,33,0.05,1,6,0.26,0.11,North,Industrial Equipment,Wholesaler,0
+CUST00071,96,5,3603.47,82,0.29,2,10,0.36,0.02,East,Raw Materials,Retailer,1
+CUST00072,24,3,3587.88,73,0.13,0,5,0.73,0.02,Central,Finished Goods,Wholesaler,1
+CUST00073,57,5,9645.79,19,0.33,1,10,0.44,0.09,Central,Packaging,Distributor,0
+CUST00074,17,8,1755.21,26,0.2,0,7,0.44,-0.22,North,Components,Wholesaler,0
+CUST00075,83,0,2807.79,43,0.18,1,4,0.61,0.37,Central,Components,Retailer,1
+CUST00076,58,3,2078.51,38,0.15,0,10,0.28,-0.05,North,Raw Materials,Distributor,0
+CUST00077,41,4,1960.73,20,0.07,0,5,0.39,0.1,Central,Finished Goods,Distributor,0
+CUST00078,29,6,6438.63,25,0.2,1,6,0.28,-0.13,South,Components,Retailer,0
+CUST00079,69,9,3514.52,60,0.36,2,2,0.3,0.24,North,Components,Retailer,0
+CUST00080,81,6,2551.5,10,0.12,0,5,0.36,-0.02,West,Components,Wholesaler,0
+CUST00081,113,2,2604.99,73,0.23,0,15,0.27,-0.07,Central,Industrial Equipment,Wholesaler,0
+CUST00082,54,5,2540.78,40,0.39,1,4,0.32,0.29,South,Packaging,Retailer,0
+CUST00083,21,6,2668.86,71,0.42,0,20,0.31,-0.53,East,Finished Goods,Retailer,1
+CUST00084,101,1,1727.72,50,0.17,0,7,0.39,-0.13,West,Finished Goods,Wholesaler,0
+CUST00085,76,3,3004,57,0.05,1,8,0.2,-0.22,Central,Industrial Equipment,Distributor,0
+CUST00086,85,3,2842.49,30,0.38,2,3,0.16,0.05,East,Components,Retailer,0
+CUST00087,13,8,2282.92,12,0.22,2,11,0.17,0.04,West,Industrial Equipment,Wholesaler,0
+CUST00088,39,5,3771.68,18,0.14,1,1,0.09,-0.05,West,Packaging,Distributor,0
+CUST00089,93,4,3951.85,15,0.14,1,5,0.31,-0.25,West,Finished Goods,Retailer,0
+CUST00090,101,2,2549.99,4,0.03,0,3,0.24,-0.06,Central,Raw Materials,Retailer,0
+CUST00091,53,5,3199.42,60,0.28,2,1,0.18,0.04,Central,Finished Goods,Retailer,0
+CUST00092,97,3,11353.07,28,0.09,1,10,0.19,-0.1,East,Packaging,Wholesaler,0
+CUST00093,102,8,11117.08,14,0.12,0,5,0.25,0.26,South,Packaging,Wholesaler,0
+CUST00094,48,9,1939.63,108,0.18,1,6,0.41,0.12,Central,Industrial Equipment,Distributor,1
+CUST00095,108,2,2094.47,139,0.46,3,3,0.16,-0.04,East,Finished Goods,Wholesaler,1
+CUST00096,36,5,1933.97,9,0.25,1,11,0.32,-0.71,Central,Industrial Equipment,Retailer,0
+CUST00097,30,6,6194.27,25,0.28,0,7,0.34,-0.11,Central,Packaging,Wholesaler,1
+CUST00098,83,1,2781.68,23,0.24,2,17,0.31,0.13,North,Finished Goods,Retailer,1
+CUST00099,77,2,3951.38,13,0.18,0,3,0.47,-0.13,North,Packaging,Wholesaler,0
+CUST00100,18,9,10387.23,59,0.05,0,3,0.64,0.03,East,Finished Goods,Distributor,0
+CUST00101,101,5,3443.5,4,0.12,0,9,0.1,-0.11,North,Raw Materials,Wholesaler,0
+CUST00102,25,5,5107.35,90,0.34,1,19,0.69,0.02,West,Components,Wholesaler,1
+CUST00103,97,4,4611.14,31,0.17,0,4,0.2,0.34,North,Industrial Equipment,Retailer,0
+CUST00104,2,8,2506.09,102,0.1,3,0,0.3,0.17,Central,Raw Materials,Wholesaler,1
+CUST00105,96,3,6201.45,29,0.48,1,2,0.1,-0.41,East,Finished Goods,Wholesaler,1
+CUST00106,95,4,2170.4,23,0.25,1,15,0.21,-0.51,West,Industrial Equipment,Distributor,0
+CUST00107,94,8,7236.8,62,0.24,2,5,0.49,0.07,East,Components,Distributor,0
+CUST00108,81,8,2507.15,101,0.18,0,22,0.39,0.28,West,Packaging,Distributor,0
+CUST00109,58,5,2662.76,91,0.11,0,2,0.31,-0.51,West,Finished Goods,Wholesaler,1
+CUST00110,85,3,1903.28,6,0.18,1,9,0.14,-0.11,South,Industrial Equipment,Distributor,0
+CUST00111,34,6,2083.19,75,0.15,0,9,0.37,0.61,Central,Packaging,Wholesaler,0
+CUST00112,94,3,2738.81,22,0.17,1,1,0.79,-0.13,Central,Finished Goods,Wholesaler,1
+CUST00113,68,4,909.38,27,0.03,0,1,0.27,0.66,South,Industrial Equipment,Retailer,0
+CUST00114,56,7,3046.25,22,0.27,0,5,0.31,-0.28,North,Raw Materials,Distributor,0
+CUST00115,62,3,2619.17,18,0.19,2,10,0.54,-0.23,East,Components,Distributor,0
+CUST00116,69,3,5348.15,25,0.22,1,8,0.14,-0.25,West,Industrial Equipment,Wholesaler,0
+CUST00117,6,7,4370.53,13,0.23,1,5,0.62,-0.41,West,Components,Retailer,1
+CUST00118,18,8,2346.78,76,0.45,2,5,0.29,-0.52,South,Components,Retailer,0
+CUST00119,31,6,2691.35,50,0.14,0,1,0.05,-0.11,East,Industrial Equipment,Retailer,0
+CUST00120,15,8,3044.1,36,0.08,1,3,0.34,-0.01,West,Raw Materials,Distributor,1
+CUST00121,54,5,7842.21,22,0.34,2,1,0.48,-0.25,East,Components,Wholesaler,0
+CUST00122,81,1,2203.35,19,0.17,1,8,0.41,-0.18,West,Industrial Equipment,Wholesaler,0
+CUST00123,79,5,2331.18,41,0.19,1,2,0.72,0.35,West,Industrial Equipment,Retailer,1
+CUST00124,58,6,1861.76,36,0.04,0,15,0.58,0.22,North,Industrial Equipment,Wholesaler,0
+CUST00125,103,4,1532.84,65,0.26,0,6,0.44,-0.12,South,Finished Goods,Distributor,1
+CUST00126,69,5,4100.45,19,0.13,0,3,0.36,0.07,West,Finished Goods,Distributor,0
+CUST00127,11,1,3872.27,18,0.31,1,13,0.19,-0.51,West,Components,Wholesaler,1
+CUST00128,93,2,7012.99,48,0.16,0,2,0.45,0.03,Central,Finished Goods,Retailer,1
+CUST00129,70,5,6141.2,55,0.23,1,2,0.48,-0.07,South,Components,Retailer,1
+CUST00130,77,3,12944.34,132,0.06,0,2,0.18,-0.15,North,Finished Goods,Distributor,0
+CUST00131,69,8,3325.48,6,0.09,2,13,0.05,-0.04,South,Raw Materials,Distributor,0
+CUST00132,67,3,3001.02,78,0.39,2,22,0.47,-0.09,East,Raw Materials,Retailer,0
+CUST00133,12,6,1694.05,33,0.19,0,1,0.33,-0.42,North,Packaging,Retailer,0
+CUST00134,68,2,5080.26,20,0.3,1,40,0.56,0.42,North,Industrial Equipment,Wholesaler,0
+CUST00135,96,5,3696.69,42,0.04,1,10,0.6,0.22,North,Industrial Equipment,Distributor,0
+CUST00136,38,7,4955.22,41,0.17,0,4,0.25,-0.16,North,Packaging,Wholesaler,0
+CUST00137,73,3,1851,21,0.2,2,9,0.2,-0.54,South,Industrial Equipment,Retailer,0
+CUST00138,5,11,4202.28,6,0.09,0,14,0.23,-0.74,Central,Finished Goods,Distributor,0
+CUST00139,43,4,3877.17,79,0.11,1,3,0.43,0.51,South,Components,Wholesaler,0
+CUST00140,53,7,3738.61,16,0.06,0,14,0.28,-0.1,South,Industrial Equipment,Wholesaler,0
+CUST00141,118,9,2378.45,14,0.17,0,6,0.17,0.16,East,Packaging,Retailer,0
+CUST00142,27,9,6661.69,18,0.18,1,1,0.18,-0.32,West,Packaging,Retailer,0
+CUST00143,34,4,10696.47,54,0.14,0,10,0.13,-0.14,South,Industrial Equipment,Retailer,0
+CUST00144,50,4,1880.53,23,0.19,0,18,0.65,-0.12,North,Components,Retailer,0
+CUST00145,120,1,5147.39,18,0.09,0,8,0.7,0.02,South,Components,Distributor,0
+CUST00146,103,2,711.36,40,0.26,1,2,0.21,-0.02,North,Finished Goods,Wholesaler,0
+CUST00147,6,8,5002.71,36,0.13,1,9,0.5,-0.31,North,Packaging,Distributor,0
+CUST00148,29,3,1238.2,18,0.1,0,7,0.14,-0.31,West,Packaging,Wholesaler,0
+CUST00149,99,6,2594.81,6,0.23,2,9,0.31,-0.07,North,Raw Materials,Retailer,0
+CUST00150,8,9,1682.16,53,0.18,0,1,0.44,-0.54,South,Raw Materials,Wholesaler,1
+CUST00151,103,1,3076.09,36,0.33,2,1,0.5,-0.28,South,Finished Goods,Wholesaler,1
+CUST00152,35,3,5493.59,4,0.17,1,4,0.38,-0.09,Central,Raw Materials,Distributor,0
+CUST00153,111,6,1246.98,86,0.14,1,12,0.17,0.06,North,Packaging,Wholesaler,0
+CUST00154,36,5,2842.06,4,0.05,0,10,0.6,0.37,North,Packaging,Retailer,0
+CUST00155,53,3,2611.41,15,0.11,1,13,0.12,-0.18,East,Raw Materials,Wholesaler,0
+CUST00156,80,4,8263.28,16,0.32,1,9,0.39,-0.04,West,Finished Goods,Distributor,0
+CUST00157,17,7,4391.69,19,0.18,2,11,0.8,-0.57,East,Finished Goods,Wholesaler,1
+CUST00158,68,6,1812.62,18,0.18,0,7,0.21,0.04,West,Finished Goods,Retailer,0
+CUST00159,62,3,2672.55,10,0.22,0,5,0.44,-0.3,Central,Raw Materials,Wholesaler,0
+CUST00160,95,2,8150.69,34,0.16,1,10,0.38,-0.14,West,Components,Distributor,0
+CUST00161,120,6,5130.21,59,0.22,1,2,0.43,0.08,East,Industrial Equipment,Retailer,1
+CUST00162,81,6,2090.11,33,0.04,0,2,0.38,0.09,West,Components,Wholesaler,0
+CUST00163,50,7,2990.25,38,0.09,0,2,0.45,-0.46,South,Industrial Equipment,Retailer,1
+CUST00164,50,2,3043.28,23,0.09,3,7,0.32,0.17,South,Raw Materials,Retailer,1
+CUST00165,51,4,2576.3,32,0.46,2,2,0.38,-0.06,South,Raw Materials,Retailer,1
+CUST00166,98,3,1352.06,40,0.14,1,0,0.49,0.3,West,Packaging,Retailer,0
+CUST00167,40,7,2385.84,50,0.12,0,1,0.72,0.36,Central,Raw Materials,Retailer,0
+CUST00168,21,5,7435.79,17,0.17,0,18,0.44,0.4,East,Packaging,Wholesaler,0
+CUST00169,41,10,2808.4,15,0.16,0,7,0.23,-0.45,West,Raw Materials,Wholesaler,0
+CUST00170,4,10,3272.18,2,0.27,1,13,0.3,0.06,West,Finished Goods,Retailer,0
+CUST00171,14,5,3741.68,103,0.1,0,1,0.39,-0.49,South,Packaging,Wholesaler,1
+CUST00172,12,5,11730.85,99,0.16,0,9,0.26,0.31,North,Components,Wholesaler,0
+CUST00173,93,3,3480.33,28,0.05,3,2,0.11,0.35,West,Finished Goods,Wholesaler,0
+CUST00174,87,1,6321.24,30,0.2,0,9,0.26,0.22,North,Industrial Equipment,Distributor,1
+CUST00175,84,1,2492.4,82,0.19,0,13,0.27,-0.17,North,Packaging,Retailer,1
+CUST00176,56,5,3002.89,10,0.08,0,10,0.15,0.1,South,Packaging,Wholesaler,0
+CUST00177,87,2,3487.37,14,0.15,1,6,0.21,-0.2,West,Industrial Equipment,Retailer,0
+CUST00178,21,4,2262.5,86,0.34,0,17,0.03,-0.05,South,Packaging,Retailer,1
+CUST00179,109,6,3096.28,23,0.08,1,12,0.24,-0.08,North,Finished Goods,Retailer,0
+CUST00180,61,2,5644.45,12,0.25,2,3,0.34,-0.61,North,Packaging,Distributor,0
+CUST00181,113,2,2230.1,42,0.21,3,2,0.23,-0.28,South,Industrial Equipment,Retailer,0
+CUST00182,20,7,3463.55,17,0.44,1,31,0.26,0.59,North,Packaging,Wholesaler,0
+CUST00183,61,2,5114.34,76,0.17,2,3,0.78,-0.07,South,Raw Materials,Distributor,0
+CUST00184,84,3,2200.73,32,0.05,0,5,0.41,-0.01,North,Raw Materials,Retailer,1
+CUST00185,60,4,6326.34,18,0.32,0,2,0.34,-0.05,Central,Industrial Equipment,Retailer,0
+CUST00186,55,3,3605.03,18,0.24,2,11,0.37,-0.16,North,Finished Goods,Retailer,0
+CUST00187,21,9,3162.7,40,0.27,0,2,0.29,-0.04,North,Packaging,Retailer,0
+CUST00188,47,3,1147.7,25,0.14,0,6,0.27,-0.16,North,Industrial Equipment,Distributor,0
+CUST00189,30,7,2820.06,23,0.09,0,9,0.24,-0.69,South,Raw Materials,Retailer,0
+CUST00190,37,6,4248.73,51,0.45,1,3,0.15,0.17,Central,Finished Goods,Wholesaler,0
+CUST00191,83,7,9044.75,83,0.14,0,8,0.54,0.4,East,Packaging,Retailer,0
+CUST00192,77,3,4733.12,46,0.63,1,21,0.17,-0.38,Central,Components,Wholesaler,0
+CUST00193,74,7,6434.43,16,0.13,0,7,0.43,-0.17,West,Raw Materials,Retailer,0
+CUST00194,45,5,1781.11,11,0.21,4,11,0.04,0.37,East,Industrial Equipment,Retailer,0
+CUST00195,116,2,3230.03,49,0.19,1,4,0.24,-0.27,Central,Components,Retailer,1
+CUST00196,12,4,6777.82,46,0.18,2,4,0.39,0.06,North,Finished Goods,Distributor,1
+CUST00197,42,2,2125.47,21,0.08,0,2,0.46,1.16,North,Industrial Equipment,Wholesaler,0
+CUST00198,16,3,5889.18,26,0.09,0,7,0.11,0.13,South,Raw Materials,Retailer,0
+CUST00199,42,6,5183.96,17,0.26,1,13,0.26,-0.03,Central,Packaging,Distributor,0
+CUST00200,116,0,4028.29,104,0.37,1,10,0.5,0.2,Central,Finished Goods,Distributor,1
+CUST00201,45,4,2890.58,18,0.16,1,4,0.13,0.17,East,Industrial Equipment,Wholesaler,0
+CUST00202,110,1,2013.31,1,0.21,0,5,0.15,-0.24,Central,Industrial Equipment,Distributor,0
+CUST00203,60,7,9195.4,67,0.35,1,21,0.19,-0.54,West,Industrial Equipment,Retailer,0
+CUST00204,85,3,4902.62,8,0.09,0,9,0.42,0.12,South,Finished Goods,Distributor,0
+CUST00205,56,2,4176.96,29,0.49,0,11,0.36,0.16,North,Raw Materials,Distributor,1
+CUST00206,33,6,2759.85,3,0.39,0,13,0.39,-0.13,North,Components,Wholesaler,0
+CUST00207,92,3,3536.28,45,0.38,0,4,0.14,0.41,Central,Finished Goods,Wholesaler,0
+CUST00208,117,5,3791.79,55,0.05,2,4,0.08,0.35,South,Components,Retailer,1
+CUST00209,33,7,4315.34,31,0.17,2,4,0.66,0.17,East,Industrial Equipment,Retailer,1
+CUST00210,94,1,5186.88,28,0.14,0,4,0.19,-0.13,South,Packaging,Wholesaler,0
+CUST00211,33,5,2252.15,17,0.02,0,18,0.07,-0.64,North,Industrial Equipment,Distributor,1
+CUST00212,87,5,1545.92,65,0.04,0,5,0.22,-0.1,North,Finished Goods,Retailer,1
+CUST00213,95,4,3627.7,7,0.07,2,16,0.46,-0.56,West,Components,Wholesaler,0
+CUST00214,55,4,1324.82,20,0.13,0,5,0.49,-0.71,West,Components,Retailer,0
+CUST00215,89,7,2898.61,15,0.13,1,6,0.58,0.13,South,Finished Goods,Retailer,1
+CUST00216,34,4,2617.42,14,0.4,0,1,0.15,0.28,North,Packaging,Retailer,0
+CUST00217,11,3,4539,64,0.01,0,4,0.47,-0.6,East,Industrial Equipment,Distributor,0
+CUST00218,13,2,10305.45,26,0.34,3,18,0.08,-0.12,North,Finished Goods,Retailer,0
+CUST00219,55,3,1188.53,17,0.05,0,18,0.08,-0.05,South,Raw Materials,Retailer,0
+CUST00220,109,2,12098.08,37,0.12,0,4,0.38,-0.13,West,Raw Materials,Retailer,0
+CUST00221,17,2,3046.68,35,0.28,3,0,0.33,-0.44,North,Components,Wholesaler,1
+CUST00222,56,12,4193.52,54,0.08,1,2,0.58,0.32,West,Packaging,Wholesaler,0
+CUST00223,85,4,1590.56,40,0.05,0,4,0.13,-0.43,Central,Industrial Equipment,Retailer,0
+CUST00224,26,6,5992.59,27,0.08,0,4,0.65,-0.6,North,Components,Retailer,0
+CUST00225,87,2,3543.29,29,0.14,0,4,0.47,-0.43,West,Raw Materials,Retailer,1
+CUST00226,38,5,3348.25,39,0.26,1,6,0.45,0.08,West,Raw Materials,Retailer,1
+CUST00227,98,5,1193.25,13,0.32,0,2,0.11,-0.12,East,Packaging,Distributor,0
+CUST00228,70,4,3606.84,34,0.08,0,5,0.47,-0.27,South,Finished Goods,Distributor,0
+CUST00229,67,7,5514.88,82,0.3,1,8,0.6,0.1,Central,Finished Goods,Retailer,1
+CUST00230,23,5,3041.32,31,0.19,0,4,0.25,0.04,South,Raw Materials,Wholesaler,0
+CUST00231,57,5,6606.5,22,0.03,0,7,0.68,-0.7,South,Packaging,Retailer,0
+CUST00232,103,3,6458.11,22,0.18,2,20,0.11,0.09,North,Components,Retailer,1
+CUST00233,4,7,2434.26,38,0.27,2,10,0.13,0.28,Central,Raw Materials,Wholesaler,1
+CUST00234,92,6,8327.45,33,0.27,2,9,0.16,-0.08,South,Industrial Equipment,Wholesaler,0
+CUST00235,60,5,3550.74,46,0.36,1,4,0.08,-0.12,North,Raw Materials,Retailer,0
+CUST00236,87,4,3559.44,17,0.2,2,4,0.61,0.48,North,Industrial Equipment,Retailer,0
+CUST00237,80,1,3657.15,25,0.39,4,6,0.09,-0.25,South,Components,Retailer,1
+CUST00238,53,7,3597.96,52,0.1,0,9,0.18,-0.1,West,Finished Goods,Retailer,1
+CUST00239,38,4,815.19,55,0.23,0,7,0.13,0.04,West,Finished Goods,Wholesaler,0
+CUST00240,76,3,3127.44,55,0.24,3,7,0.57,-0.04,Central,Raw Materials,Distributor,0
+CUST00241,18,6,1635.71,48,0.4,4,12,0.44,-0.13,West,Components,Retailer,1
+CUST00242,71,6,8471.68,49,0.1,0,9,0.17,-0.03,North,Finished Goods,Wholesaler,0
+CUST00243,13,5,8286.19,34,0.06,0,11,0.17,0.39,Central,Finished Goods,Distributor,0
+CUST00244,79,9,5533.45,8,0.25,0,2,0.57,0.18,South,Industrial Equipment,Retailer,0
+CUST00245,76,5,3037.66,9,0.05,0,2,0.29,-0.07,Central,Industrial Equipment,Wholesaler,0
+CUST00246,12,4,1989.41,30,0.02,1,19,0.2,-0.29,South,Components,Retailer,1
+CUST00247,92,6,2412.29,31,0.11,0,0,0.64,-0.25,North,Raw Materials,Wholesaler,0
+CUST00248,51,3,10081.46,14,0.26,0,2,0.05,0.22,South,Raw Materials,Distributor,0
+CUST00249,95,0,2366.79,107,0.05,2,4,0.11,-0.5,East,Packaging,Distributor,1
+CUST00250,6,8,948.06,27,0.13,3,16,0.14,0.62,Central,Raw Materials,Wholesaler,0
+CUST00251,23,5,6103.34,113,0.13,2,2,0.16,-0.06,East,Packaging,Distributor,1
+CUST00252,60,4,7905.21,12,0.59,2,1,0.19,-0.44,North,Components,Wholesaler,1
+CUST00253,24,2,8626.28,21,0.04,2,3,0.25,0,North,Components,Distributor,1
+CUST00254,41,4,6130.87,54,0.53,4,4,0.56,-0.27,West,Raw Materials,Distributor,1
+CUST00255,80,4,6706.52,47,0.14,0,6,0.33,-0.17,North,Packaging,Wholesaler,0
+CUST00256,19,7,3565.69,36,0.11,0,9,0.09,-0.47,East,Components,Retailer,0
+CUST00257,82,1,1105.48,5,0.17,1,12,0.29,-0.12,Central,Finished Goods,Retailer,0
+CUST00258,14,6,3516.9,24,0.44,1,1,0.13,-0.64,Central,Raw Materials,Distributor,0
+CUST00259,22,1,4874.95,94,0.17,3,6,0.17,-0.22,West,Packaging,Retailer,1
+CUST00260,71,6,3215.06,15,0.35,2,2,0.6,-0.28,South,Raw Materials,Wholesaler,0
+CUST00261,96,3,3135.49,14,0.03,0,3,0.4,-0.19,East,Industrial Equipment,Wholesaler,0
+CUST00262,22,7,2038.02,79,0.03,0,4,0.62,-0.26,North,Components,Distributor,1
+CUST00263,37,4,1996.29,27,0.33,0,4,0.27,-0.04,West,Packaging,Distributor,0
+CUST00264,112,3,9518.4,5,0.12,0,1,0.06,0.2,North,Raw Materials,Retailer,0
+CUST00265,119,3,9709.8,11,0.17,1,7,0.12,0.05,North,Raw Materials,Wholesaler,0
+CUST00266,71,0,3458.34,67,0.52,1,24,0.6,0.31,West,Industrial Equipment,Distributor,1
+CUST00267,55,3,4043.39,35,0.15,0,5,0.5,-0.19,East,Finished Goods,Retailer,0
+CUST00268,43,5,2019.34,25,0.32,3,27,0.43,0.04,East,Industrial Equipment,Wholesaler,0
+CUST00269,74,4,4931.59,14,0.11,3,0,0.54,0.05,East,Components,Wholesaler,0
+CUST00270,72,8,9116.19,25,0.2,0,3,0.41,0.27,East,Finished Goods,Retailer,0
+CUST00271,37,7,1493.57,15,0.04,1,2,0.3,-0.25,East,Components,Retailer,0
+CUST00272,4,4,4469.96,97,0.37,0,7,0.31,0.17,North,Finished Goods,Retailer,0
+CUST00273,20,5,4658.56,10,0.36,0,6,0.08,-0.29,East,Components,Distributor,0
+CUST00274,116,8,4629.4,20,0.37,1,4,0.43,-0.21,North,Packaging,Retailer,0
+CUST00275,51,6,8548.83,18,0.04,2,12,0.2,-0.15,North,Components,Wholesaler,0
+CUST00276,59,3,10612.74,18,0.29,0,6,0.02,0.08,East,Raw Materials,Wholesaler,1
+CUST00277,57,9,3046,11,0.34,2,11,0.26,-0.35,West,Packaging,Retailer,0
+CUST00278,95,2,5015.28,75,0.08,1,22,0.35,-0.32,North,Industrial Equipment,Wholesaler,0
+CUST00279,9,7,3627.61,119,0.26,2,13,0.33,-0.23,South,Components,Retailer,1
+CUST00280,11,7,2446.31,38,0.23,2,2,0.71,-0.04,Central,Finished Goods,Retailer,1
+CUST00281,34,4,4019.64,36,0.01,1,31,0.45,-0.31,West,Industrial Equipment,Retailer,0
+CUST00282,59,2,5010.67,6,0.09,2,9,0.54,0.02,Central,Packaging,Wholesaler,0
+CUST00283,81,5,3902.26,74,0.16,1,5,0.66,-0.15,West,Components,Wholesaler,0
+CUST00284,60,5,2133.14,15,0.07,0,2,0.21,0.13,North,Industrial Equipment,Retailer,0
+CUST00285,54,4,2683.94,5,0.03,0,6,0.57,-0.03,South,Raw Materials,Retailer,0
+CUST00286,113,4,2695.26,43,0.19,1,3,0.18,0.44,East,Components,Retailer,0
+CUST00287,21,7,2179.08,61,0.04,0,1,0.17,-0.02,West,Industrial Equipment,Retailer,0
+CUST00288,70,3,4115.22,73,0.1,1,2,0.37,-0.39,North,Finished Goods,Retailer,1
+CUST00289,66,4,4358.84,20,0.5,1,1,0.31,-0.11,Central,Finished Goods,Retailer,0
+CUST00290,58,10,5935.67,18,0.03,0,4,0.63,-0.04,Central,Finished Goods,Wholesaler,0
+CUST00291,98,4,2160.96,34,0.24,1,5,0.21,-0.3,North,Finished Goods,Distributor,0
+CUST00292,33,5,2520.94,25,0.1,0,8,0.19,0.37,East,Packaging,Retailer,0
+CUST00293,115,3,8143.81,44,0.1,1,9,0.24,-0.14,North,Components,Wholesaler,0
+CUST00294,41,7,3163.79,34,0.22,1,3,0.06,-0.23,South,Industrial Equipment,Retailer,0
+CUST00295,66,2,3521.25,13,0.1,0,4,0.06,0,Central,Raw Materials,Retailer,0
+CUST00296,63,6,3145.39,75,0.15,1,7,0.31,-0.3,West,Packaging,Wholesaler,1
+CUST00297,103,3,6458.59,44,0.38,0,2,0.69,0.22,South,Packaging,Retailer,0
+CUST00298,54,8,6597.82,60,0.48,1,10,0.1,0.16,North,Components,Wholesaler,0
+CUST00299,35,2,6388.56,14,0.23,3,4,0.34,-0.01,Central,Industrial Equipment,Retailer,0
+CUST00300,4,1,3514.36,43,0.22,2,12,0.63,0.12,South,Components,Distributor,1
+CUST00301,45,4,2143.42,52,0.14,0,6,0.17,-0.19,West,Raw Materials,Wholesaler,0
+CUST00302,100,4,9985.28,33,0.11,0,5,0.2,-0.47,South,Finished Goods,Wholesaler,1
+CUST00303,3,7,5546.76,11,0.09,0,14,0.49,-0.14,West,Finished Goods,Retailer,0
+CUST00304,108,2,2694.15,31,0.05,0,1,0.37,-0.19,South,Packaging,Retailer,0
+CUST00305,66,7,7578.73,49,0.12,0,8,0.18,-0.62,West,Components,Wholesaler,0
+CUST00306,18,8,2579.67,63,0.05,1,19,0.3,-0.35,North,Industrial Equipment,Wholesaler,0
+CUST00307,37,6,7524.25,7,0.16,0,7,0.43,-0.39,West,Raw Materials,Wholesaler,0
+CUST00308,67,5,7809.19,33,0.18,2,6,0.58,-0.35,Central,Finished Goods,Wholesaler,0
+CUST00309,39,6,2086.38,9,0.08,0,12,0.21,0.32,East,Components,Wholesaler,0
+CUST00310,14,13,4769.36,49,0.12,1,3,0.15,0.09,East,Components,Wholesaler,0
+CUST00311,81,3,5325.2,59,0.09,1,4,0.42,0.22,West,Components,Retailer,0
+CUST00312,81,6,14591.58,13,0.22,3,2,0.67,0.09,Central,Industrial Equipment,Distributor,0
+CUST00313,16,7,2302.46,10,0.28,0,3,0.45,0.25,Central,Components,Wholesaler,0
+CUST00314,35,8,7615.18,17,0.09,0,10,0.41,-0.04,North,Finished Goods,Retailer,0
+CUST00315,31,7,3496.58,25,0.14,0,5,0.06,0.37,South,Packaging,Retailer,0
+CUST00316,80,4,1749.79,15,0.21,1,2,0.2,-0.39,Central,Finished Goods,Wholesaler,0
+CUST00317,88,7,3242.2,52,0.04,1,15,0.17,-0.07,Central,Packaging,Wholesaler,0
+CUST00318,88,5,3468.08,63,0.24,1,13,0.34,-0.34,West,Packaging,Distributor,0
+CUST00319,113,3,1934.51,32,0.07,1,3,0.6,0.3,North,Components,Wholesaler,0
+CUST00320,93,2,4112.13,16,0.04,1,13,0.44,0.07,West,Packaging,Retailer,0
+CUST00321,40,5,5865.22,25,0.15,0,9,0.55,0.28,Central,Raw Materials,Retailer,0
+CUST00322,14,5,3948.18,32,0.32,4,7,0.57,-0.44,Central,Raw Materials,Wholesaler,1
+CUST00323,75,4,2570.83,24,0.15,4,20,0.66,-0.22,West,Raw Materials,Wholesaler,0
+CUST00324,111,4,3191.8,27,0.12,1,8,0.13,-0.55,East,Components,Distributor,1
+CUST00325,118,5,3454.74,60,0.37,1,3,0.23,0.05,Central,Packaging,Wholesaler,0
+CUST00326,29,2,3903.1,15,0.09,0,4,0.34,-0.17,West,Industrial Equipment,Distributor,1
+CUST00327,30,7,6376.71,103,0.1,1,9,0.27,0.16,East,Finished Goods,Distributor,1
+CUST00328,6,6,4022.13,32,0.06,0,20,0.4,-0.04,Central,Packaging,Wholesaler,1
+CUST00329,18,8,1601.21,23,0.24,0,8,0.37,-0.65,North,Components,Wholesaler,0
+CUST00330,68,5,2542.04,15,0.36,0,7,0.33,-0.51,North,Finished Goods,Wholesaler,1
+CUST00331,67,2,3794.51,16,0.48,1,12,0.19,-0.03,Central,Industrial Equipment,Wholesaler,0
+CUST00332,46,7,6427.03,29,0.14,0,10,0.09,0.08,North,Packaging,Distributor,0
+CUST00333,38,6,7071.41,32,0.07,0,15,0.18,-0.67,Central,Packaging,Retailer,1
+CUST00334,100,4,9191.89,22,0.2,0,6,0.15,-0.07,Central,Industrial Equipment,Distributor,1
+CUST00335,56,3,3721.34,9,0.09,0,9,0.22,-0.33,South,Industrial Equipment,Wholesaler,0
+CUST00336,98,3,5270.18,29,0.38,0,5,0.25,-0.36,Central,Raw Materials,Wholesaler,0
+CUST00337,116,2,1556.27,16,0.12,3,1,0.31,-0.23,East,Raw Materials,Retailer,1
+CUST00338,39,2,4387.15,5,0.16,0,2,0.15,-0.02,East,Components,Retailer,0
+CUST00339,26,5,1917.17,45,0.29,0,3,0.28,-0.25,Central,Components,Wholesaler,0
+CUST00340,115,7,3346.28,6,0.15,1,1,0.36,-0.61,West,Raw Materials,Retailer,0
+CUST00341,77,7,18332.14,21,0.35,0,7,0.26,-0.02,Central,Finished Goods,Retailer,0
+CUST00342,36,4,4092.68,27,0.15,1,12,0.31,-0.15,Central,Finished Goods,Retailer,0
+CUST00343,76,3,2153.61,69,0.35,2,3,0.5,-0.31,West,Finished Goods,Retailer,0
+CUST00344,63,6,4334.16,5,0.23,0,1,0.53,-0.14,East,Raw Materials,Distributor,0
+CUST00345,109,6,2606.1,49,0.28,0,3,0.35,-0.15,North,Packaging,Wholesaler,0
+CUST00346,32,3,2041.81,54,0.5,1,5,0.4,-0.04,North,Components,Wholesaler,1
+CUST00347,119,3,11011.84,83,0.04,0,12,0.18,-0.12,South,Raw Materials,Distributor,1
+CUST00348,113,2,6227.6,62,0.09,0,6,0.39,0,East,Finished Goods,Retailer,0
+CUST00349,23,3,4188.28,27,0.14,0,6,0.21,-0.06,North,Industrial Equipment,Distributor,0
+CUST00350,21,2,2791.95,50,0.23,0,9,0.35,0.18,South,Components,Distributor,1
+CUST00351,65,2,2919.2,71,0.24,2,13,0.83,0.39,West,Raw Materials,Wholesaler,0
+CUST00352,7,3,8089.85,4,0.03,0,19,0.5,-0.05,North,Packaging,Wholesaler,0
+CUST00353,37,3,4099.49,9,0.08,1,3,0.65,-0.22,South,Raw Materials,Distributor,1
+CUST00354,53,6,635.53,35,0.21,1,6,0.67,-0.45,Central,Components,Retailer,0
+CUST00355,117,4,13115.06,54,0.53,1,3,0.36,0.13,South,Packaging,Retailer,0
+CUST00356,120,4,3830.25,44,0.12,0,8,0.5,-0.3,West,Raw Materials,Retailer,1
+CUST00357,20,7,4183.29,37,0.1,2,1,0.17,0.61,West,Finished Goods,Retailer,0
+CUST00358,108,2,6296.08,82,0.46,3,23,0.41,0.73,West,Packaging,Retailer,1
+CUST00359,12,3,4473.7,22,0.31,0,9,0.29,-0.11,West,Raw Materials,Distributor,1
+CUST00360,91,4,5222.86,16,0.11,1,8,0.08,-0.52,East,Packaging,Retailer,0
+CUST00361,102,4,2743.4,19,0.1,0,3,0.53,0.13,Central,Raw Materials,Wholesaler,0
+CUST00362,108,4,1760.96,35,0.32,0,4,0.67,0.54,South,Industrial Equipment,Retailer,0
+CUST00363,28,1,4040.52,27,0.24,0,1,0.25,-0.42,South,Raw Materials,Retailer,0
+CUST00364,108,4,7611.29,56,0.04,0,3,0.22,0.48,East,Packaging,Distributor,0
+CUST00365,15,7,2425.3,16,0.32,1,13,0.45,-0.57,West,Components,Distributor,0
+CUST00366,63,4,2320.61,38,0.51,0,1,0.63,-0.46,West,Raw Materials,Wholesaler,1
+CUST00367,57,6,6778.84,50,0,0,27,0.09,0.04,Central,Components,Wholesaler,0
+CUST00368,39,4,2693.28,71,0.08,0,15,0.21,0.23,East,Industrial Equipment,Distributor,0
+CUST00369,4,10,2763.33,10,0.34,0,8,0.46,-0.07,West,Components,Retailer,0
+CUST00370,93,3,2820.79,19,0.17,1,2,0.17,0.08,North,Industrial Equipment,Wholesaler,0
+CUST00371,41,3,3341.79,25,0.1,0,11,0.28,0.26,North,Components,Retailer,0
+CUST00372,80,7,1457.53,7,0.33,2,10,0.11,0.29,Central,Components,Retailer,0
+CUST00373,50,5,2574.38,37,0.11,1,3,0.47,-0.22,East,Finished Goods,Distributor,0
+CUST00374,46,4,3931.21,36,0.18,0,9,0.27,-0.29,South,Finished Goods,Distributor,0
+CUST00375,107,2,3915.82,34,0.25,0,5,0.33,0.25,West,Industrial Equipment,Wholesaler,0
+CUST00376,13,7,6547.88,24,0.08,0,1,0.24,0.08,South,Packaging,Retailer,0
+CUST00377,89,5,9524.91,66,0.13,2,2,0.21,0.11,North,Raw Materials,Wholesaler,0
+CUST00378,90,4,7957.47,19,0.08,2,15,0.52,-0.24,East,Packaging,Distributor,1
+CUST00379,47,3,5727.64,62,0.07,1,4,0.44,0.13,North,Components,Distributor,0
+CUST00380,33,3,3191.34,19,0.19,0,3,0.1,-0.36,Central,Packaging,Wholesaler,0
+CUST00381,2,9,2458.51,10,0.24,2,7,0.54,0.02,South,Raw Materials,Wholesaler,0
+CUST00382,113,3,3497.6,27,0.42,2,0,0.05,-0.02,South,Finished Goods,Retailer,0
+CUST00383,114,5,4779.39,32,0.16,1,6,0.46,-0.02,Central,Raw Materials,Retailer,0
+CUST00384,30,4,5442.89,39,0.07,0,7,0.23,0.17,North,Raw Materials,Retailer,1
+CUST00385,5,6,4879.01,2,0.25,0,10,0.12,-0.34,West,Raw Materials,Wholesaler,0
+CUST00386,16,6,3240.08,22,0.03,2,2,0.23,0.14,Central,Components,Distributor,1
+CUST00387,10,4,5338.9,98,0.53,0,3,0.24,-0.04,North,Raw Materials,Distributor,1
+CUST00388,100,5,6929.06,17,0.16,0,7,0.28,-0.27,Central,Components,Retailer,0
+CUST00389,108,7,5620.01,54,0.03,1,2,0.41,-0.42,West,Industrial Equipment,Retailer,0
+CUST00390,20,3,3402.93,164,0.13,1,7,0.19,0.48,North,Industrial Equipment,Retailer,1
+CUST00391,90,7,2189.4,110,0.14,0,7,0.29,-0.07,Central,Raw Materials,Wholesaler,1
+CUST00392,23,6,2161.02,11,0.23,2,0,0.37,-0.15,Central,Components,Distributor,0
+CUST00393,45,4,2381.13,51,0.29,0,13,0.11,-0.37,Central,Finished Goods,Distributor,0
+CUST00394,73,3,3989.38,53,0.32,0,2,0.61,0.25,Central,Raw Materials,Distributor,1
+CUST00395,87,3,4609.58,46,0.17,0,6,0.46,0.23,West,Packaging,Wholesaler,0
+CUST00396,106,5,1590.82,10,0.13,0,23,0.43,0.18,North,Packaging,Wholesaler,0
+CUST00397,7,6,2624.91,34,0.08,1,2,0.07,-0.07,West,Components,Distributor,1
+CUST00398,25,5,3959.24,34,0.27,1,9,0.06,0.16,West,Packaging,Wholesaler,0
+CUST00399,35,3,2111.55,8,0.18,0,28,0.7,-0.28,West,Components,Retailer,1
+CUST00400,38,3,4396.87,23,0.18,1,10,0.14,0.01,North,Raw Materials,Retailer,0
+CUST00401,120,1,2924.6,35,0.11,0,15,0.36,-0.07,West,Raw Materials,Retailer,0
+CUST00402,94,2,2326.5,27,0.5,1,2,0.24,0.02,Central,Industrial Equipment,Retailer,0
+CUST00403,40,6,3566.23,48,0.31,0,19,0.58,-0.56,North,Finished Goods,Wholesaler,1
+CUST00404,117,1,4297.35,22,0.15,0,1,0.59,0.47,North,Components,Wholesaler,0
+CUST00405,61,6,2171.79,31,0.38,1,9,0.37,0.4,North,Finished Goods,Retailer,1
+CUST00406,61,2,3030.74,57,0.17,1,6,0.6,-0.37,West,Packaging,Retailer,0
+CUST00407,53,5,4479.3,90,0.28,1,4,0.57,0.11,South,Raw Materials,Retailer,0
+CUST00408,19,4,2277.54,9,0.08,0,4,0.09,-0.47,Central,Finished Goods,Distributor,0
+CUST00409,113,1,1391.63,47,0.2,1,10,0.36,-0.03,Central,Components,Retailer,0
+CUST00410,3,6,1487.55,20,0.74,3,3,0.19,-0.66,North,Finished Goods,Retailer,1
+CUST00411,22,7,2751.97,39,0.09,0,4,0.13,-0.13,West,Finished Goods,Wholesaler,0
+CUST00412,29,2,1677.18,9,0.07,0,10,0.46,-0.19,West,Raw Materials,Wholesaler,0
+CUST00413,35,6,2860.5,67,0.21,0,15,0.33,0.27,North,Components,Retailer,0
+CUST00414,17,1,8653.5,15,0.18,0,5,0.48,0.42,North,Finished Goods,Distributor,0
+CUST00415,4,7,1622.58,58,0.07,0,20,0.06,0.42,Central,Packaging,Wholesaler,0
+CUST00416,82,4,2964.81,10,0.16,0,7,0.31,0.27,North,Components,Wholesaler,0
+CUST00417,117,2,11189.91,7,0.08,0,6,0.65,-0.03,North,Raw Materials,Wholesaler,0
+CUST00418,16,5,4334.98,24,0.11,1,38,0.29,0.06,Central,Components,Retailer,0
+CUST00419,37,5,2829.21,34,0.06,0,8,0.35,0.06,West,Industrial Equipment,Retailer,0
+CUST00420,62,7,3177.07,116,0.31,0,25,0.08,-0.38,Central,Components,Wholesaler,1
+CUST00421,112,3,4385.9,33,0.16,0,36,0.35,0.27,South,Raw Materials,Retailer,0
+CUST00422,84,1,8801.47,11,0.04,1,2,0.08,0.14,West,Components,Retailer,0
+CUST00423,93,3,2586.42,51,0.39,0,3,0.54,0.16,West,Raw Materials,Retailer,1
+CUST00424,71,4,2283.16,75,0.17,1,1,0.31,-0.69,Central,Finished Goods,Wholesaler,1
+CUST00425,51,9,1622.39,14,0.07,0,11,0.18,0.08,South,Components,Distributor,0
+CUST00426,25,3,3665.44,56,0.3,4,11,0.73,0.23,North,Components,Wholesaler,0
+CUST00427,104,4,1598.58,68,0.54,0,3,0.49,-0.05,South,Finished Goods,Distributor,0
+CUST00428,97,5,2683.61,52,0.18,1,0,0.41,-0.19,East,Industrial Equipment,Wholesaler,0
+CUST00429,4,6,2101.12,17,0.29,2,9,0.36,-0.43,East,Industrial Equipment,Wholesaler,1
+CUST00430,87,3,6252.7,34,0.26,2,1,0.17,-0.45,Central,Packaging,Retailer,0
+CUST00431,12,1,2618.57,39,0.23,2,5,0.69,-0.01,West,Industrial Equipment,Retailer,0
+CUST00432,89,5,4308.36,66,0.23,1,11,0.18,-0.12,Central,Finished Goods,Retailer,0
+CUST00433,100,2,1433.32,18,0.09,0,7,0.19,-0.12,West,Finished Goods,Retailer,0
+CUST00434,17,2,3723.16,57,0.58,5,14,0.32,0.38,South,Finished Goods,Wholesaler,0
+CUST00435,53,1,1786.94,26,0.05,2,5,0.29,-0.4,Central,Packaging,Retailer,1
+CUST00436,16,9,2740.49,22,0.08,0,3,0.29,-0.15,South,Raw Materials,Retailer,0
+CUST00437,69,1,11686.17,30,0.25,3,2,0.53,0.42,Central,Industrial Equipment,Distributor,0
+CUST00438,112,4,5783.1,2,0.15,1,11,0.23,-0.14,West,Packaging,Retailer,0
+CUST00439,11,4,3227.21,3,0.47,4,6,0.06,-0.03,South,Packaging,Distributor,0
+CUST00440,49,6,20118.96,4,0.07,2,3,0.58,-0.1,North,Finished Goods,Distributor,0
+CUST00441,117,1,2093.63,41,0.12,0,8,0.41,0.15,Central,Components,Retailer,0
+CUST00442,37,7,6573.94,24,0.07,1,1,0.43,-0.63,West,Finished Goods,Retailer,0
+CUST00443,17,7,1490.74,17,0.33,0,6,0.75,-0.11,North,Finished Goods,Distributor,0
+CUST00444,60,4,3028.56,28,0.08,1,8,0.24,-0.03,South,Raw Materials,Distributor,0
+CUST00445,62,2,1650.31,58,0.35,2,9,0.38,-0.33,East,Components,Distributor,1
+CUST00446,80,7,3989.82,27,0.27,1,20,0.12,0.05,East,Raw Materials,Retailer,0
+CUST00447,39,5,3571.65,11,0.15,1,5,0.59,0.17,South,Components,Wholesaler,0
+CUST00448,115,2,2924.22,129,0.12,3,8,0.33,0.08,North,Packaging,Retailer,1
+CUST00449,64,3,6314.67,29,0.2,1,9,0.14,0.45,West,Components,Retailer,0
+CUST00450,36,8,2535.37,69,0.26,1,6,0.3,-0.17,West,Raw Materials,Retailer,0
+CUST00451,116,2,4145.46,52,0.33,1,2,0.47,0.09,West,Industrial Equipment,Wholesaler,0
+CUST00452,112,3,5438.75,21,0.28,1,12,0.4,0.08,Central,Finished Goods,Wholesaler,0
+CUST00453,61,4,1531.85,89,0.1,1,0,0.21,-0.12,South,Raw Materials,Distributor,0
+CUST00454,4,7,2294.73,18,0.38,1,2,0.56,0.27,East,Packaging,Retailer,0
+CUST00455,73,7,3567.51,40,0.13,0,4,0.4,0.03,South,Raw Materials,Distributor,0
+CUST00456,68,3,4898.01,36,0.29,2,2,0.27,-0.39,Central,Packaging,Retailer,0
+CUST00457,19,3,7567.97,39,0.16,0,6,0.35,0.16,East,Packaging,Distributor,0
+CUST00458,77,7,3075.63,79,0.27,2,16,0.59,-0.19,East,Packaging,Wholesaler,1
+CUST00459,102,1,2910.09,30,0.43,1,26,0.34,-0.14,West,Raw Materials,Retailer,1
+CUST00460,14,5,2143.24,35,0.25,1,6,0.47,-0.12,South,Finished Goods,Distributor,1
+CUST00461,88,3,4152.61,36,0.47,4,8,0.19,0.16,South,Finished Goods,Wholesaler,1
+CUST00462,18,8,2941.24,113,0.05,1,6,0.12,0.25,Central,Industrial Equipment,Retailer,0
+CUST00463,91,8,2978.82,65,0.33,2,5,0.56,-0.09,North,Components,Retailer,0
+CUST00464,51,9,3289.07,7,0.43,1,6,0.6,-0.11,North,Finished Goods,Distributor,0
+CUST00465,2,0,4690.97,88,0.09,1,22,0.47,-0.62,Central,Packaging,Distributor,1
+CUST00466,116,6,2540.07,32,0.04,0,0,0.07,-0.25,South,Raw Materials,Wholesaler,0
+CUST00467,21,3,2264.96,78,0.13,2,13,0.17,-0.32,West,Industrial Equipment,Retailer,0
+CUST00468,72,12,4391.6,84,0.21,0,2,0.59,0.04,West,Packaging,Retailer,0
+CUST00469,23,6,655.8,29,0.32,0,5,0.19,-0.08,North,Packaging,Retailer,0
+CUST00470,113,3,2484.87,18,0.03,0,2,0.45,-0.3,North,Industrial Equipment,Wholesaler,0
+CUST00471,89,3,1838.64,26,0.06,1,1,0.63,-0.01,Central,Industrial Equipment,Wholesaler,0
+CUST00472,97,0,6712.94,97,0.5,0,14,0.04,-0.07,Central,Components,Retailer,1
+CUST00473,53,5,2717.55,24,0.3,2,3,0.2,-0.76,South,Packaging,Distributor,0
+CUST00474,57,5,2544.29,70,0.19,0,6,0.22,0.26,East,Industrial Equipment,Distributor,0
+CUST00475,77,4,3371.99,22,0.13,1,9,0.27,0.23,Central,Raw Materials,Retailer,0
+CUST00476,95,6,2496.25,14,0.1,0,20,0.19,-0.12,South,Industrial Equipment,Wholesaler,0
+CUST00477,102,7,2775.38,25,0.17,0,1,0.27,0.05,West,Components,Wholesaler,0
+CUST00478,4,8,3653.39,38,0.23,1,21,0.51,-0.14,South,Industrial Equipment,Retailer,0
+CUST00479,80,4,2745.94,71,0.01,0,8,0.52,-0.5,Central,Finished Goods,Wholesaler,0
+CUST00480,14,8,2735.12,13,0.15,3,7,0.45,0.56,South,Packaging,Retailer,0
+CUST00481,36,6,1987.06,38,0.23,1,4,0.36,0.16,East,Raw Materials,Retailer,0
+CUST00482,100,5,1836.14,39,0.19,1,4,0.46,0.21,West,Industrial Equipment,Distributor,0
+CUST00483,31,3,3580.83,44,0.22,0,1,0.74,-0.13,West,Packaging,Retailer,0
+CUST00484,96,1,4099.54,22,0.34,1,16,0.6,0.27,North,Finished Goods,Wholesaler,0
+CUST00485,57,2,1578.95,43,0.14,0,1,0.6,-0.43,North,Finished Goods,Retailer,0
+CUST00486,29,7,5260.43,51,0.03,0,3,0.76,-0.12,Central,Components,Wholesaler,0
+CUST00487,41,5,5272.32,22,0.31,2,15,0.6,0.16,West,Raw Materials,Wholesaler,0
+CUST00488,65,7,5919.92,35,0.09,0,5,0.49,-0.23,North,Finished Goods,Distributor,0
+CUST00489,93,4,4084.44,26,0.25,2,2,0.16,0.2,West,Industrial Equipment,Retailer,0
+CUST00490,74,5,4916.71,16,0.08,0,12,0.12,0.04,South,Industrial Equipment,Wholesaler,0
+CUST00491,113,2,11519.13,9,0.18,1,4,0.27,0.01,East,Finished Goods,Distributor,0
+CUST00492,105,5,2934.12,18,0.16,1,3,0.5,-0.25,West,Raw Materials,Retailer,0
+CUST00493,91,2,1948.61,19,0.36,3,1,0.48,0.06,West,Finished Goods,Retailer,0
+CUST00494,73,2,1489.61,9,0.13,0,4,0.25,0.49,South,Components,Retailer,0
+CUST00495,36,3,9096.28,41,0.22,0,4,0.15,0,Central,Industrial Equipment,Distributor,0
+CUST00496,51,6,9162.12,54,0.5,3,9,0.18,0.11,East,Components,Retailer,1
+CUST00497,16,6,2082.8,26,0.31,1,3,0.55,0.15,Central,Packaging,Retailer,1
+CUST00498,46,4,2321.51,29,0.09,0,17,0.21,-0.37,East,Raw Materials,Distributor,0
+CUST00499,112,4,2898.08,20,0.07,0,15,0.35,-0.09,South,Finished Goods,Retailer,1
+CUST00500,52,4,6790.92,28,0.17,2,15,0.18,-0.1,South,Finished Goods,Retailer,0
+CUST00501,15,2,1706.13,44,0.37,1,7,0.31,-0.64,North,Raw Materials,Wholesaler,1
+CUST00502,79,4,1174.22,38,0.07,0,11,0.21,0.17,East,Industrial Equipment,Retailer,0
+CUST00503,116,0,11408.72,104,0.12,0,11,0.48,-0.31,East,Industrial Equipment,Wholesaler,0
+CUST00504,105,5,4112.58,19,0.27,0,14,0.37,0.14,Central,Components,Retailer,0
+CUST00505,34,8,4446.74,51,0.1,0,15,0.18,-0.26,South,Raw Materials,Wholesaler,0
+CUST00506,56,13,3093.91,21,0.17,0,11,0.51,0.52,North,Raw Materials,Wholesaler,0
+CUST00507,65,8,4474.64,10,0.07,3,11,0.08,-0.13,Central,Components,Retailer,0
+CUST00508,31,6,1505.96,33,0.45,1,10,0.54,0.49,East,Finished Goods,Wholesaler,1
+CUST00509,33,4,2180.9,5,0.38,0,11,0.36,-0.1,North,Packaging,Distributor,0
+CUST00510,30,3,3669.6,37,0.21,1,7,0.37,-0.06,South,Raw Materials,Retailer,0
+CUST00511,120,4,993.28,39,0.08,2,3,0.41,0.39,Central,Components,Distributor,0
+CUST00512,90,4,2932.51,18,0.38,1,2,0.18,-0.31,Central,Components,Distributor,0
+CUST00513,102,1,2834.75,20,0.02,2,1,0.28,-0.04,East,Raw Materials,Retailer,0
+CUST00514,99,10,2932.24,56,0.06,0,2,0.21,0.1,North,Industrial Equipment,Wholesaler,0
+CUST00515,116,4,2557.81,106,0.15,0,14,0.12,0.06,West,Components,Distributor,1
+CUST00516,14,7,2002.72,30,0.09,1,19,0.1,-0.04,North,Finished Goods,Wholesaler,0
+CUST00517,106,3,1271.41,18,0.3,1,11,0.13,-0.08,South,Finished Goods,Distributor,0
+CUST00518,9,6,3750.37,39,0.03,1,8,0.26,0.19,East,Components,Retailer,0
+CUST00519,58,1,2936.38,27,0.07,1,1,0.39,0,West,Raw Materials,Distributor,1
+CUST00520,72,2,1625.54,37,0.2,0,6,0.3,0.22,West,Components,Retailer,0
+CUST00521,44,6,3584.57,33,0.1,0,3,0.55,0.06,East,Raw Materials,Wholesaler,0
+CUST00522,19,4,2944.74,34,0.02,0,3,0.46,0.13,North,Raw Materials,Distributor,1
+CUST00523,24,6,2687.69,3,0.26,2,7,0.48,0.27,North,Raw Materials,Retailer,1
+CUST00524,100,6,1057.55,20,0.08,3,11,0.15,-0.14,Central,Industrial Equipment,Wholesaler,0
+CUST00525,39,6,5041.82,18,0.31,0,6,0.61,0.26,West,Components,Wholesaler,0
+CUST00526,38,10,1757.81,18,0.29,4,29,0.45,-0.09,South,Packaging,Distributor,0
+CUST00527,111,3,3586.02,46,0.14,2,8,0.13,-0.44,West,Finished Goods,Wholesaler,1
+CUST00528,19,6,2220.42,10,0.15,1,1,0.25,-0.14,Central,Raw Materials,Wholesaler,0
+CUST00529,110,1,2796.71,3,0.17,0,23,0.54,-0.25,North,Packaging,Retailer,1
+CUST00530,111,5,6527.38,18,0.25,2,6,0.08,0.06,Central,Finished Goods,Retailer,0
+CUST00531,73,4,4639.63,15,0.29,1,19,0.44,-0.13,South,Industrial Equipment,Retailer,1
+CUST00532,21,3,6447.98,30,0.24,0,1,0.34,-0.01,West,Finished Goods,Wholesaler,0
+CUST00533,20,5,4153.52,15,0.16,4,3,0.44,0.23,East,Finished Goods,Wholesaler,0
+CUST00534,35,6,4306.49,24,0.36,0,2,0.42,0.37,West,Components,Retailer,0
+CUST00535,70,6,1300.33,21,0.35,2,14,0.08,0.03,North,Finished Goods,Retailer,1
+CUST00536,20,3,2908.41,68,0.27,1,16,0.6,0.25,West,Finished Goods,Retailer,0
+CUST00537,56,10,3060.4,15,0.02,0,10,0.37,-0.1,Central,Finished Goods,Distributor,0
+CUST00538,15,7,6788.71,44,0.21,2,8,0.47,-0.49,West,Raw Materials,Retailer,1
+CUST00539,66,5,2621.69,27,0.13,0,1,0.09,-0.38,West,Raw Materials,Wholesaler,0
+CUST00540,4,7,4006.5,57,0.55,2,3,0.26,-0.1,North,Packaging,Distributor,0
+CUST00541,86,5,3921.25,83,0.23,1,3,0.14,0.17,South,Components,Distributor,0
+CUST00542,8,2,6546.73,27,0.14,0,1,0.65,-0.1,Central,Components,Wholesaler,0
+CUST00543,25,4,3217.76,5,0.23,2,6,0.56,0.28,East,Components,Retailer,0
+CUST00544,22,7,5460.43,10,0.27,0,10,0.18,0.46,East,Finished Goods,Retailer,1
+CUST00545,100,4,1356.04,8,0.5,0,13,0.43,-0.3,North,Packaging,Retailer,0
+CUST00546,8,4,1425.52,20,0.37,5,10,0.09,0.54,West,Components,Distributor,0
+CUST00547,53,3,986.5,17,0.16,0,5,0.19,-0.51,East,Raw Materials,Retailer,1
+CUST00548,72,4,5336.32,34,0.03,1,4,0.53,0.47,East,Components,Retailer,0
+CUST00549,63,2,5016.65,54,0.25,1,5,0.06,-0.06,Central,Industrial Equipment,Retailer,1
+CUST00550,83,3,5671.76,5,0.08,0,6,0.3,-0.12,West,Raw Materials,Wholesaler,0
+CUST00551,97,3,2386.18,29,0.3,0,2,0.31,-0.05,East,Industrial Equipment,Retailer,0
+CUST00552,48,6,2540.33,15,0.1,1,4,0.58,-0.27,South,Raw Materials,Retailer,0
+CUST00553,100,2,3240.31,30,0.27,1,3,0.2,0.37,West,Components,Retailer,0
+CUST00554,39,3,7662.05,20,0.41,1,21,0.77,-0.24,East,Packaging,Wholesaler,1
+CUST00555,119,5,8792.07,48,0.16,0,13,0.3,-0.21,South,Industrial Equipment,Retailer,0
+CUST00556,62,3,5359.33,11,0.4,3,10,0.13,-0.44,South,Raw Materials,Wholesaler,0
+CUST00557,89,3,4154.97,16,0.03,0,2,0.01,-0.25,South,Industrial Equipment,Wholesaler,0
+CUST00558,106,4,7218.92,26,0.53,3,11,0.44,-0.25,West,Raw Materials,Wholesaler,0
+CUST00559,96,3,3008.77,22,0.32,1,3,0.29,-0.26,East,Raw Materials,Retailer,0
+CUST00560,103,9,2793.31,26,0.17,0,12,0.07,-0.1,South,Finished Goods,Wholesaler,0
+CUST00561,65,3,3226.13,6,0.21,1,5,0.41,-0.36,North,Raw Materials,Wholesaler,0
+CUST00562,7,8,2021.73,74,0.33,2,15,0.23,0.4,Central,Raw Materials,Retailer,0
+CUST00563,60,6,3145.55,19,0.19,0,1,0.43,-0.09,Central,Raw Materials,Retailer,0
+CUST00564,23,9,1873.24,12,0.27,3,11,0.17,0.05,Central,Components,Distributor,0
+CUST00565,107,3,6086.05,26,0.61,2,16,0.31,0.19,West,Packaging,Retailer,0
+CUST00566,30,6,4670.53,29,0.12,0,5,0.33,0.52,Central,Finished Goods,Wholesaler,0
+CUST00567,29,3,7602.7,97,0.13,1,5,0.32,0.2,West,Components,Retailer,0
+CUST00568,31,4,1413.6,60,0.26,0,6,0.4,-0.12,Central,Industrial Equipment,Wholesaler,0
+CUST00569,78,5,9856.96,21,0.29,1,10,0.33,-0.35,Central,Raw Materials,Retailer,0
+CUST00570,69,4,1458.46,85,0.28,3,4,0.36,0.04,East,Industrial Equipment,Wholesaler,0
+CUST00571,114,4,1791.72,74,0.01,0,3,0.21,0.25,South,Components,Retailer,0
+CUST00572,51,6,2461.55,12,0.11,2,23,0.13,-0.01,Central,Components,Retailer,0
+CUST00573,35,9,7109.92,111,0.24,0,5,0.1,-0.03,Central,Raw Materials,Wholesaler,1
+CUST00574,7,9,3920.86,19,0.07,0,6,0.53,0.01,East,Industrial Equipment,Retailer,0
+CUST00575,2,9,3028.72,32,0.44,0,4,0.15,-0.57,Central,Raw Materials,Retailer,0
+CUST00576,46,6,2239.61,67,0.16,2,10,0.13,-0.01,North,Components,Distributor,0
+CUST00577,112,3,1624.96,5,0.17,4,3,0.92,0.16,Central,Industrial Equipment,Distributor,1
+CUST00578,64,5,6457.16,26,0.02,1,5,0.38,-0.06,North,Industrial Equipment,Retailer,0
+CUST00579,108,2,5373.59,36,0.08,0,14,0.66,0.26,North,Finished Goods,Wholesaler,0
+CUST00580,14,4,7287,58,0.19,1,13,0.31,0.27,North,Components,Retailer,0
+CUST00581,13,5,4308.09,28,0.07,1,4,0.06,-0.19,North,Raw Materials,Wholesaler,0
+CUST00582,101,7,809.85,5,0.19,1,6,0.03,0.07,North,Raw Materials,Wholesaler,0
+CUST00583,14,11,1746.69,96,0.09,0,2,0.56,-0.04,South,Industrial Equipment,Wholesaler,0
+CUST00584,8,3,4472.39,29,0.17,0,6,0.11,-0.62,South,Components,Retailer,1
+CUST00585,50,5,2826.11,37,0.27,0,26,0.22,-0.1,East,Components,Retailer,1
+CUST00586,112,2,2546.91,7,0.36,3,12,0.26,-0.34,Central,Raw Materials,Wholesaler,0
+CUST00587,84,3,1887.91,72,0.25,1,2,0.5,-0.01,East,Raw Materials,Wholesaler,0
+CUST00588,13,4,5832.34,19,0.27,0,1,0.34,0.14,South,Raw Materials,Wholesaler,0
+CUST00589,101,4,4451.1,15,0.23,1,3,0.18,-0.11,North,Raw Materials,Retailer,0
+CUST00590,102,3,4562.63,62,0.05,1,2,0.17,-0.3,Central,Packaging,Retailer,0
+CUST00591,97,3,2444.31,8,0.41,1,6,0.06,0.02,South,Packaging,Wholesaler,0
+CUST00592,109,2,3816,37,0.12,2,15,0.66,0.63,Central,Finished Goods,Retailer,0
+CUST00593,30,6,1659.43,15,0.39,0,6,0.3,-0.66,West,Raw Materials,Distributor,0
+CUST00594,118,3,3224.7,40,0.07,1,3,0.03,0.02,Central,Industrial Equipment,Wholesaler,0
+CUST00595,40,9,862.33,48,0.45,0,5,0.43,-0.2,North,Industrial Equipment,Distributor,0
+CUST00596,97,2,1461.96,19,0.14,1,9,0.27,-0.17,West,Raw Materials,Retailer,0
+CUST00597,70,3,2900.76,69,0.23,0,7,0.74,-0.08,West,Packaging,Retailer,0
+CUST00598,94,3,12788.67,29,0.14,0,3,0.48,-0.15,Central,Industrial Equipment,Distributor,0
+CUST00599,76,8,1286.39,97,0.08,0,12,0.17,0.12,West,Components,Wholesaler,1
+CUST00600,78,9,1747.66,62,0.22,1,2,0.4,-0.12,North,Raw Materials,Retailer,0
+CUST00601,75,4,3901.93,32,0.09,0,7,0.18,-0.66,East,Industrial Equipment,Distributor,0
+CUST00602,94,4,9165.32,31,0.13,2,4,0.48,0.31,East,Finished Goods,Retailer,0
+CUST00603,89,4,3870.72,9,0.2,1,5,0.4,0.27,East,Packaging,Wholesaler,0
+CUST00604,18,2,5095.83,62,0.43,1,2,0.15,-0.22,South,Industrial Equipment,Retailer,1
+CUST00605,100,6,2876.47,17,0.11,1,6,0.59,-0.04,Central,Components,Distributor,0
+CUST00606,65,3,2615.36,34,0.44,1,2,0.28,0.29,South,Finished Goods,Distributor,0
+CUST00607,40,6,3623.52,96,0.42,0,4,0.13,0.24,East,Packaging,Retailer,0
+CUST00608,63,2,2411.35,69,0.34,0,5,0.23,0.33,East,Components,Retailer,0
+CUST00609,117,8,5158.23,13,0.39,3,3,0.05,0.05,West,Raw Materials,Wholesaler,0
+CUST00610,104,2,1431.6,29,0.05,0,17,0.35,0.17,East,Finished Goods,Retailer,0
+CUST00611,101,5,5650.46,37,0.01,2,4,0.17,0.34,Central,Components,Wholesaler,0
+CUST00612,57,3,3539.08,74,0.42,0,5,0.26,-0.15,Central,Industrial Equipment,Wholesaler,0
+CUST00613,95,1,3077.59,67,0.06,0,6,0.17,0.07,East,Industrial Equipment,Retailer,0
+CUST00614,47,4,1402.99,44,0.32,0,1,0.41,-0.65,South,Components,Distributor,0
+CUST00615,83,7,2020.53,41,0.06,2,1,0.14,-0.49,West,Packaging,Wholesaler,0
+CUST00616,78,5,6695.95,29,0.05,2,5,0.29,0.09,Central,Raw Materials,Retailer,0
+CUST00617,31,7,3087.97,36,0.07,0,1,0.75,0.13,Central,Finished Goods,Wholesaler,1
+CUST00618,33,4,4036.44,24,0.05,0,8,0.39,-0.16,North,Components,Distributor,0
+CUST00619,9,4,2135.08,51,0.36,1,8,0.19,-0.22,North,Raw Materials,Wholesaler,0
+CUST00620,18,3,3408.47,42,0.28,0,8,0.14,-0.15,West,Finished Goods,Distributor,0
+CUST00621,53,6,1628.34,60,0.24,0,11,0.25,0,South,Raw Materials,Retailer,0
+CUST00622,58,5,3658.96,59,0.05,0,5,0.54,-0.7,South,Finished Goods,Retailer,1
+CUST00623,21,5,4246.51,17,0.12,0,17,0.51,0.08,North,Finished Goods,Wholesaler,0
+CUST00624,51,4,4131.26,2,0.17,2,7,0.79,-0.04,Central,Raw Materials,Retailer,1
+CUST00625,73,6,2107.02,16,0.06,3,16,0.19,0.02,North,Components,Retailer,0
+CUST00626,29,3,2869.44,36,0.15,2,11,0.14,-0.08,West,Packaging,Wholesaler,0
+CUST00627,42,2,4653.88,24,0.15,1,5,0.39,-0.44,Central,Industrial Equipment,Retailer,1
+CUST00628,45,0,3083.16,55,0.13,1,7,0.11,-0.36,North,Finished Goods,Retailer,0
+CUST00629,62,4,2957.15,15,0.15,0,9,0.53,0.38,West,Packaging,Retailer,0
+CUST00630,45,3,9866.57,40,0.02,1,1,0.6,-0.23,Central,Finished Goods,Retailer,1
+CUST00631,89,1,2052.79,5,0.23,1,1,0.25,0.18,East,Raw Materials,Retailer,0
+CUST00632,40,7,6274.38,44,0.33,1,20,0.27,-0.35,South,Raw Materials,Retailer,0
+CUST00633,53,2,1835.23,44,0.17,1,9,0.32,-0.05,West,Components,Distributor,0
+CUST00634,47,5,4964.81,59,0.05,0,14,0.34,-0.17,Central,Packaging,Retailer,0
+CUST00635,23,4,5112.71,175,0.27,0,5,0.44,-0.13,East,Industrial Equipment,Retailer,1
+CUST00636,83,4,2615.73,2,0.01,0,17,0.16,-0.15,North,Industrial Equipment,Distributor,0
+CUST00637,30,4,1772.93,43,0.15,1,5,0.51,0.35,West,Finished Goods,Distributor,1
+CUST00638,37,4,1171.76,49,0.05,1,9,0.59,0.49,South,Packaging,Retailer,0
+CUST00639,96,6,2469.29,16,0.03,0,18,0.25,0.02,Central,Finished Goods,Distributor,0
+CUST00640,114,6,4625.87,25,0.14,1,10,0.36,-0.17,South,Finished Goods,Distributor,0
+CUST00641,81,6,1914.68,20,0.37,3,2,0.39,-0.42,West,Raw Materials,Wholesaler,1
+CUST00642,111,5,3653.06,45,0.17,2,5,0.66,-0.44,West,Packaging,Wholesaler,1
+CUST00643,103,4,1537.58,64,0.12,1,8,0.38,0.36,East,Components,Wholesaler,0
+CUST00644,59,2,3045.32,10,0.04,0,10,0.08,-0.46,West,Packaging,Distributor,0
+CUST00645,93,3,1842.96,40,0.41,1,15,0.78,-0.17,Central,Raw Materials,Wholesaler,1
+CUST00646,41,5,3317.98,73,0.02,1,10,0.22,-0.01,West,Packaging,Distributor,1
+CUST00647,56,3,2629.12,17,0.41,0,6,0.16,-0.78,West,Finished Goods,Retailer,1
+CUST00648,65,4,1799.56,14,0.1,0,5,0.35,-0.4,North,Industrial Equipment,Wholesaler,0
+CUST00649,116,7,2410.57,12,0.23,0,5,0.35,-0.42,South,Packaging,Distributor,0
+CUST00650,102,6,2071.88,14,0.11,1,4,0.14,-0.24,East,Raw Materials,Retailer,0
+CUST00651,60,4,1681.33,95,0.14,0,4,0.16,0.02,North,Components,Retailer,0
+CUST00652,79,3,6282.42,110,0.27,0,13,0.5,0.24,East,Finished Goods,Distributor,1
+CUST00653,26,5,2840.98,79,0.21,0,7,0.51,-0.24,North,Industrial Equipment,Wholesaler,0
+CUST00654,97,1,1031.51,23,0.16,1,4,0.09,-0.18,South,Finished Goods,Wholesaler,0
+CUST00655,67,5,2458.23,81,0.04,1,6,0.08,-0.08,North,Finished Goods,Distributor,0
+CUST00656,65,5,5727.83,12,0.49,1,4,0.45,-0.28,East,Components,Retailer,1
+CUST00657,93,3,2278.45,52,0.23,0,1,0.19,0.07,East,Finished Goods,Wholesaler,0
+CUST00658,77,4,7893.22,18,0.47,1,10,0.13,0.08,East,Components,Wholesaler,0
+CUST00659,10,5,2162.1,10,0.03,1,14,0.4,-0.81,Central,Raw Materials,Retailer,1
+CUST00660,36,12,4568.2,39,0.07,0,12,0.24,0.13,East,Packaging,Retailer,0
+CUST00661,23,4,6125.11,40,0.04,2,12,0.2,-0.01,North,Packaging,Wholesaler,0
+CUST00662,89,7,4436.44,43,0.23,1,2,0.26,0.02,West,Finished Goods,Wholesaler,0
+CUST00663,6,6,1626.24,46,0.49,2,17,0.32,0.28,Central,Packaging,Wholesaler,0
+CUST00664,26,4,2062.43,38,0.29,0,3,0.22,-0.55,South,Finished Goods,Wholesaler,0
+CUST00665,73,6,6591.52,27,0.33,1,2,0.31,-0.4,North,Components,Wholesaler,0
+CUST00666,84,4,2224.89,31,0.09,0,0,0.51,-0.07,Central,Components,Retailer,0
+CUST00667,61,4,5923.14,53,0.23,1,8,0.72,-0.7,North,Packaging,Retailer,0
+CUST00668,104,1,2733.51,37,0.14,1,17,0.41,-0.11,Central,Packaging,Wholesaler,1
+CUST00669,111,3,3743.55,20,0.17,1,15,0.4,0.19,East,Finished Goods,Wholesaler,0
+CUST00670,17,0,1615.89,78,0.08,0,6,0.36,0.06,West,Finished Goods,Distributor,1
+CUST00671,115,1,2478.61,31,0.07,0,13,0.49,-0.03,West,Industrial Equipment,Wholesaler,1
+CUST00672,75,5,2140.04,73,0.12,1,27,0.41,-0.12,Central,Industrial Equipment,Distributor,1
+CUST00673,77,3,3920.91,47,0.23,0,4,0.14,-0.17,West,Packaging,Distributor,1
+CUST00674,13,5,3645.54,75,0.38,0,9,0.59,-0.19,East,Industrial Equipment,Wholesaler,1
+CUST00675,76,5,4466.93,23,0.01,0,17,0.16,0.01,South,Packaging,Wholesaler,0
+CUST00676,88,4,2644.43,35,0.09,1,2,0.24,-0.48,Central,Packaging,Distributor,1
+CUST00677,71,1,2076.36,39,0.38,3,2,0.53,0.36,North,Raw Materials,Retailer,0
+CUST00678,12,3,3829.54,55,0.06,0,19,0.6,-0.26,South,Components,Wholesaler,1
+CUST00679,64,2,1965.94,23,0.32,1,13,0.33,0.11,South,Packaging,Wholesaler,0
+CUST00680,113,5,6267.5,47,0.36,0,3,0.32,-0.03,East,Components,Wholesaler,0
+CUST00681,88,5,3251.96,70,0.1,0,2,0.33,-0.37,South,Industrial Equipment,Distributor,0
+CUST00682,18,10,2894.67,28,0.39,1,2,0.19,0.31,Central,Raw Materials,Retailer,0
+CUST00683,116,2,4465.77,14,0.14,0,7,0.16,0.25,East,Industrial Equipment,Retailer,0
+CUST00684,116,2,3320.93,71,0.2,1,3,0.38,-0.49,Central,Raw Materials,Retailer,0
+CUST00685,22,6,1391.41,50,0.2,0,3,0.1,-0.07,North,Industrial Equipment,Distributor,0
+CUST00686,97,3,1931.81,8,0.27,1,2,0.19,0.01,East,Packaging,Retailer,0
+CUST00687,50,4,6196.5,29,0.21,0,6,0.2,-0.63,East,Finished Goods,Wholesaler,0
+CUST00688,72,5,3626.91,99,0.25,0,2,0.2,-0.64,Central,Raw Materials,Retailer,1
+CUST00689,54,6,1373.53,44,0.32,0,10,0.55,-0.28,West,Components,Wholesaler,1
+CUST00690,95,3,4203.45,31,0.32,1,15,0.38,-0.42,West,Components,Wholesaler,0
+CUST00691,120,2,2546.33,13,0.39,2,8,0.13,-0.34,Central,Raw Materials,Retailer,1
+CUST00692,96,1,2140.99,12,0.14,1,13,0.26,-0.42,South,Components,Retailer,1
+CUST00693,112,3,1845.16,52,0.09,1,5,0.22,-0.08,Central,Components,Retailer,0
+CUST00694,114,5,6002.68,14,0.06,1,3,0.06,-0.3,Central,Components,Retailer,0
+CUST00695,12,7,1174.94,39,0.2,0,4,0.4,0.26,Central,Finished Goods,Wholesaler,0
+CUST00696,32,6,2184.97,28,0.11,1,1,0.49,0,East,Components,Wholesaler,0
+CUST00697,87,0,3699.93,71,0.17,0,3,0.47,0.17,North,Packaging,Retailer,0
+CUST00698,72,1,8251.08,26,0.21,0,5,0.58,-0.52,Central,Finished Goods,Retailer,0
+CUST00699,7,2,4696.73,43,0.24,1,6,0.31,-0.23,East,Components,Wholesaler,0
+CUST00700,13,10,2174.79,59,0.15,0,14,0.1,-0.01,Central,Packaging,Distributor,0
+CUST00701,63,2,8031.64,27,0.21,1,18,0.27,0.08,North,Finished Goods,Wholesaler,0
+CUST00702,75,4,1643.66,55,0.17,0,7,0.23,-0.23,North,Components,Distributor,0
+CUST00703,21,5,4007.55,77,0.02,2,2,0.22,-0.19,South,Packaging,Wholesaler,0
+CUST00704,22,9,4529.11,38,0.14,0,2,0.16,-0.16,Central,Raw Materials,Distributor,0
+CUST00705,17,3,2133.22,51,0.39,1,3,0.27,-0.13,North,Components,Retailer,1
+CUST00706,69,7,5083.1,10,0.03,0,3,0.42,0.56,North,Packaging,Wholesaler,0
+CUST00707,2,6,2610.67,27,0.11,1,7,0.53,0.04,East,Packaging,Retailer,0
+CUST00708,70,4,5076.25,7,0.44,3,2,0.25,-0.04,Central,Packaging,Wholesaler,0
+CUST00709,58,1,1259.19,20,0.17,1,18,0.13,-0.4,North,Packaging,Distributor,0
+CUST00710,57,4,4164.02,27,0.27,1,12,0.66,-0.4,West,Packaging,Wholesaler,0
+CUST00711,82,3,2760.98,105,0.04,0,14,0.11,-0.11,East,Raw Materials,Retailer,1
+CUST00712,64,5,6518.09,16,0.27,1,3,0.29,0.27,West,Components,Wholesaler,0
+CUST00713,88,4,3380.61,30,0.07,3,2,0.27,-0.11,West,Packaging,Wholesaler,0
+CUST00714,92,6,6884.83,14,0.41,0,3,0.13,-0.09,Central,Components,Retailer,0
+CUST00715,111,3,4578.78,26,0.1,0,7,0.72,-0.26,North,Components,Retailer,0
+CUST00716,97,5,3228.81,43,0.38,0,6,0.11,-0.54,West,Raw Materials,Wholesaler,1
+CUST00717,63,4,5341.27,48,0.05,0,17,0.33,0.07,East,Industrial Equipment,Retailer,0
+CUST00718,60,6,5360.07,23,0.22,1,19,0.23,-0.12,South,Industrial Equipment,Retailer,0
+CUST00719,30,5,4489.74,18,0.33,0,7,0.3,0.07,West,Packaging,Distributor,0
+CUST00720,73,7,981.65,84,0.18,0,1,0.45,-0.01,East,Components,Distributor,0
+CUST00721,18,7,2017.45,22,0.33,1,5,0.5,-0.32,East,Finished Goods,Retailer,1
+CUST00722,112,2,7414.98,3,0.07,0,36,0.27,0.01,West,Raw Materials,Distributor,0
+CUST00723,102,7,1735.81,70,0.17,0,1,0.06,-0.41,East,Industrial Equipment,Distributor,0
+CUST00724,16,5,5627.12,4,0.14,0,8,0.58,0.01,South,Components,Wholesaler,0
+CUST00725,95,6,5107.93,70,0.13,2,3,0.62,-0.07,South,Finished Goods,Wholesaler,0
+CUST00726,15,5,2323.51,7,0.09,0,25,0.31,0.38,South,Industrial Equipment,Distributor,0
+CUST00727,87,4,1155.89,9,0.24,0,8,0.39,-0.29,South,Components,Wholesaler,1
+CUST00728,12,9,2532.84,11,0.23,1,3,0.3,-0.42,East,Components,Retailer,0
+CUST00729,60,5,10860.72,20,0.11,1,4,0.35,-0.17,North,Finished Goods,Retailer,0
+CUST00730,80,3,2154.25,71,0.32,1,1,0.31,0.12,Central,Components,Wholesaler,0
+CUST00731,88,0,2237.6,102,0.51,0,8,0.67,-0.83,East,Packaging,Retailer,1
+CUST00732,51,2,2000.85,43,0.16,0,8,0.34,0.2,West,Industrial Equipment,Retailer,0
+CUST00733,111,3,6755.63,36,0.04,0,1,0.46,-0.11,East,Packaging,Wholesaler,1
+CUST00734,94,5,3030.24,32,0.12,0,10,0.49,-0.37,Central,Components,Retailer,0
+CUST00735,26,5,2454.68,62,0.37,4,19,0.19,-0.15,Central,Raw Materials,Retailer,0
+CUST00736,81,4,7535.73,34,0.02,2,2,0.06,-0.26,East,Components,Distributor,0
+CUST00737,88,0,4763.42,99,0.07,2,10,0.18,-0.39,South,Finished Goods,Retailer,1
+CUST00738,41,5,2088.89,51,0.25,1,10,0.12,-0.59,Central,Industrial Equipment,Wholesaler,1
+CUST00739,89,4,1766.98,21,0.31,1,7,0.65,0.15,East,Raw Materials,Wholesaler,0
+CUST00740,108,2,6548.51,30,0.17,1,7,0.22,-0.21,West,Finished Goods,Distributor,0
+CUST00741,99,5,3495.51,38,0.28,1,4,0.43,-0.16,North,Raw Materials,Retailer,0
+CUST00742,92,3,1477.36,58,0.23,1,1,0.25,0.19,South,Industrial Equipment,Retailer,0
+CUST00743,77,8,1298.92,27,0.18,0,8,0.28,-0.03,South,Components,Wholesaler,0
+CUST00744,34,5,1874.65,30,0.31,0,12,0.6,-0.49,East,Components,Wholesaler,1
+CUST00745,96,0,1751.6,87,0.07,1,2,0.74,0.14,East,Packaging,Distributor,0
+CUST00746,45,4,1124.01,27,0.18,0,3,0.11,0.37,Central,Packaging,Retailer,0
+CUST00747,65,5,1891.78,16,0.36,3,3,0.42,0.09,North,Finished Goods,Retailer,0
+CUST00748,39,5,2089.14,51,0.27,0,9,0.07,-0.29,Central,Industrial Equipment,Retailer,0
+CUST00749,39,5,2685.24,34,0.31,1,8,0.31,-0.46,Central,Finished Goods,Wholesaler,1
+CUST00750,20,5,8787.63,22,0.2,1,3,0.4,-0.3,East,Packaging,Retailer,0
+CUST00751,116,2,2990.62,11,0.58,3,6,0.13,-0.02,South,Finished Goods,Retailer,0
+CUST00752,19,5,3158.44,4,0.39,1,6,0.33,0.35,Central,Packaging,Wholesaler,0
+CUST00753,12,6,4582.91,44,0.49,1,8,0.14,-0.26,North,Finished Goods,Retailer,1
+CUST00754,113,3,3039.58,16,0.4,1,4,0.15,-0.23,Central,Industrial Equipment,Retailer,0
+CUST00755,68,3,4316,7,0.06,0,15,0.62,0.24,Central,Components,Retailer,0
+CUST00756,54,8,4041.37,14,0.32,2,8,0.64,-0.17,South,Finished Goods,Distributor,0
+CUST00757,89,8,3704.95,38,0.12,1,14,0.7,0.43,East,Packaging,Wholesaler,0
+CUST00758,47,3,15860.01,16,0.12,1,8,0.39,-0.09,East,Finished Goods,Wholesaler,0
+CUST00759,17,4,5716.54,39,0.21,1,9,0.33,0.28,West,Finished Goods,Wholesaler,0
+CUST00760,88,7,1910.37,19,0.17,3,1,0.22,0.06,West,Packaging,Distributor,0
+CUST00761,22,6,4245.53,30,0.1,0,8,0.1,0.15,Central,Industrial Equipment,Retailer,0
+CUST00762,67,5,2240.7,32,0.04,0,6,0.7,-0.1,North,Raw Materials,Retailer,1
+CUST00763,114,4,4426.83,49,0.11,1,16,0.18,-0.08,Central,Finished Goods,Distributor,0
+CUST00764,113,1,1625.62,50,0.29,1,14,0.45,0.07,Central,Packaging,Wholesaler,0
+CUST00765,44,10,1883.19,31,0.02,0,17,0.37,0.17,West,Industrial Equipment,Distributor,0
+CUST00766,94,3,4184.53,13,0.06,1,3,0.53,0.1,South,Finished Goods,Wholesaler,0
+CUST00767,74,1,5995.22,67,0.14,0,6,0.44,-0.54,West,Industrial Equipment,Wholesaler,1
+CUST00768,59,6,4566.28,22,0.28,2,18,0.2,0.02,East,Raw Materials,Wholesaler,0
+CUST00769,18,6,5540.08,2,0.22,0,3,0.16,-0.23,South,Components,Retailer,0
+CUST00770,46,4,4253.94,37,0.09,0,16,0.07,-0.2,South,Raw Materials,Distributor,0
+CUST00771,79,1,3808.05,38,0.08,1,14,0.09,0.08,East,Packaging,Wholesaler,0
+CUST00772,119,0,2625.35,88,0.15,1,6,0.12,0.43,West,Packaging,Retailer,0
+CUST00773,2,4,5416.21,7,0.35,3,21,0.16,-0.11,South,Finished Goods,Retailer,1
+CUST00774,87,3,6085.62,6,0.19,0,15,0.51,0.5,South,Raw Materials,Retailer,0
+CUST00775,102,5,3345.22,24,0.3,0,2,0.29,-0.36,South,Industrial Equipment,Retailer,0
+CUST00776,115,7,3247.66,12,0.42,1,19,0.55,0.29,East,Industrial Equipment,Retailer,1
+CUST00777,52,3,8310.48,58,0.41,0,6,0.36,0.07,Central,Finished Goods,Retailer,0
+CUST00778,16,1,3424.7,23,0.18,0,9,0.23,0.01,South,Raw Materials,Distributor,1
+CUST00779,34,2,3610.59,21,0.2,0,9,0.31,0.34,Central,Packaging,Wholesaler,1
+CUST00780,103,5,4520.26,98,0.25,0,10,0.22,-0.23,North,Industrial Equipment,Retailer,1
+CUST00781,106,1,3281.99,2,0.11,1,18,0.42,0.31,East,Raw Materials,Retailer,0
+CUST00782,77,2,2205.73,30,0.4,0,9,0.19,-0.11,Central,Components,Distributor,1
+CUST00783,16,3,4263.65,5,0.39,1,6,0.2,-0.23,South,Components,Wholesaler,0
+CUST00784,16,2,3390.34,71,0.35,2,2,0.26,-0.42,South,Industrial Equipment,Retailer,1
+CUST00785,58,5,9539.89,7,0.17,1,4,0.08,0.39,West,Industrial Equipment,Distributor,0
+CUST00786,72,3,5343.56,40,0.47,1,14,0.62,0.27,South,Components,Retailer,0
+CUST00787,5,4,2496.1,35,0.23,3,16,0.36,-0.18,North,Industrial Equipment,Retailer,1
+CUST00788,83,4,5171.84,4,0.04,0,5,0.57,0.1,North,Components,Retailer,0
+CUST00789,66,3,4102.39,40,0.34,1,12,0.4,-0.01,East,Raw Materials,Distributor,1
+CUST00790,3,7,7116.59,19,0.31,0,4,0.35,-0.15,East,Industrial Equipment,Distributor,0
+CUST00791,13,5,2595.54,45,0.06,3,1,0.4,0.22,North,Components,Wholesaler,1
+CUST00792,56,12,3842.09,18,0.06,0,1,0.13,-0.23,South,Industrial Equipment,Wholesaler,0
+CUST00793,87,6,3279.67,40,0.09,1,15,0.32,-0.66,West,Finished Goods,Retailer,0
+CUST00794,100,5,3576.58,27,0.22,1,1,0.14,0.02,East,Components,Retailer,0
+CUST00795,53,7,2128.43,40,0.16,2,11,0.59,-0.03,West,Industrial Equipment,Retailer,0
+CUST00796,37,4,4754.05,45,0.13,0,8,0.22,-0.22,West,Components,Distributor,0
+CUST00797,117,4,4358.49,25,0.2,1,16,0.17,-0.3,Central,Finished Goods,Wholesaler,0
+CUST00798,56,4,7022.49,22,0.06,1,7,0.24,-0.49,North,Industrial Equipment,Wholesaler,0
+CUST00799,39,3,3444.33,44,0.07,0,10,0.1,-0.15,East,Raw Materials,Distributor,0
+CUST00800,54,4,2761.39,19,0.03,0,8,0.12,-0.3,South,Finished Goods,Retailer,0
+CUST00801,3,5,5346.04,25,0.25,0,9,0.56,0.22,West,Components,Retailer,0
+CUST00802,37,6,2237.66,81,0.12,0,6,0.25,0.09,South,Industrial Equipment,Retailer,1
+CUST00803,63,4,6290.16,30,0.37,3,10,0.13,-0.19,North,Components,Distributor,1
+CUST00804,111,3,6282.75,50,0.36,0,5,0.3,0.1,Central,Raw Materials,Retailer,1
+CUST00805,89,10,6915.38,17,0.28,0,13,0.61,-0.08,East,Industrial Equipment,Retailer,0
+CUST00806,94,4,4260.5,39,0.27,1,7,0.14,-0.13,North,Industrial Equipment,Retailer,1
+CUST00807,66,7,2650.3,26,0.1,0,13,0.59,-0.07,South,Packaging,Distributor,0
+CUST00808,15,3,3677.74,22,0.26,1,3,0.17,0.45,West,Components,Retailer,0
+CUST00809,48,6,4268.59,4,0.27,1,5,0.2,0.13,East,Finished Goods,Wholesaler,0
+CUST00810,120,3,2545.09,12,0.08,1,1,0.38,-0.13,Central,Components,Distributor,0
+CUST00811,7,5,7209.93,102,0.12,1,9,0.63,0.2,North,Components,Wholesaler,0
+CUST00812,106,5,4764.97,27,0.52,0,9,0.15,0.19,North,Packaging,Retailer,0
+CUST00813,83,2,2120.22,30,0.28,0,4,0.25,0.02,West,Packaging,Retailer,0
+CUST00814,35,4,9755.44,57,0.09,0,7,0.28,-0.14,South,Finished Goods,Retailer,1
+CUST00815,94,3,3653.95,37,0.13,0,2,0.26,-0.16,Central,Packaging,Distributor,1
+CUST00816,101,4,1897.41,22,0.06,2,14,0.79,-0.35,West,Packaging,Distributor,0
+CUST00817,7,4,2193.73,22,0.04,0,14,0.34,0,North,Packaging,Retailer,0
+CUST00818,14,4,7850.1,11,0.18,0,6,0.1,-0.22,Central,Packaging,Retailer,0
+CUST00819,81,9,9449.73,42,0.05,1,5,0.38,-0.17,Central,Packaging,Retailer,0
+CUST00820,120,3,6034.31,43,0.12,0,1,0.54,0.12,South,Raw Materials,Wholesaler,0
+CUST00821,4,7,7155.38,30,0.13,0,12,0.36,0.42,West,Raw Materials,Retailer,1
+CUST00822,81,4,6762.44,27,0.13,1,3,0.37,0.05,West,Raw Materials,Distributor,0
+CUST00823,18,7,4704.64,43,0.04,0,13,0.26,-0.08,North,Finished Goods,Retailer,0
+CUST00824,79,2,4150.45,11,0.14,0,1,0.49,-0.06,West,Raw Materials,Retailer,0
+CUST00825,76,2,4660.72,38,0.36,3,2,0.27,0.27,Central,Raw Materials,Wholesaler,0
+CUST00826,12,5,5191.66,84,0.26,3,2,0.15,0.06,East,Packaging,Distributor,1
+CUST00827,83,2,2303.35,17,0.15,1,3,0.37,0,Central,Finished Goods,Retailer,0
+CUST00828,108,2,5180.09,25,0.16,1,31,0.04,0.02,West,Finished Goods,Distributor,0
+CUST00829,104,3,7725.17,69,0.02,2,6,0.53,-0.45,West,Components,Wholesaler,1
+CUST00830,5,0,3091.76,96,0.18,1,11,0.27,0.06,East,Packaging,Wholesaler,1
+CUST00831,31,7,2915.26,53,0.14,1,2,0.26,-0.3,West,Raw Materials,Wholesaler,0
+CUST00832,30,5,4501.21,40,0.09,0,3,0.5,0.06,Central,Packaging,Distributor,0
+CUST00833,55,2,2422.82,42,0.15,0,23,0.37,-0.26,East,Industrial Equipment,Wholesaler,0
+CUST00834,19,3,1678.66,16,0.3,0,6,0.13,0.12,East,Finished Goods,Retailer,0
+CUST00835,103,4,6510.98,16,0.21,0,7,0.31,-0.09,North,Finished Goods,Distributor,0
+CUST00836,94,4,2702.62,48,0.06,0,9,0.24,-0.37,East,Finished Goods,Retailer,0
+CUST00837,98,3,3498.7,8,0.17,0,21,0.22,-0.13,Central,Raw Materials,Retailer,0
+CUST00838,25,4,2476.08,25,0.28,1,15,0.15,0.57,West,Finished Goods,Retailer,0
+CUST00839,3,7,6989.86,43,0.45,2,17,0.49,-0.69,West,Raw Materials,Wholesaler,1
+CUST00840,110,6,5537.21,24,0.14,2,10,0.69,0,North,Industrial Equipment,Distributor,0
+CUST00841,36,2,3033.87,27,0.25,1,5,0.54,-0.33,Central,Packaging,Wholesaler,0
+CUST00842,80,8,1809.95,55,0.05,0,8,0.54,0.34,East,Finished Goods,Wholesaler,0
+CUST00843,110,2,2861.75,75,0.21,1,2,0.1,0.18,East,Packaging,Retailer,0
+CUST00844,6,5,4739.01,129,0.29,1,1,0.05,0,North,Components,Distributor,1
+CUST00845,2,4,3842,71,0.29,0,8,0.23,0.21,Central,Raw Materials,Retailer,1
+CUST00846,2,5,3677.56,20,0.27,0,0,0.35,0.02,West,Finished Goods,Retailer,0
+CUST00847,20,2,3891.05,14,0.16,1,4,0.66,-0.05,South,Finished Goods,Distributor,0
+CUST00848,8,9,5257.12,21,0.16,3,2,0.13,-0.22,East,Raw Materials,Distributor,0
+CUST00849,99,6,3384.55,44,0.18,1,5,0.26,-0.15,Central,Finished Goods,Retailer,0
+CUST00850,74,4,4436,22,0.32,2,5,0.46,-0.18,Central,Packaging,Wholesaler,0
+CUST00851,118,6,2012.62,17,0.23,0,2,0.14,-0.05,South,Components,Distributor,0
+CUST00852,97,4,14109.7,81,0.48,2,10,0.21,-0.58,West,Packaging,Retailer,1
+CUST00853,116,2,2962.76,22,0.35,3,17,0.24,0.24,North,Components,Distributor,0
+CUST00854,30,4,3873.74,41,0.25,4,2,0.23,0.5,East,Raw Materials,Retailer,0
+CUST00855,36,5,4729.41,41,0.34,2,2,0.56,-0.17,East,Industrial Equipment,Wholesaler,0
+CUST00856,103,4,2762.98,4,0.06,2,6,0.2,0.28,West,Industrial Equipment,Retailer,0
+CUST00857,31,5,3478.32,78,0.32,3,1,0.48,-0.09,North,Finished Goods,Retailer,0
+CUST00858,8,3,3455.15,10,0.18,2,6,0.4,-0.22,South,Finished Goods,Retailer,1
+CUST00859,81,3,2094.94,7,0.39,2,15,0.14,-0.16,South,Components,Retailer,0
+CUST00860,97,6,4408.21,20,0.15,0,2,0.17,-0.03,South,Finished Goods,Distributor,1
+CUST00861,117,2,1398.18,14,0.14,0,20,0.13,-0.25,West,Raw Materials,Wholesaler,0
+CUST00862,112,4,9081.45,70,0.41,4,4,0.06,0.12,North,Raw Materials,Retailer,0
+CUST00863,16,6,5356.86,36,0.06,0,5,0.35,-0.2,West,Finished Goods,Wholesaler,0
+CUST00864,93,0,4922.23,57,0.15,1,4,0.32,-0.35,North,Packaging,Retailer,1
+CUST00865,102,2,1332.55,7,0.33,0,12,0.63,-0.06,East,Finished Goods,Wholesaler,0
+CUST00866,85,8,2239.73,39,0.17,2,7,0.09,-0.24,Central,Raw Materials,Wholesaler,0
+CUST00867,99,5,7436.38,24,0.19,1,5,0.25,-0.14,Central,Raw Materials,Retailer,0
+CUST00868,101,4,33968.29,43,0.45,1,3,0.3,-0.07,Central,Raw Materials,Wholesaler,0
+CUST00869,55,1,6681.39,36,0.24,0,8,0.36,-0.43,East,Raw Materials,Retailer,0
+CUST00870,6,6,6126.13,15,0.2,1,17,0.5,0.36,East,Industrial Equipment,Distributor,0
+CUST00871,56,5,4622.71,48,0.15,1,5,0.48,0.18,Central,Finished Goods,Wholesaler,0
+CUST00872,26,3,2173.03,9,0.01,2,7,0.51,-0.23,North,Components,Retailer,0
+CUST00873,15,7,5987,23,0.01,0,1,0.16,-0.06,Central,Components,Retailer,0
+CUST00874,16,6,1890.01,25,0.28,2,7,0.65,0.13,North,Raw Materials,Retailer,0
+CUST00875,84,2,1779.66,28,0.09,0,32,0.69,0.01,North,Industrial Equipment,Distributor,0
+CUST00876,62,5,1719.1,8,0.03,1,2,0.27,0.48,North,Packaging,Distributor,0
+CUST00877,66,6,5923.29,67,0.15,0,9,0.31,-0.12,South,Industrial Equipment,Distributor,0
+CUST00878,90,10,3355.72,15,0.26,0,4,0.61,0.28,Central,Components,Wholesaler,0
+CUST00879,67,4,3660.93,5,0.15,0,1,0.4,-0.42,South,Components,Distributor,0
+CUST00880,76,4,3434.16,37,0.13,2,4,0.38,-0.38,East,Components,Retailer,1
+CUST00881,12,3,1864.7,101,0.52,3,27,0.22,0.42,Central,Finished Goods,Wholesaler,1
+CUST00882,103,5,2394.9,4,0.08,0,8,0.88,-0.17,Central,Packaging,Retailer,0
+CUST00883,55,7,2462.09,55,0.04,0,8,0.34,-0.38,East,Finished Goods,Distributor,0
+CUST00884,20,3,1598.95,30,0.24,0,2,0.53,-0.06,South,Industrial Equipment,Distributor,0
+CUST00885,98,6,2624.6,9,0.05,1,14,0.2,0.3,East,Packaging,Wholesaler,0
+CUST00886,89,7,1910.81,25,0.03,0,18,0.54,-0.26,East,Components,Distributor,0
+CUST00887,8,7,4758.66,85,0.27,2,18,0.62,-0.06,South,Components,Distributor,1
+CUST00888,24,7,4981.74,72,0.15,0,13,0.63,-0.57,West,Industrial Equipment,Retailer,1
+CUST00889,3,7,1700.2,145,0.31,4,3,0.49,-0.18,Central,Raw Materials,Wholesaler,1
+CUST00890,34,6,2942.02,49,0.13,0,2,0.32,0.23,North,Finished Goods,Wholesaler,0
+CUST00891,13,6,9612.63,19,0.05,1,1,0.74,-0.27,Central,Components,Wholesaler,0
+CUST00892,86,4,2019.45,55,0.07,1,2,0.38,-0.41,West,Industrial Equipment,Wholesaler,0
+CUST00893,64,5,4379.33,16,0.35,1,8,0.11,-0.27,North,Components,Retailer,0
+CUST00894,118,5,3670.33,27,0.19,1,2,0.61,-0.22,West,Industrial Equipment,Retailer,0
+CUST00895,91,4,6317.56,16,0.24,3,15,0.26,0.16,East,Components,Distributor,0
+CUST00896,74,1,4074.51,49,0.16,2,16,0.34,0.06,North,Packaging,Wholesaler,0
+CUST00897,62,6,2732,46,0.08,0,16,0.03,0.11,North,Industrial Equipment,Wholesaler,0
+CUST00898,8,7,3592.92,17,0.18,0,1,0.39,-0.04,North,Industrial Equipment,Retailer,0
+CUST00899,10,3,3621.9,64,0.49,2,8,0.29,-0.22,East,Components,Retailer,1
+CUST00900,75,3,3293.04,78,0.1,0,7,0.32,-0.27,East,Raw Materials,Wholesaler,0
+CUST00901,2,7,1676.54,20,0.44,0,15,0.15,0.07,South,Industrial Equipment,Retailer,0
+CUST00902,7,3,6861.62,40,0.28,1,1,0.44,0.39,Central,Finished Goods,Retailer,0
+CUST00903,28,6,6226.31,81,0.43,6,7,0.14,-0.31,North,Raw Materials,Retailer,1
+CUST00904,107,4,1950.22,37,0.45,2,1,0.32,-0.34,Central,Finished Goods,Retailer,0
+CUST00905,56,6,2935.41,23,0.09,0,14,0.3,-0.37,North,Components,Retailer,0
+CUST00906,86,2,3060.1,28,0.05,2,0,0.44,0.18,North,Industrial Equipment,Wholesaler,0
+CUST00907,50,7,1833.38,19,0.32,1,26,0.27,-0.06,East,Finished Goods,Wholesaler,0
+CUST00908,22,1,1240.49,65,0.27,2,10,0.3,0.11,West,Components,Wholesaler,0
+CUST00909,46,7,2395.09,60,0.06,0,6,0.34,-0.19,West,Packaging,Distributor,0
+CUST00910,12,5,2846.88,16,0.33,2,3,0.41,0.12,West,Raw Materials,Wholesaler,1
+CUST00911,93,6,1567.63,18,0.26,1,16,0.47,-0.13,East,Components,Distributor,1
+CUST00912,23,3,3817.45,7,0.16,1,1,0.37,-0.48,Central,Finished Goods,Retailer,1
+CUST00913,46,6,6565.41,44,0.05,1,0,0.61,0.21,West,Finished Goods,Retailer,0
+CUST00914,118,3,5503.63,11,0.39,2,9,0.29,-0.06,North,Finished Goods,Retailer,1
+CUST00915,72,2,3230.28,110,0.51,1,6,0.18,-0.14,East,Raw Materials,Distributor,1
+CUST00916,56,4,1258.62,14,0.18,2,8,0.7,0.03,Central,Finished Goods,Distributor,0
+CUST00917,66,5,5133.98,4,0.21,1,7,0.46,-0.45,West,Finished Goods,Wholesaler,0
+CUST00918,95,6,3753.77,10,0.14,0,11,0.39,0.07,Central,Packaging,Distributor,0
+CUST00919,32,7,4373.82,37,0.28,1,6,0.36,-0.22,West,Components,Retailer,0
+CUST00920,77,6,10045.26,27,0.02,0,4,0.24,-0.09,West,Finished Goods,Wholesaler,0
+CUST00921,105,7,2200.31,14,0.16,2,6,0.09,0.27,South,Industrial Equipment,Retailer,0
+CUST00922,70,2,712.55,26,0.31,0,12,0.64,0.13,North,Components,Wholesaler,0
+CUST00923,55,7,1940.3,18,0.13,2,13,0.67,-0.1,South,Industrial Equipment,Retailer,0
+CUST00924,19,3,4524.78,43,0.38,0,8,0.13,-0.08,South,Components,Wholesaler,0
+CUST00925,31,10,3515.05,11,0.42,1,0,0.59,-0.77,West,Industrial Equipment,Wholesaler,0
+CUST00926,114,4,1774.72,33,0.34,0,8,0.46,-0.28,South,Raw Materials,Wholesaler,0
+CUST00927,66,4,1586.29,34,0.18,1,1,0.15,0,South,Components,Retailer,0
+CUST00928,37,3,2849.69,28,0.29,2,13,0.29,-0.26,Central,Components,Wholesaler,0
+CUST00929,51,5,1745.24,40,0.13,1,12,0.25,-0.42,North,Finished Goods,Retailer,1
+CUST00930,70,5,4611.68,26,0.59,0,2,0.31,0.08,West,Packaging,Retailer,0
+CUST00931,65,1,2762.01,49,0.06,0,10,0.25,0.32,South,Components,Wholesaler,0
+CUST00932,85,5,2453.04,28,0.54,5,7,0.18,-0.25,Central,Components,Retailer,0
+CUST00933,32,5,2282.32,67,0.35,0,3,0.29,0.2,Central,Packaging,Wholesaler,1
+CUST00934,79,3,4002.67,33,0.07,0,10,0.41,0.15,East,Components,Retailer,0
+CUST00935,54,1,3545.5,64,0.32,1,19,0.23,-0.32,West,Components,Wholesaler,0
+CUST00936,113,4,3870.26,18,0.23,0,4,0.7,-0.25,Central,Packaging,Wholesaler,0
+CUST00937,20,3,3824.07,12,0.14,1,9,0.37,0.45,West,Raw Materials,Retailer,0
+CUST00938,19,3,3328.55,48,0.15,0,2,0.62,-0.36,Central,Industrial Equipment,Retailer,0
+CUST00939,56,3,1962.11,29,0.15,0,3,0.14,-0.22,West,Raw Materials,Wholesaler,1
+CUST00940,62,5,2317.61,2,0.19,0,6,0.16,0.5,North,Packaging,Distributor,0
+CUST00941,84,4,2787.58,15,0.48,0,3,0.27,-0.21,West,Components,Retailer,0
+CUST00942,50,8,10784.42,37,0.03,0,3,0.58,0.33,South,Industrial Equipment,Retailer,0
+CUST00943,110,5,1649.36,27,0.06,0,2,0.37,-0.34,East,Finished Goods,Distributor,0
+CUST00944,58,2,2750.57,15,0.05,1,16,0.59,-0.01,West,Raw Materials,Retailer,1
+CUST00945,17,4,3655.71,28,0.37,4,12,0.05,0.25,North,Packaging,Retailer,1
+CUST00946,16,2,2931.2,32,0.22,0,6,0.35,-0.18,West,Components,Retailer,0
+CUST00947,117,2,6252.17,5,0.08,0,13,0.9,-0.02,East,Components,Distributor,0
+CUST00948,17,6,2922.88,63,0.17,0,14,0.12,0.16,South,Finished Goods,Wholesaler,1
+CUST00949,114,2,3044.23,73,0.25,2,5,0.31,-0.3,West,Packaging,Retailer,0
+CUST00950,35,4,5421.05,15,0.08,0,2,0.26,0.58,West,Components,Wholesaler,0
+CUST00951,13,9,9375.84,99,0.22,2,9,0.29,0.24,North,Packaging,Retailer,0
+CUST00952,38,2,7511,27,0.25,2,16,0.07,-0.15,South,Finished Goods,Retailer,1
+CUST00953,75,8,3212.61,17,0.02,0,11,0.68,-0.12,North,Industrial Equipment,Distributor,0
+CUST00954,52,6,3370.33,16,0.3,1,19,0.23,0.49,West,Finished Goods,Wholesaler,0
+CUST00955,95,5,3553.53,94,0.39,5,13,0.11,-0.15,Central,Industrial Equipment,Wholesaler,1
+CUST00956,74,6,3755.02,11,0.27,0,28,0.15,-0.18,Central,Finished Goods,Distributor,0
+CUST00957,49,5,2173.21,33,0.1,1,9,0.13,0.27,South,Packaging,Retailer,0
+CUST00958,77,3,5797.18,36,0.19,1,5,0.13,-0.44,South,Industrial Equipment,Retailer,0
+CUST00959,117,5,3880.17,49,0.09,0,12,0.3,-0.07,South,Industrial Equipment,Retailer,0
+CUST00960,51,4,3378.98,31,0.25,0,17,0.51,-0.03,North,Raw Materials,Wholesaler,1
+CUST00961,20,5,1721.36,90,0.39,1,8,0.5,-0.25,South,Components,Retailer,1
+CUST00962,50,4,3584.08,101,0.12,0,14,0.22,-0.49,West,Components,Wholesaler,1
+CUST00963,101,3,1222.6,76,0.22,1,4,0.32,-0.03,North,Packaging,Retailer,1
+CUST00964,27,4,2515.16,38,0.19,3,13,0.24,0.14,West,Finished Goods,Retailer,0
+CUST00965,114,5,2540.96,56,0.21,0,38,0.24,-0.24,Central,Finished Goods,Wholesaler,0
+CUST00966,72,4,4055.57,23,0.32,3,4,0.09,-0.38,South,Components,Retailer,1
+CUST00967,73,2,9739.23,64,0.17,0,8,0.18,0.3,West,Industrial Equipment,Distributor,0
+CUST00968,39,6,4743.59,18,0.07,0,11,0.31,0.1,East,Industrial Equipment,Distributor,0
+CUST00969,111,5,7681.89,13,0.12,0,6,0.33,-0.15,Central,Finished Goods,Distributor,0
+CUST00970,6,5,4938.75,13,0.2,0,5,0.59,0.21,East,Industrial Equipment,Wholesaler,0
+CUST00971,37,4,6430.32,44,0.29,1,7,0.54,0.02,East,Raw Materials,Retailer,0
+CUST00972,51,2,9618.27,82,0.44,0,15,0.48,0.45,Central,Raw Materials,Wholesaler,1
+CUST00973,58,3,2315.75,87,0.48,2,1,0.45,0.14,South,Industrial Equipment,Retailer,1
+CUST00974,58,2,2234.1,3,0.04,0,3,0.36,-0.44,West,Raw Materials,Distributor,0
+CUST00975,19,5,5003.27,58,0.3,3,6,0.75,-0.23,Central,Components,Wholesaler,1
+CUST00976,28,7,3456.38,12,0.18,2,14,0.52,-0.22,South,Packaging,Retailer,0
+CUST00977,13,9,3909.62,128,0.59,3,7,0.15,0.04,Central,Finished Goods,Distributor,1
+CUST00978,70,4,3020.67,9,0.16,2,4,0.22,-0.13,South,Components,Retailer,0
+CUST00979,43,7,2495.03,5,0.31,1,20,0.52,-0.37,West,Industrial Equipment,Distributor,1
+CUST00980,69,6,8445.77,59,0.3,1,8,0.11,0.11,South,Raw Materials,Wholesaler,0
+CUST00981,72,4,1891.41,21,0.16,1,5,0.34,0.23,West,Industrial Equipment,Distributor,0
+CUST00982,85,6,5051.88,20,0.31,4,11,0.37,-0.08,North,Finished Goods,Distributor,0
+CUST00983,67,5,4620.81,15,0.02,0,10,0.77,0.01,Central,Finished Goods,Retailer,0
+CUST00984,79,10,1453.23,17,0.11,0,8,0.72,-0.32,North,Components,Wholesaler,0
+CUST00985,71,6,2193.1,61,0.15,1,3,0.27,-0.2,South,Industrial Equipment,Retailer,0
+CUST00986,79,6,2405.52,13,0.13,0,14,0.03,-0.18,Central,Raw Materials,Distributor,0
+CUST00987,75,5,4724.52,26,0.09,0,23,0.4,0.11,North,Raw Materials,Wholesaler,0
+CUST00988,39,5,2830.28,11,0.08,1,9,0.02,0.02,Central,Industrial Equipment,Distributor,0
+CUST00989,31,8,3304.12,32,0.37,1,1,0.04,-0.14,East,Industrial Equipment,Distributor,0
+CUST00990,95,4,1553.54,20,0.23,2,31,0.22,-0.15,South,Packaging,Retailer,0
+CUST00991,42,3,12447.21,41,0.03,1,11,0.03,-0.6,Central,Packaging,Retailer,1
+CUST00992,67,6,3601.69,45,0.18,0,2,0.17,0.4,Central,Components,Wholesaler,0
+CUST00993,25,1,4557.14,83,0.13,1,13,0.49,-0.63,Central,Finished Goods,Retailer,1
+CUST00994,53,6,2572.56,122,0.23,2,16,0.23,0.07,East,Raw Materials,Retailer,1
+CUST00995,65,2,2418.87,16,0.56,2,7,0.32,-0.04,North,Packaging,Wholesaler,0
+CUST00996,76,4,9916.71,49,0.08,0,1,0.14,-0.12,West,Components,Wholesaler,0
+CUST00997,64,6,1206.89,20,0.07,2,9,0.56,-0.05,West,Industrial Equipment,Wholesaler,0
+CUST00998,44,1,4037,44,0.1,1,2,0.41,-0.24,Central,Finished Goods,Retailer,0
+CUST00999,116,3,1778.76,43,0.11,0,11,0.12,0.13,West,Finished Goods,Retailer,0
+CUST01000,63,5,2771.79,42,0.03,1,4,0.27,-0.42,South,Packaging,Retailer,0
+CUST01001,98,7,2438.28,52,0.23,2,10,0.4,0.04,East,Industrial Equipment,Wholesaler,0
+CUST01002,89,5,2013.67,33,0.1,1,5,0.11,-0.24,West,Industrial Equipment,Wholesaler,0
+CUST01003,68,5,3531.55,21,0.17,1,9,0.1,-0.17,West,Industrial Equipment,Wholesaler,0
+CUST01004,107,6,843.52,32,0.13,0,14,0.12,-0.16,South,Packaging,Distributor,0
+CUST01005,17,10,2911.67,116,0.56,2,14,0.75,-0.1,South,Finished Goods,Distributor,1
+CUST01006,111,2,3295.59,18,0.21,2,3,0.19,0.09,Central,Raw Materials,Retailer,0
+CUST01007,103,5,1639.91,23,0.23,2,5,0.16,-0.06,Central,Finished Goods,Distributor,0
+CUST01008,61,4,7960.68,15,0.31,2,5,0.12,0.21,South,Components,Retailer,0
+CUST01009,89,6,2497.51,4,0.24,1,8,0.15,0.24,North,Raw Materials,Wholesaler,0
+CUST01010,63,6,3039.3,28,0.59,1,17,0.22,0.04,West,Packaging,Retailer,0
+CUST01011,33,4,2500.58,47,0.23,3,6,0.09,0.14,North,Raw Materials,Retailer,0
+CUST01012,97,4,3311.44,13,0.11,0,10,0.71,0.52,North,Industrial Equipment,Distributor,0
+CUST01013,31,5,7111.58,75,0.14,0,6,0.11,-0.45,East,Industrial Equipment,Wholesaler,1
+CUST01014,39,3,13496.14,40,0.34,1,4,0.26,0.25,South,Industrial Equipment,Retailer,0
+CUST01015,63,4,5219.21,61,0.09,1,1,0.08,0.38,North,Packaging,Distributor,0
+CUST01016,101,2,6300.58,38,0.01,1,4,0.12,0.07,South,Industrial Equipment,Retailer,0
+CUST01017,47,4,8902.03,26,0.1,0,2,0.15,0.48,West,Finished Goods,Retailer,0
+CUST01018,60,5,3971.42,22,0.36,1,2,0.86,0.45,West,Components,Retailer,0
+CUST01019,6,4,8214.35,36,0.24,2,9,0.23,-0.14,West,Components,Wholesaler,1
+CUST01020,15,6,5355.19,39,0.28,3,10,0.11,-0.12,South,Components,Wholesaler,1
+CUST01021,8,5,3748.81,19,0.05,0,14,0.43,0.1,West,Industrial Equipment,Wholesaler,0
+CUST01022,10,6,4199.36,25,0.04,1,1,0.52,-0.22,South,Packaging,Wholesaler,1
+CUST01023,105,7,1271.84,102,0.08,1,13,0.39,0.71,West,Industrial Equipment,Wholesaler,1
+CUST01024,102,8,4067.02,32,0.25,0,0,0.12,0.17,North,Components,Retailer,0
+CUST01025,99,2,1481.69,35,0.28,1,4,0.06,-0.04,East,Components,Retailer,1
+CUST01026,8,9,1416.72,86,0.04,0,6,0.45,-0.44,South,Packaging,Retailer,0
+CUST01027,11,3,3850.98,39,0.24,0,4,0.45,0.02,West,Raw Materials,Wholesaler,1
+CUST01028,35,2,1876.67,29,0.32,3,7,0.06,-0.38,South,Components,Distributor,0
+CUST01029,69,4,3449.85,60,0.53,0,8,0.05,0.16,South,Industrial Equipment,Retailer,1
+CUST01030,41,2,3737.38,51,0.16,1,10,0.35,-0.75,East,Industrial Equipment,Retailer,0
+CUST01031,60,3,3830.22,36,0.06,2,4,0.16,0.34,West,Packaging,Wholesaler,0
+CUST01032,22,6,2106.39,38,0.14,3,12,0.35,-0.17,East,Components,Retailer,0
+CUST01033,88,1,5677.55,23,0.2,0,13,0.37,-0.52,Central,Raw Materials,Wholesaler,0
+CUST01034,39,6,3297.5,11,0.52,3,7,0.49,-0.05,Central,Industrial Equipment,Wholesaler,0
+CUST01035,9,7,4414.24,46,0.07,1,14,0.25,-0.05,West,Industrial Equipment,Wholesaler,0
+CUST01036,90,2,1793.56,7,0.41,1,3,0.51,-0.07,East,Raw Materials,Retailer,0
+CUST01037,109,2,3139.82,11,0.18,0,4,0.32,0.34,East,Components,Distributor,0
+CUST01038,3,1,6332.89,25,0.25,1,1,0.35,0.06,North,Raw Materials,Retailer,0
+CUST01039,53,8,5905.25,23,0.17,1,10,0.25,0.17,East,Components,Retailer,0
+CUST01040,100,5,2233.87,49,0.79,1,7,0.1,-0.12,Central,Industrial Equipment,Retailer,0
+CUST01041,86,5,2565.59,59,0.16,0,6,0.35,0.07,West,Components,Distributor,0
+CUST01042,103,5,2010.67,111,0.04,0,5,0.62,-0.42,North,Components,Distributor,1
+CUST01043,51,3,2413.84,6,0.23,1,5,0.29,0.02,North,Industrial Equipment,Wholesaler,0
+CUST01044,46,9,1604.41,42,0.18,1,2,0.51,-0.26,Central,Industrial Equipment,Wholesaler,0
+CUST01045,86,2,3209.93,41,0.13,0,2,0.4,0.32,West,Packaging,Wholesaler,0
+CUST01046,20,5,4906.06,37,0.12,0,23,0.36,-0.03,East,Packaging,Retailer,0
+CUST01047,30,6,2248.95,46,0.28,0,10,0.61,0.14,Central,Components,Retailer,1
+CUST01048,73,4,3295.02,53,0.45,2,6,0.2,0.02,North,Industrial Equipment,Retailer,1
+CUST01049,81,6,3067.83,76,0.08,1,5,0.35,0.46,West,Industrial Equipment,Wholesaler,0
+CUST01050,16,6,6187.68,38,0.1,0,9,0.55,-0.49,Central,Finished Goods,Wholesaler,0
+CUST01051,62,2,2474.08,92,0.26,1,16,0.2,-0.08,East,Industrial Equipment,Distributor,1
+CUST01052,45,7,2524.08,38,0.3,0,7,0.49,-0.32,East,Industrial Equipment,Wholesaler,0
+CUST01053,61,2,2174.79,21,0.38,0,29,0.39,-0.62,South,Finished Goods,Wholesaler,1
+CUST01054,116,4,1852.65,36,0.09,2,11,0.19,-0.34,Central,Finished Goods,Distributor,1
+CUST01055,11,1,4633.43,14,0.25,0,4,0.18,0.28,West,Industrial Equipment,Retailer,0
+CUST01056,120,3,3215.34,15,0.2,1,2,0.27,-0.06,East,Packaging,Wholesaler,1
+CUST01057,55,2,3569.37,27,0.2,0,15,0.16,-0.11,South,Packaging,Wholesaler,0
+CUST01058,93,6,6981.73,24,0.38,1,2,0.35,0.17,East,Packaging,Wholesaler,0
+CUST01059,52,2,7205.82,75,0.21,0,12,0.09,-0.02,East,Industrial Equipment,Distributor,1
+CUST01060,39,8,1400.48,27,0.05,1,9,0.26,0.12,South,Components,Wholesaler,0
+CUST01061,93,6,4945.87,12,0.4,1,1,0.08,0.04,Central,Industrial Equipment,Distributor,1
+CUST01062,83,5,3921.01,31,0.05,0,9,0.05,0.1,South,Components,Retailer,0
+CUST01063,19,9,2686.85,38,0.15,1,10,0.38,-0.18,North,Finished Goods,Distributor,0
+CUST01064,85,5,4147.35,33,0.37,1,5,0.06,0.24,West,Components,Retailer,0
+CUST01065,91,8,1340.09,12,0.17,0,5,0.78,-0.39,West,Finished Goods,Retailer,0
+CUST01066,48,4,7742.29,81,0.07,0,5,0.34,-0.07,North,Finished Goods,Retailer,0
+CUST01067,112,3,4597.28,5,0.15,0,15,0.47,0.26,West,Finished Goods,Wholesaler,0
+CUST01068,78,5,2151.97,33,0.28,1,4,0.44,-0.09,East,Industrial Equipment,Retailer,0
+CUST01069,41,2,2509.97,11,0.07,1,1,0.33,-0.17,West,Raw Materials,Retailer,1
+CUST01070,3,8,1357.32,62,0.28,0,7,0.08,0.59,South,Finished Goods,Wholesaler,0
+CUST01071,82,7,2914.12,42,0.29,2,1,0.2,0.35,North,Finished Goods,Wholesaler,0
+CUST01072,26,3,2655.79,38,0.15,1,8,0.45,-0.01,East,Finished Goods,Retailer,0
+CUST01073,92,6,1671.02,25,0.19,1,2,0.38,-0.32,North,Industrial Equipment,Wholesaler,0
+CUST01074,64,3,5309.15,76,0.37,0,5,0.63,-0.62,South,Raw Materials,Distributor,1
+CUST01075,57,3,6990.02,25,0.41,1,2,0.31,0.15,North,Packaging,Wholesaler,0
+CUST01076,21,4,3411.65,98,0.24,0,19,0.48,0.3,South,Finished Goods,Wholesaler,1
+CUST01077,86,6,2927.47,15,0.35,1,9,0.24,0.06,Central,Industrial Equipment,Distributor,0
+CUST01078,21,2,4399.48,31,0.17,0,2,0.3,-0.53,East,Packaging,Distributor,0
+CUST01079,51,2,3426.17,52,0.01,0,7,0.32,-0.01,West,Packaging,Retailer,0
+CUST01080,101,7,1909.89,44,0.08,0,2,0.45,-0.19,West,Finished Goods,Retailer,0
+CUST01081,111,3,2418.8,29,0.01,2,5,0.37,0,North,Components,Retailer,0
+CUST01082,119,2,2942.34,6,0.18,0,16,0.4,0.49,Central,Raw Materials,Wholesaler,0
+CUST01083,116,1,3969.93,35,0.02,0,9,0.32,0.17,North,Packaging,Distributor,0
+CUST01084,68,7,3481.21,23,0.05,1,2,0.16,0.11,South,Industrial Equipment,Retailer,0
+CUST01085,25,12,3888.21,18,0.14,0,1,0.14,-0.06,West,Industrial Equipment,Wholesaler,0
+CUST01086,101,6,1497.19,54,0.52,1,10,0.09,0.07,East,Raw Materials,Retailer,0
+CUST01087,97,4,4993.39,4,0.32,0,22,0.43,-0.25,South,Packaging,Wholesaler,0
+CUST01088,119,7,3469.89,30,0.17,1,6,0.4,0.11,South,Finished Goods,Distributor,0
+CUST01089,79,5,14100.84,1,0.27,0,15,0.05,-0.1,East,Finished Goods,Distributor,0
+CUST01090,18,10,2798.39,44,0.14,0,9,0.51,-0.28,West,Finished Goods,Distributor,1
+CUST01091,61,5,4137.73,54,0.37,0,10,0.51,0.18,West,Industrial Equipment,Wholesaler,0
+CUST01092,55,4,16416.97,34,0.03,3,2,0.36,-0.67,South,Components,Wholesaler,0
+CUST01093,102,4,3853.55,21,0.2,1,5,0.36,-0.2,South,Industrial Equipment,Distributor,1
+CUST01094,48,3,3336.92,75,0.26,1,6,0.44,0.12,North,Components,Wholesaler,0
+CUST01095,41,8,2012.62,79,0.15,1,0,0.14,0.29,Central,Raw Materials,Distributor,0
+CUST01096,11,3,8026.84,39,0.18,1,3,0.56,0.08,West,Packaging,Retailer,0
+CUST01097,101,1,1830.77,87,0.24,0,4,0.1,-0.24,South,Components,Retailer,0
+CUST01098,91,8,4380.49,15,0.03,0,2,0.14,-0.06,North,Finished Goods,Retailer,0
+CUST01099,6,7,2669.23,28,0.48,2,5,0.25,0.03,Central,Raw Materials,Distributor,0
+CUST01100,53,0,3120.86,94,0.05,1,12,0.06,0.39,North,Components,Retailer,1
+CUST01101,59,3,1582.62,11,0.36,1,12,0.12,0.21,North,Finished Goods,Distributor,0
+CUST01102,57,4,7249.73,10,0.27,0,18,0.33,0.21,Central,Raw Materials,Wholesaler,0
+CUST01103,111,1,2972.66,44,0.05,0,13,0.13,-0.03,South,Packaging,Wholesaler,0
+CUST01104,19,7,1775.26,11,0.05,0,8,0.57,-0.35,Central,Packaging,Wholesaler,0
+CUST01105,38,2,6897.95,17,0.07,2,18,0.05,-0.44,East,Industrial Equipment,Wholesaler,1
+CUST01106,23,3,2624.71,19,0.09,1,4,0.3,-0.13,East,Finished Goods,Retailer,1
+CUST01107,31,6,4163.18,9,0.1,1,6,0.35,0.15,Central,Industrial Equipment,Wholesaler,0
+CUST01108,109,1,5501.52,32,0.43,1,23,0.43,-0.19,North,Finished Goods,Distributor,1
+CUST01109,113,5,4494.99,37,0.1,0,4,0.46,0.11,South,Components,Retailer,0
+CUST01110,7,5,1034.68,7,0.1,0,0,0.33,-0.27,South,Industrial Equipment,Retailer,0
+CUST01111,77,4,5076.85,49,0.07,2,1,0.5,-0.23,West,Components,Distributor,1
+CUST01112,29,1,3276.93,14,0.38,1,6,0.38,0.34,South,Packaging,Retailer,0
+CUST01113,24,6,2890.06,19,0.05,2,2,0.58,0.16,Central,Industrial Equipment,Retailer,0
+CUST01114,36,6,3261.72,42,0.38,1,1,0.43,-0.14,West,Finished Goods,Distributor,1
+CUST01115,25,9,1428.65,19,0.46,0,12,0.51,-0.28,Central,Packaging,Distributor,0
+CUST01116,60,3,3849.48,11,0.12,0,9,0.29,0.22,Central,Packaging,Retailer,1
+CUST01117,120,6,1635.31,31,0.35,2,0,0.35,0.2,West,Finished Goods,Distributor,0
+CUST01118,71,1,2959.54,63,0.16,2,14,0.23,0.13,South,Industrial Equipment,Wholesaler,0
+CUST01119,88,3,3774.21,58,0.07,2,28,0.03,-0.1,West,Raw Materials,Retailer,0
+CUST01120,60,2,6252.4,17,0.22,2,3,0.54,-0.36,East,Finished Goods,Wholesaler,0
+CUST01121,3,9,2206.61,13,0.3,0,9,0.24,-0.05,South,Components,Distributor,1
+CUST01122,12,4,7695.36,15,0.32,2,2,0.33,0.34,South,Raw Materials,Wholesaler,0
+CUST01123,33,8,5829.98,58,0.16,1,7,0.49,-0.3,Central,Components,Wholesaler,0
+CUST01124,30,5,2734.83,15,0.02,1,10,0.33,-0.04,West,Finished Goods,Wholesaler,0
+CUST01125,102,3,1882.18,84,0.03,0,6,0.13,0.41,North,Industrial Equipment,Retailer,0
+CUST01126,102,5,1565.41,42,0.11,1,3,0.23,-0.14,South,Industrial Equipment,Wholesaler,0
+CUST01127,103,11,4021.72,28,0.36,4,4,0.17,-0.09,East,Components,Retailer,0
+CUST01128,77,6,2308.82,17,0.11,0,1,0.11,-0.43,West,Raw Materials,Distributor,0
+CUST01129,68,3,6698.55,31,0.19,0,6,0.55,0.12,South,Industrial Equipment,Retailer,0
+CUST01130,79,5,2383.35,11,0.15,1,20,0.4,-0.26,West,Finished Goods,Retailer,0
+CUST01131,50,5,2110.4,7,0.08,1,1,0.63,-0.49,South,Components,Retailer,0
+CUST01132,81,3,3938.26,42,0.11,1,17,0.47,-0.32,North,Raw Materials,Distributor,1
+CUST01133,96,2,2374.81,28,0.22,0,5,0.41,0.01,North,Finished Goods,Wholesaler,0
+CUST01134,92,7,3479.7,51,0.04,0,1,0.26,-0.49,Central,Finished Goods,Retailer,1
+CUST01135,75,5,5956.83,36,0.08,0,12,0.58,-0.44,West,Raw Materials,Wholesaler,0
+CUST01136,8,5,3694.04,17,0.35,2,7,0.4,0.11,Central,Finished Goods,Wholesaler,0
+CUST01137,88,6,3701.64,58,0.05,1,2,0.13,-0.07,East,Components,Distributor,1
+CUST01138,45,4,3877.05,19,0.26,2,3,0.16,-0.31,East,Components,Retailer,0
+CUST01139,90,2,1364.84,69,0.1,1,4,0.17,-0.14,South,Raw Materials,Retailer,1
+CUST01140,66,2,4296.31,18,0.05,0,5,0.27,0.44,North,Packaging,Distributor,0
+CUST01141,106,3,3781.83,8,0.19,2,7,0.72,0.31,West,Raw Materials,Wholesaler,0
+CUST01142,42,5,5659.52,78,0.29,3,7,0.42,-0.08,North,Raw Materials,Wholesaler,0
+CUST01143,112,7,4832.87,18,0.06,0,11,0.27,0.18,Central,Raw Materials,Retailer,0
+CUST01144,102,7,3099.29,19,0.27,2,6,0.18,-0.02,North,Finished Goods,Distributor,0
+CUST01145,41,5,6110.82,9,0.08,0,8,0.18,-0.55,Central,Packaging,Distributor,0
+CUST01146,59,4,2948.5,26,0.22,0,7,0.33,-0.6,East,Finished Goods,Wholesaler,0
+CUST01147,65,2,3967.68,10,0.26,0,0,0.54,-0.3,South,Finished Goods,Retailer,0
+CUST01148,93,5,2918.62,75,0.16,0,1,0.63,-0.49,South,Packaging,Retailer,1
+CUST01149,84,7,4464.74,21,0.24,4,2,0.43,0.03,West,Packaging,Retailer,0
+CUST01150,103,1,2815.6,13,0.03,1,6,0.41,-0.2,Central,Raw Materials,Wholesaler,0
+CUST01151,46,5,8571.12,30,0.03,1,7,0.06,0.07,East,Finished Goods,Wholesaler,0
+CUST01152,62,4,10504.4,121,0.05,1,5,0.16,0.07,East,Raw Materials,Wholesaler,0
+CUST01153,53,7,5600.81,31,0.12,0,9,0.4,0.14,Central,Components,Retailer,0
+CUST01154,110,4,8084.57,24,0.39,0,10,0.64,-0.31,East,Industrial Equipment,Retailer,1
+CUST01155,38,4,1485.39,29,0.17,0,5,0.82,0.09,South,Packaging,Distributor,0
+CUST01156,71,6,1584.85,52,0.09,1,12,0.55,-0.32,Central,Industrial Equipment,Retailer,1
+CUST01157,16,2,2901.96,49,0.05,0,5,0.08,0.15,Central,Industrial Equipment,Distributor,0
+CUST01158,103,6,3542.82,35,0.55,3,8,0.08,0.29,East,Finished Goods,Wholesaler,0
+CUST01159,47,6,3105.67,59,0.14,0,5,0.26,0.15,North,Finished Goods,Retailer,1
+CUST01160,42,5,1403.64,31,0.04,1,12,0.61,-0.1,South,Industrial Equipment,Wholesaler,0
+CUST01161,71,3,6524.86,25,0.13,0,6,0.24,0.11,Central,Components,Distributor,0
+CUST01162,61,3,11325.47,30,0.26,3,2,0.4,-0.48,Central,Components,Distributor,1
+CUST01163,102,1,7006.15,18,0.24,2,7,0.74,-0.54,West,Components,Retailer,0
+CUST01164,65,6,6292.02,53,0.34,1,5,0.59,0.08,East,Industrial Equipment,Retailer,0
+CUST01165,63,6,3922.03,18,0.13,0,8,0.47,0.32,Central,Components,Wholesaler,0
+CUST01166,14,9,2178.41,3,0.19,0,3,0.34,-0.39,East,Components,Retailer,0
+CUST01167,4,4,3604.33,7,0.24,0,5,0.26,-0.05,North,Components,Retailer,0
+CUST01168,49,3,11026.68,38,0.11,0,2,0.39,0.07,South,Raw Materials,Distributor,0
+CUST01169,120,3,2853.8,15,0.27,2,4,0.18,-0.22,South,Packaging,Wholesaler,0
+CUST01170,111,2,2696.67,50,0.08,0,7,0.41,-0.15,West,Finished Goods,Distributor,1
+CUST01171,76,7,6367.85,28,0.23,1,1,0.66,0.12,South,Industrial Equipment,Wholesaler,0
+CUST01172,77,5,6604.64,53,0.47,1,5,0.06,-0.02,West,Raw Materials,Retailer,0
+CUST01173,48,6,2172.54,4,0.31,4,1,0.06,-0.02,South,Industrial Equipment,Retailer,1
+CUST01174,23,6,2999.45,17,0.2,5,4,0.4,-0.33,West,Finished Goods,Distributor,0
+CUST01175,3,3,2627.93,13,0.13,0,1,0.14,-0.06,South,Components,Wholesaler,0
+CUST01176,42,8,3598.7,136,0.12,1,25,0.25,-0.16,South,Raw Materials,Wholesaler,0
+CUST01177,39,1,6355.19,20,0.05,1,12,0.7,-0.15,West,Industrial Equipment,Retailer,1
+CUST01178,24,3,2225.61,7,0.2,2,5,0.27,-0.2,Central,Industrial Equipment,Retailer,0
+CUST01179,32,5,6306.37,37,0.16,0,17,0.53,-0.06,West,Raw Materials,Retailer,0
+CUST01180,4,6,3662.53,12,0.33,1,3,0.26,-0.29,East,Industrial Equipment,Retailer,0
+CUST01181,74,6,12449.13,57,0.03,0,15,0.4,-0.05,Central,Raw Materials,Distributor,0
+CUST01182,112,3,4127.21,64,0.13,2,8,0.33,-0.15,Central,Industrial Equipment,Wholesaler,1
+CUST01183,84,2,3283.6,13,0.22,0,3,0.5,-0.31,Central,Components,Distributor,0
+CUST01184,55,4,4750.92,16,0.18,1,10,0.13,-0.6,North,Packaging,Distributor,0
+CUST01185,52,6,2877.19,35,0.21,0,12,0.47,0.22,Central,Finished Goods,Wholesaler,0
+CUST01186,38,8,1290.26,58,0.1,0,6,0.05,0.16,East,Components,Retailer,0
+CUST01187,18,1,3034.23,38,0.1,2,11,0.32,-0.28,West,Packaging,Wholesaler,1
+CUST01188,73,4,3008.02,20,0.33,2,10,0.21,0.14,Central,Raw Materials,Retailer,0
+CUST01189,69,5,1442.63,8,0.22,1,7,0.83,-0.34,East,Components,Distributor,0
+CUST01190,2,9,3327.01,89,0.28,0,1,0.46,-0.14,West,Components,Distributor,0
+CUST01191,51,5,1111.08,39,0.35,0,7,0.11,-0.2,Central,Raw Materials,Wholesaler,0
+CUST01192,35,3,2860.56,102,0.14,0,5,0.43,-0.13,North,Packaging,Retailer,1
+CUST01193,22,3,3959.91,43,0.22,3,9,0.47,0.13,West,Packaging,Retailer,1
+CUST01194,85,4,3653.16,93,0.1,0,2,0.26,-0.16,West,Industrial Equipment,Retailer,1
+CUST01195,64,2,2762.56,14,0.32,2,11,0.51,-0.15,North,Finished Goods,Retailer,0
+CUST01196,77,2,3304.23,15,0.01,2,3,0.21,0.16,North,Finished Goods,Distributor,0
+CUST01197,86,4,2250.18,25,0.07,0,2,0.46,-0.03,West,Packaging,Retailer,1
+CUST01198,118,6,3484.04,13,0.23,0,10,0.29,-0.22,South,Packaging,Distributor,0
+CUST01199,97,1,3575.81,6,0.31,4,18,0.82,0.02,South,Industrial Equipment,Wholesaler,1
+CUST01200,75,0,2110.88,50,0.21,2,7,0.28,0.23,South,Raw Materials,Wholesaler,1
+CUST01201,106,6,4012.76,42,0.2,0,17,0.71,0.25,East,Components,Retailer,0
+CUST01202,58,5,3999,9,0.18,0,3,0.12,-0.42,South,Industrial Equipment,Retailer,0
+CUST01203,119,3,3160.81,10,0.26,0,2,0.32,-0.41,North,Components,Wholesaler,0
+CUST01204,92,6,13115.84,18,0.15,0,14,0.07,0.23,North,Packaging,Wholesaler,0
+CUST01205,79,0,3205.47,78,0.25,0,9,0.52,-0.13,South,Raw Materials,Wholesaler,1
+CUST01206,109,3,2970.31,19,0.27,0,1,0.54,-0.67,West,Components,Retailer,0
+CUST01207,63,5,2745.4,26,0.27,2,19,0.43,-0.25,East,Finished Goods,Retailer,0
+CUST01208,87,5,2030.39,10,0.28,0,5,0.24,-0.17,West,Components,Retailer,0
+CUST01209,35,12,5050.51,18,0.14,1,6,0.09,-0.14,East,Finished Goods,Wholesaler,0
+CUST01210,116,4,2374.55,28,0.18,2,21,0.71,0.16,South,Industrial Equipment,Wholesaler,0
+CUST01211,76,8,2534.19,14,0.13,0,17,0.11,-0.31,Central,Industrial Equipment,Retailer,0
+CUST01212,95,4,2575.93,8,0.17,2,16,0.29,0.21,East,Industrial Equipment,Distributor,0
+CUST01213,56,2,2014.81,15,0.03,1,3,0.57,0.03,West,Packaging,Retailer,0
+CUST01214,105,4,1322,21,0.18,0,7,0.26,-0.41,East,Raw Materials,Distributor,0
+CUST01215,10,4,2684.86,5,0.26,0,9,0.15,-0.14,East,Packaging,Wholesaler,0
+CUST01216,15,4,5598.95,43,0.24,2,2,0.36,0.09,Central,Components,Wholesaler,1
+CUST01217,62,5,3859.68,22,0.28,1,1,0.33,-0.04,South,Components,Retailer,0
+CUST01218,89,5,8170.75,15,0.22,0,5,0.17,0.06,Central,Packaging,Wholesaler,0
+CUST01219,98,1,5234.5,6,0.26,1,11,0.63,-0.21,North,Packaging,Wholesaler,0
+CUST01220,54,9,4620.14,39,0.07,2,0,0.32,0.11,Central,Components,Retailer,0
+CUST01221,79,6,9754.24,64,0.38,2,6,0.39,-0.16,West,Components,Retailer,0
+CUST01222,67,10,3283.19,17,0.02,0,2,0.2,0.66,Central,Finished Goods,Wholesaler,0
+CUST01223,116,1,3585.64,96,0.35,3,12,0.34,-0.42,South,Industrial Equipment,Wholesaler,1
+CUST01224,79,5,3441.61,27,0.01,1,8,0.26,0.71,West,Packaging,Wholesaler,0
+CUST01225,51,4,8095.65,28,0.44,1,12,0.26,-0.32,West,Finished Goods,Retailer,1
+CUST01226,117,3,3468.17,52,0.24,1,8,0.48,0.31,North,Industrial Equipment,Retailer,1
+CUST01227,14,6,2424.66,40,0.19,0,5,0.66,0.18,West,Components,Wholesaler,1
+CUST01228,119,5,4784.91,9,0.2,1,25,0.17,-0.3,Central,Raw Materials,Retailer,0
+CUST01229,20,2,2210.68,17,0.18,1,5,0.41,0.12,Central,Raw Materials,Retailer,0
+CUST01230,36,6,4644.36,58,0.01,1,3,0.44,-0.19,West,Packaging,Retailer,1
+CUST01231,99,3,4348.61,41,0.17,2,10,0.43,0.03,Central,Raw Materials,Distributor,0
+CUST01232,89,4,3120.75,96,0.24,0,20,0.14,-0.01,South,Components,Retailer,0
+CUST01233,117,4,4727.71,36,0.44,0,0,0.08,-0.15,West,Finished Goods,Wholesaler,0
+CUST01234,91,3,1528,42,0.19,1,14,0.23,-0.17,South,Industrial Equipment,Wholesaler,1
+CUST01235,77,9,3788.14,15,0.14,0,10,0.47,0.05,Central,Packaging,Retailer,0
+CUST01236,43,6,2685.12,63,0.02,1,17,0.63,-0.3,East,Finished Goods,Retailer,1
+CUST01237,2,6,16718.06,2,0.11,1,15,0.08,-0.29,Central,Industrial Equipment,Retailer,0
+CUST01238,16,0,3773.29,108,0.17,3,8,0.49,0.22,South,Finished Goods,Retailer,1
+CUST01239,37,5,2494.85,43,0.26,0,10,0.13,0.07,South,Components,Distributor,0
+CUST01240,6,6,1622.84,35,0.09,1,7,0.74,-0.42,Central,Packaging,Wholesaler,0
+CUST01241,62,5,7100.88,27,0.35,0,18,0.25,-0.33,Central,Industrial Equipment,Distributor,1
+CUST01242,94,7,2856.87,25,0.2,1,3,0.53,-0.65,North,Packaging,Distributor,0
+CUST01243,116,5,2241.18,28,0.14,1,6,0.24,0.2,South,Industrial Equipment,Retailer,0
+CUST01244,60,4,4167.05,11,0.33,2,11,0.71,0.14,North,Packaging,Wholesaler,0
+CUST01245,106,5,4951,35,0.15,0,12,0.37,-0.35,West,Finished Goods,Wholesaler,0
+CUST01246,119,3,4908.26,15,0.35,0,12,0.26,0.13,North,Packaging,Distributor,0
+CUST01247,104,6,3501.21,17,0.22,1,9,0.02,0.51,North,Components,Distributor,0
+CUST01248,57,5,3780.28,10,0.18,0,13,0.3,-0.48,East,Finished Goods,Retailer,0
+CUST01249,40,5,3934.82,156,0.16,0,10,0.61,-0.22,Central,Raw Materials,Wholesaler,1
+CUST01250,118,5,4167.28,33,0.04,1,21,0.19,-0.49,West,Components,Retailer,0
+CUST01251,30,4,4375.11,8,0.04,0,3,0.47,0.22,West,Finished Goods,Distributor,0
+CUST01252,50,3,6323,30,0.17,1,13,0.23,-0.08,East,Components,Retailer,0
+CUST01253,10,7,3572.53,63,0.2,1,6,0.17,-0.16,North,Raw Materials,Retailer,0
+CUST01254,96,5,2210.02,34,0.09,0,7,0.09,0.01,South,Components,Distributor,0
+CUST01255,79,4,3199.15,27,0.24,0,22,0.28,-0.21,West,Packaging,Retailer,1
+CUST01256,12,3,5242.63,14,0.04,0,22,0.31,-0.16,Central,Finished Goods,Wholesaler,1
+CUST01257,28,2,1296.48,34,0.14,0,18,0.6,0.03,North,Components,Wholesaler,1
+CUST01258,68,6,1300.61,48,0.24,1,4,0.16,-0.22,South,Industrial Equipment,Wholesaler,0
+CUST01259,66,1,5739.07,48,0.21,0,4,0.59,-0.18,North,Packaging,Retailer,0
+CUST01260,97,2,7990.97,32,0.12,1,2,0.05,-0.09,North,Packaging,Retailer,0
+CUST01261,33,6,1727,32,0.2,1,19,0.08,-0.02,South,Components,Wholesaler,0
+CUST01262,112,3,3660.13,70,0.07,2,2,0.26,0.12,North,Packaging,Wholesaler,0
+CUST01263,54,3,2780.12,65,0.29,0,5,0.04,0.11,South,Packaging,Distributor,0
+CUST01264,99,7,3000.53,24,0.26,1,4,0.16,-0.47,East,Components,Distributor,0
+CUST01265,30,8,4097.13,91,0.16,2,4,0.43,0.34,West,Raw Materials,Wholesaler,0
+CUST01266,6,8,1700.91,8,0.07,0,1,0.18,-0.03,East,Components,Retailer,0
+CUST01267,8,1,1883.77,33,0.14,1,4,0.51,-0.14,East,Packaging,Distributor,1
+CUST01268,46,4,2934.56,36,0.39,2,7,0.31,-0.3,West,Finished Goods,Retailer,1
+CUST01269,115,3,3197.24,13,0.06,1,2,0.33,0.51,South,Packaging,Distributor,0
+CUST01270,7,5,1864.46,6,0.16,0,3,0.18,0.61,North,Raw Materials,Distributor,0
+CUST01271,45,7,5347.08,13,0.01,0,17,0.44,0.47,North,Industrial Equipment,Distributor,0
+CUST01272,15,5,2752.71,55,0.31,1,2,0.34,-0.02,Central,Raw Materials,Retailer,1
+CUST01273,112,2,2746.27,56,0.29,0,6,0.41,0.05,Central,Raw Materials,Retailer,0
+CUST01274,82,5,4045.91,46,0.12,0,6,0.09,0.37,South,Industrial Equipment,Wholesaler,0
+CUST01275,92,2,3226.33,15,0.26,1,3,0.34,-0.12,West,Raw Materials,Wholesaler,0
+CUST01276,86,3,5489.61,56,0.28,0,14,0.16,0.1,South,Industrial Equipment,Retailer,1
+CUST01277,80,11,2072.72,16,0.12,0,17,0.49,0.01,South,Packaging,Wholesaler,0
+CUST01278,94,8,1605.9,34,0.23,1,1,0.39,0.49,West,Raw Materials,Wholesaler,0
+CUST01279,2,5,2920.81,28,0.16,1,4,0.36,0.35,Central,Packaging,Retailer,1
+CUST01280,104,2,3580.04,20,0.28,3,3,0.23,-0.09,West,Components,Retailer,0
+CUST01281,90,10,1750.37,44,0.08,0,5,0.51,0.38,Central,Packaging,Wholesaler,0
+CUST01282,89,5,1614.43,51,0.27,2,6,0.34,-0.05,Central,Raw Materials,Retailer,0
+CUST01283,48,5,3828.64,14,0.11,0,1,0.66,-0.2,North,Raw Materials,Wholesaler,0
+CUST01284,97,6,2282.94,29,0.07,0,6,0.63,-0.13,East,Industrial Equipment,Distributor,1
+CUST01285,47,0,1557.94,143,0.39,0,22,0.41,-0.01,East,Industrial Equipment,Distributor,1
+CUST01286,7,5,5889.57,1,0.28,0,15,0.35,-0.27,North,Packaging,Distributor,1
+CUST01287,110,5,2446.74,38,0.3,0,7,0.5,-0.19,South,Components,Wholesaler,0
+CUST01288,29,11,6518.48,50,0.2,0,1,0.24,-0.45,Central,Packaging,Distributor,0
+CUST01289,14,7,3518.04,39,0.13,0,12,0.11,-0.28,North,Finished Goods,Wholesaler,0
+CUST01290,76,4,4072.93,41,0.01,0,4,0.59,0.02,East,Finished Goods,Distributor,0
+CUST01291,29,4,3083.05,26,0.65,3,14,0.39,0.24,East,Components,Retailer,0
+CUST01292,104,5,804.05,47,0.18,1,13,0.22,0.21,West,Finished Goods,Wholesaler,0
+CUST01293,54,5,1853.38,9,0.19,1,5,0.35,0.07,East,Raw Materials,Retailer,1
+CUST01294,2,2,3232.01,13,0.16,1,6,0.35,-0.48,North,Components,Retailer,0
+CUST01295,115,2,4232.72,40,0.15,1,3,0.3,-0.29,East,Industrial Equipment,Wholesaler,0
+CUST01296,63,5,1294.24,47,0.04,0,1,0.56,-0.11,South,Components,Retailer,1
+CUST01297,33,4,3362.77,63,0.18,1,6,0.26,0.22,North,Raw Materials,Retailer,1
+CUST01298,82,5,1868.24,82,0.22,1,11,0.47,-0.21,Central,Raw Materials,Distributor,1
+CUST01299,65,6,3940.41,15,0.5,3,7,0.03,-0.39,East,Packaging,Wholesaler,1
+CUST01300,5,7,3426.62,10,0.19,1,6,0.12,0.36,Central,Raw Materials,Wholesaler,0
+CUST01301,92,8,5213.08,54,0.25,1,10,0.65,-0.26,Central,Packaging,Distributor,0
+CUST01302,49,3,6227.64,20,0.14,0,5,0.6,-0.37,Central,Industrial Equipment,Wholesaler,0
+CUST01303,85,3,4457.95,27,0.24,3,7,0.15,0.01,South,Components,Distributor,1
+CUST01304,108,3,5559.24,50,0.02,0,5,0.22,-0.06,Central,Finished Goods,Retailer,1
+CUST01305,74,5,2856.38,33,0.63,1,6,0.18,-0.19,North,Components,Retailer,1
+CUST01306,81,5,16361.96,46,0.13,0,2,0.39,-0.05,East,Finished Goods,Retailer,0
+CUST01307,32,4,1771.62,14,0.22,0,3,0.22,-0.31,Central,Finished Goods,Distributor,0
+CUST01308,30,9,2590.83,36,0.43,0,22,0.14,-0.19,East,Components,Retailer,0
+CUST01309,51,7,5685.91,35,0.24,1,2,0.32,-0.06,South,Components,Wholesaler,0
+CUST01310,103,1,5239.58,62,0.07,0,23,0.19,-0.62,North,Components,Wholesaler,1
+CUST01311,64,7,4528.13,72,0.21,0,7,0.22,0.22,East,Finished Goods,Distributor,0
+CUST01312,43,6,5021.21,19,0.13,1,1,0.33,-0.43,West,Components,Distributor,0
+CUST01313,94,2,1101.08,12,0.2,1,12,0.16,-0.31,Central,Raw Materials,Retailer,0
+CUST01314,103,4,8300.86,48,0.07,0,1,0.41,0.23,West,Finished Goods,Retailer,0
+CUST01315,109,7,3095.98,5,0.19,0,12,0.52,0.11,East,Packaging,Wholesaler,0
+CUST01316,37,8,6872.22,51,0.21,0,9,0.23,-0.03,West,Industrial Equipment,Distributor,0
+CUST01317,86,4,1131.8,53,0.2,1,7,0.12,-0.53,West,Components,Retailer,1
+CUST01318,72,5,3988.27,18,0.21,1,8,0.45,-0.22,South,Finished Goods,Wholesaler,0
+CUST01319,55,4,2540.39,1,0.25,0,8,0.31,-0.11,South,Raw Materials,Retailer,0
+CUST01320,49,6,4744.14,57,0.15,0,5,0.5,-0.09,South,Raw Materials,Retailer,0
+CUST01321,15,3,4123.22,75,0.07,0,24,0.83,0.27,West,Packaging,Retailer,1
+CUST01322,34,8,4235.79,72,0.12,0,18,0.17,0.51,Central,Raw Materials,Distributor,0
+CUST01323,67,6,1934.46,74,0.07,0,12,0.65,0.12,North,Raw Materials,Wholesaler,0
+CUST01324,107,3,3356.54,8,0.25,1,5,0.19,-0.2,Central,Components,Wholesaler,0
+CUST01325,105,7,3136.64,30,0.18,0,4,0.34,0.29,North,Industrial Equipment,Wholesaler,0
+CUST01326,24,5,4547.9,35,0.08,0,8,0.23,-0.22,East,Components,Wholesaler,0
+CUST01327,82,6,5967.68,31,0.32,0,4,0.33,-0.78,East,Raw Materials,Retailer,0
+CUST01328,12,2,3762.21,47,0.05,0,5,0.64,-0.4,North,Finished Goods,Distributor,1
+CUST01329,82,2,1716.61,11,0.04,0,12,0.39,-0.71,West,Finished Goods,Retailer,0
+CUST01330,42,6,3674.49,5,0.13,1,18,0.23,-0.16,Central,Industrial Equipment,Distributor,0
+CUST01331,55,6,14560.85,3,0.12,0,8,0.22,-0.1,South,Finished Goods,Distributor,1
+CUST01332,87,5,8563.83,58,0.12,0,8,0.37,-0.5,West,Finished Goods,Wholesaler,0
+CUST01333,52,3,674.57,8,0.02,1,1,0.13,-0.29,Central,Industrial Equipment,Wholesaler,0
+CUST01334,98,7,3586.17,31,0.27,2,12,0.08,-0.45,West,Packaging,Distributor,0
+CUST01335,65,3,5782.93,17,0.22,0,13,0.05,-0.09,East,Components,Retailer,0
+CUST01336,120,3,3132.92,18,0.28,1,15,0.49,-0.29,Central,Raw Materials,Wholesaler,0
+CUST01337,77,6,2689.07,24,0.34,0,35,0.66,0.23,East,Packaging,Retailer,1
+CUST01338,37,2,2990.42,19,0.15,0,4,0.04,0,West,Industrial Equipment,Wholesaler,0
+CUST01339,94,4,4692.42,5,0.12,0,20,0.23,0.4,West,Finished Goods,Wholesaler,0
+CUST01340,50,5,1841.51,24,0.23,1,18,0.2,-0.18,West,Components,Retailer,1
+CUST01341,65,6,6659.36,14,0.12,3,8,0.53,0.55,South,Packaging,Retailer,0
+CUST01342,18,5,3358.35,14,0.37,2,1,0.36,-0.05,West,Industrial Equipment,Wholesaler,0
+CUST01343,16,9,2070.9,90,0.1,0,17,0.37,-0.2,South,Raw Materials,Distributor,0
+CUST01344,70,5,6427.83,7,0.1,1,20,0.52,0.62,East,Finished Goods,Wholesaler,0
+CUST01345,24,5,1480.56,23,0.55,4,2,0.68,-0.56,East,Finished Goods,Wholesaler,1
+CUST01346,120,6,2552,33,0.24,2,11,0.15,-0.2,South,Industrial Equipment,Distributor,0
+CUST01347,103,9,2529,90,0.19,0,7,0.28,-0.52,West,Industrial Equipment,Distributor,1
+CUST01348,85,3,11261.76,10,0.1,1,7,0.21,-0.56,South,Industrial Equipment,Wholesaler,1
+CUST01349,89,4,2376.15,69,0.13,2,1,0.48,-0.63,North,Components,Wholesaler,0
+CUST01350,72,8,1058.67,24,0.1,1,17,0.31,0.12,West,Raw Materials,Wholesaler,0
+CUST01351,9,1,2514.93,25,0.18,1,5,0.07,-0.42,Central,Finished Goods,Retailer,1
+CUST01352,48,9,4449.53,45,0.16,2,26,0.32,-0.12,South,Raw Materials,Distributor,1
+CUST01353,61,3,5330.75,77,0.12,4,6,0.14,0.2,East,Packaging,Retailer,0
+CUST01354,110,5,12113.75,18,0.14,3,4,0.63,0.08,Central,Finished Goods,Wholesaler,1
+CUST01355,28,3,7508.52,35,0.04,0,5,0.18,0.07,South,Packaging,Distributor,0
+CUST01356,61,11,3840.5,32,0.17,1,6,0.45,0.29,East,Industrial Equipment,Wholesaler,0
+CUST01357,42,5,2121.17,30,0.2,1,6,0.32,0.4,West,Packaging,Retailer,0
+CUST01358,17,6,8460.94,50,0.4,1,17,0.54,-0.4,West,Industrial Equipment,Retailer,0
+CUST01359,14,6,2827.9,15,0.18,0,6,0.37,0.09,North,Finished Goods,Wholesaler,0
+CUST01360,45,8,2411.52,21,0.17,1,19,0.34,-0.13,North,Industrial Equipment,Retailer,0
+CUST01361,11,2,2753.45,5,0.02,2,16,0.49,-0.09,South,Raw Materials,Retailer,0
+CUST01362,9,2,1739.31,42,0.05,1,15,0.22,-0.47,East,Finished Goods,Retailer,0
+CUST01363,43,7,2681.79,29,0.34,3,13,0.14,-0.2,West,Components,Wholesaler,0
+CUST01364,26,7,3046.63,76,0.13,0,2,0.19,-0.17,South,Finished Goods,Wholesaler,0
+CUST01365,68,4,5176.38,10,0.15,1,13,0.09,0.35,North,Components,Retailer,0
+CUST01366,4,7,2797.7,98,0.27,1,16,0.28,-0.37,West,Raw Materials,Wholesaler,1
+CUST01367,37,4,1724.85,47,0.21,1,20,0.4,-0.72,East,Industrial Equipment,Wholesaler,1
+CUST01368,55,3,1433.57,46,0.11,2,1,0.59,-0.05,North,Packaging,Wholesaler,0
+CUST01369,116,0,3886.5,94,0.13,3,16,0.62,-0.4,East,Raw Materials,Distributor,1
+CUST01370,77,7,3604.52,22,0.16,0,1,0.38,-0.09,East,Finished Goods,Retailer,0
+CUST01371,106,6,2553.26,19,0.1,1,11,0.27,0.14,East,Components,Wholesaler,0
+CUST01372,42,6,2678.2,67,0.13,1,10,0.54,-0.08,Central,Components,Retailer,1
+CUST01373,55,9,4288.39,4,0.06,1,3,0.11,-0.17,North,Industrial Equipment,Retailer,0
+CUST01374,52,3,7441.3,25,0.2,0,8,0.22,-0.09,West,Components,Wholesaler,0
+CUST01375,107,3,2255.03,27,0.2,1,6,0.16,0.19,North,Packaging,Wholesaler,1
+CUST01376,116,1,3636.93,19,0.33,0,10,0.23,-0.37,West,Industrial Equipment,Wholesaler,1
+CUST01377,116,3,5866.71,12,0.05,1,7,0.48,0.15,South,Industrial Equipment,Distributor,0
+CUST01378,91,3,2260.04,2,0.14,2,9,0.14,-0.33,West,Raw Materials,Distributor,0
+CUST01379,61,6,3433.73,26,0.18,0,5,0.15,0.12,North,Industrial Equipment,Retailer,0
+CUST01380,66,3,3391.75,42,0.13,1,33,0.08,-0.48,West,Components,Wholesaler,0
+CUST01381,118,5,1683.76,29,0.11,0,10,0.32,0.1,South,Raw Materials,Wholesaler,0
+CUST01382,35,4,3799.69,12,0.14,1,5,0.23,-0.08,South,Packaging,Wholesaler,0
+CUST01383,43,4,3523.99,27,0.18,0,4,0.42,-0.02,South,Components,Wholesaler,0
+CUST01384,108,5,4699.9,76,0.09,0,13,0.16,0.22,South,Raw Materials,Distributor,1
+CUST01385,47,3,1803.01,16,0.17,1,45,0.69,-0.28,West,Industrial Equipment,Wholesaler,0
+CUST01386,29,3,3482.42,33,0.23,0,18,0.43,-0.06,North,Raw Materials,Distributor,1
+CUST01387,68,3,7405.32,36,0.02,1,7,0.72,0.03,West,Raw Materials,Wholesaler,1
+CUST01388,40,2,10857.65,7,0.26,3,1,0.61,-0.13,North,Components,Distributor,0
+CUST01389,108,2,7002.84,22,0.5,0,3,0.13,0.15,South,Finished Goods,Retailer,0
+CUST01390,110,4,1812.77,22,0.17,0,4,0.55,0.04,East,Packaging,Retailer,0
+CUST01391,38,6,4438.53,28,0.11,0,1,0.12,-0.21,North,Raw Materials,Wholesaler,0
+CUST01392,65,4,2655.18,65,0.28,1,6,0.25,0.3,Central,Raw Materials,Wholesaler,0
+CUST01393,119,4,4048.68,9,0.12,1,12,0.18,0.11,West,Components,Retailer,0
+CUST01394,90,5,2264.89,68,0.17,0,5,0.4,-0.29,West,Components,Wholesaler,0
+CUST01395,27,5,1349.64,44,0.18,0,14,0.46,-0.29,Central,Finished Goods,Distributor,0
+CUST01396,72,7,2865.55,100,0.13,0,4,0.14,-0.11,South,Components,Distributor,0
+CUST01397,75,3,5153.5,3,0.16,2,2,0.15,0.08,North,Packaging,Retailer,0
+CUST01398,79,3,4057.81,137,0.11,1,4,0.49,-0.67,Central,Finished Goods,Wholesaler,1
+CUST01399,4,3,4322.64,7,0.21,1,3,0.44,-0.27,West,Components,Distributor,1
+CUST01400,37,3,3901.02,13,0.15,1,1,0.7,-0.21,East,Raw Materials,Distributor,0
+CUST01401,103,3,4326.4,13,0,0,2,0.22,-0.45,North,Packaging,Retailer,0
+CUST01402,30,2,4634.26,43,0.11,1,1,0.27,-0.34,South,Industrial Equipment,Retailer,1
+CUST01403,37,3,2977.76,23,0.17,1,1,0.24,-0.01,East,Components,Retailer,0
+CUST01404,40,2,3624.93,15,0.43,0,5,0.13,-0.19,North,Industrial Equipment,Wholesaler,0
+CUST01405,23,2,9034.38,88,0.37,1,4,0.27,-0.16,East,Packaging,Distributor,1
+CUST01406,20,6,3744.78,2,0.11,1,28,0.23,-0.44,Central,Raw Materials,Retailer,0
+CUST01407,43,5,3545.41,57,0.1,0,3,0.16,-0.11,East,Raw Materials,Wholesaler,1
+CUST01408,106,4,3665.01,26,0.13,0,5,0.38,-0.47,West,Industrial Equipment,Retailer,0
+CUST01409,2,4,3072.2,15,0.23,2,8,0.1,0.36,South,Components,Retailer,1
+CUST01410,35,8,2725.9,17,0.39,1,15,0.23,0.44,East,Raw Materials,Wholesaler,0
+CUST01411,9,6,3884.59,21,0.21,2,19,0.38,-0.18,North,Industrial Equipment,Wholesaler,1
+CUST01412,68,3,2622.43,13,0.16,2,8,0.8,-0.36,West,Raw Materials,Retailer,0
+CUST01413,31,4,3197,50,0.09,1,6,0.23,0.19,East,Raw Materials,Retailer,0
+CUST01414,96,4,2242.21,20,0.32,0,3,0.07,0.12,West,Components,Retailer,1
+CUST01415,71,8,3675.36,45,0.43,3,7,0.48,0.47,South,Components,Distributor,0
+CUST01416,95,4,4775.75,17,0.21,0,18,0.21,0.55,South,Industrial Equipment,Distributor,0
+CUST01417,77,7,3082.35,32,0.21,1,7,0.49,-0.62,West,Finished Goods,Wholesaler,1
+CUST01418,54,6,1147.56,32,0.14,0,10,0.61,0.27,West,Packaging,Distributor,0
+CUST01419,104,2,4792.01,28,0.38,0,13,0.12,-0.11,West,Industrial Equipment,Wholesaler,1
+CUST01420,58,3,3700.05,69,0.26,1,9,0.25,0.1,North,Raw Materials,Retailer,0
+CUST01421,115,13,2005.65,74,0.09,0,10,0.64,0.17,North,Finished Goods,Wholesaler,0
+CUST01422,120,7,5299.13,49,0.12,1,9,0.22,0.16,South,Raw Materials,Distributor,0
+CUST01423,72,3,1604.98,60,0.16,0,2,0.38,0.23,South,Finished Goods,Wholesaler,0
+CUST01424,82,3,6154.72,47,0.03,0,7,0.35,-0.21,East,Finished Goods,Distributor,0
+CUST01425,32,4,3355.81,19,0.19,0,8,0,-0.32,East,Components,Wholesaler,0
+CUST01426,98,6,994.38,25,0.34,2,23,0.42,0.28,North,Industrial Equipment,Distributor,0
+CUST01427,81,3,3820.29,3,0.04,0,3,0.36,-0.29,North,Raw Materials,Distributor,0
+CUST01428,109,5,2769.98,11,0.32,0,8,0.44,0.47,Central,Industrial Equipment,Distributor,0
+CUST01429,33,5,2549.7,7,0.24,3,5,0.25,-0.26,East,Components,Distributor,0
+CUST01430,95,3,2308.26,15,0.19,2,22,0.32,-0.16,North,Raw Materials,Retailer,1
+CUST01431,57,3,3229.33,34,0.14,0,16,0.7,-0.1,Central,Components,Wholesaler,1
+CUST01432,24,4,2652.2,18,0.32,1,8,0.03,-0.48,South,Packaging,Retailer,1
+CUST01433,22,5,1247.4,52,0.1,0,0,0.6,-0.48,West,Finished Goods,Distributor,0
+CUST01434,68,2,6971.86,12,0.17,0,17,0.19,0.21,East,Finished Goods,Wholesaler,0
+CUST01435,40,6,3027.84,44,0.25,2,1,0.21,-0.53,North,Components,Retailer,1
+CUST01436,14,3,2315.63,11,0.05,0,1,0.31,0.66,West,Packaging,Wholesaler,1
+CUST01437,52,4,1861.93,66,0.21,0,14,0.55,-0.08,South,Packaging,Retailer,0
+CUST01438,79,5,5291.74,12,0.41,2,10,0.26,-0.34,North,Industrial Equipment,Wholesaler,1
+CUST01439,39,5,1695.72,39,0.11,3,9,0.07,0.07,South,Finished Goods,Retailer,0
+CUST01440,115,4,3728.25,15,0.28,0,4,0.64,-0.74,Central,Finished Goods,Distributor,1
+CUST01441,94,2,2512.4,82,0.15,3,1,0.45,-0.14,East,Components,Wholesaler,1
+CUST01442,63,6,2594.16,80,0.06,0,9,0.39,-0.11,East,Raw Materials,Distributor,0
+CUST01443,113,3,1887.56,38,0.36,0,2,0.18,-0.4,West,Components,Retailer,1
+CUST01444,53,3,2462.23,38,0.15,0,11,0.09,-0.23,South,Industrial Equipment,Retailer,0
+CUST01445,18,4,3480.21,49,0.06,1,2,0.54,0.38,North,Industrial Equipment,Distributor,0
+CUST01446,6,6,3941.91,43,0.37,2,8,0.11,0,North,Industrial Equipment,Wholesaler,0
+CUST01447,113,4,2248.29,54,0.47,0,2,0.44,0.06,North,Finished Goods,Retailer,1
+CUST01448,116,3,3294.42,12,0.35,2,13,0.32,-0.27,Central,Raw Materials,Distributor,0
+CUST01449,89,5,5645.7,28,0.15,1,9,0.31,-0.42,Central,Finished Goods,Retailer,0
+CUST01450,14,7,1387.91,16,0.16,0,7,0.21,-0.12,East,Industrial Equipment,Retailer,0
+CUST01451,36,2,3451.46,79,0.29,2,3,0.4,-0.74,East,Industrial Equipment,Wholesaler,1
+CUST01452,6,5,2053.02,8,0.24,1,1,0.23,-0.36,South,Industrial Equipment,Wholesaler,0
+CUST01453,8,6,1941.13,88,0.24,1,9,0.29,-0.4,East,Packaging,Wholesaler,0
+CUST01454,31,4,3998.03,29,0.09,0,4,0.32,-0.62,North,Raw Materials,Retailer,0
+CUST01455,70,8,2566.02,55,0.14,1,7,0.55,0.13,West,Packaging,Retailer,0
+CUST01456,9,1,1773.59,18,0.19,0,7,0.44,-0.09,East,Components,Retailer,0
+CUST01457,119,4,7174.98,8,0.04,1,6,0.07,-0.22,Central,Industrial Equipment,Wholesaler,0
+CUST01458,56,10,5744.79,77,0.18,1,16,0.6,0.14,South,Raw Materials,Retailer,1
+CUST01459,33,7,1196.59,41,0.12,0,6,0.46,-0.51,West,Industrial Equipment,Wholesaler,1
+CUST01460,63,4,1539.27,9,0.33,2,2,0.7,-0.43,North,Components,Distributor,1
+CUST01461,96,5,4800.14,26,0.43,1,11,0.16,0.26,North,Components,Distributor,0
+CUST01462,39,2,2961.11,24,0.09,0,11,0.08,0.59,West,Raw Materials,Distributor,0
+CUST01463,7,3,7905.52,40,0.23,0,3,0.21,0.14,Central,Finished Goods,Retailer,0
+CUST01464,8,9,4860.93,12,0.07,0,3,0.39,0.08,Central,Packaging,Wholesaler,0
+CUST01465,103,5,4083.48,9,0.13,1,9,0.08,-0.21,North,Finished Goods,Distributor,0
+CUST01466,15,7,1974.31,31,0.18,0,2,0.17,-0.21,South,Industrial Equipment,Retailer,0
+CUST01467,77,5,4538.23,12,0.11,0,9,0.39,0.01,East,Components,Retailer,1
+CUST01468,47,2,1716.99,78,0.14,0,20,0.02,0.33,South,Packaging,Retailer,1
+CUST01469,94,3,7100.24,51,0.1,1,11,0.26,0.07,South,Finished Goods,Wholesaler,0
+CUST01470,9,1,4368.51,50,0.08,0,21,0.41,0.22,South,Packaging,Distributor,0
+CUST01471,108,5,2200.29,3,0.46,1,7,0.32,-0.31,North,Finished Goods,Wholesaler,0
+CUST01472,85,2,5391.47,19,0.17,1,7,0.18,0.12,Central,Raw Materials,Wholesaler,1
+CUST01473,55,7,11882.7,22,0.28,2,8,0.41,-0.24,South,Finished Goods,Wholesaler,1
+CUST01474,26,8,3072.7,10,0.06,0,10,0.04,-0.01,East,Industrial Equipment,Distributor,0
+CUST01475,118,4,4687.84,43,0.18,0,9,0.71,0.12,West,Components,Retailer,0
+CUST01476,37,11,2731.19,39,0.04,1,3,0.17,-0.2,North,Industrial Equipment,Wholesaler,0
+CUST01477,60,5,3629.84,49,0.36,1,6,0.07,-0.33,South,Finished Goods,Distributor,0
+CUST01478,48,5,1511.75,59,0.29,2,16,0.4,0.05,West,Finished Goods,Distributor,1
+CUST01479,29,5,3462.37,57,0.05,0,2,0.61,-0.09,Central,Industrial Equipment,Retailer,1
+CUST01480,51,3,3547.39,145,0.15,1,8,0.49,-0.01,East,Components,Retailer,1
+CUST01481,20,6,9315.63,27,0.17,2,10,0.23,0.13,Central,Packaging,Distributor,0
+CUST01482,2,7,1290.45,24,0.07,0,10,0.7,0.32,North,Packaging,Distributor,0
+CUST01483,36,3,2967.62,43,0.16,2,1,0.27,0.14,West,Finished Goods,Retailer,1
+CUST01484,15,2,7033.67,67,0.41,1,2,0.68,0.1,Central,Industrial Equipment,Retailer,1
+CUST01485,51,6,3032.15,5,0.16,0,15,0.2,-0.19,West,Industrial Equipment,Retailer,0
+CUST01486,104,2,3151.9,14,0.25,2,15,0.73,-0.15,North,Finished Goods,Wholesaler,0
+CUST01487,21,10,2190.11,17,0.21,2,7,0.41,0.08,North,Components,Retailer,0
+CUST01488,2,4,2073.65,30,0.19,1,9,0.81,-0.15,East,Packaging,Retailer,0
+CUST01489,15,5,1268.74,19,0.04,0,2,0.29,0.08,East,Raw Materials,Distributor,0
+CUST01490,62,7,2450.22,60,0.08,1,2,0.35,-0.28,West,Packaging,Retailer,0
+CUST01491,34,1,2009.93,33,0.16,1,1,0.22,0.49,Central,Industrial Equipment,Distributor,0
+CUST01492,60,8,3695.69,25,0.13,0,2,0.27,0,East,Finished Goods,Wholesaler,0
+CUST01493,5,6,2245.72,40,0.46,1,9,0.03,-0.01,South,Raw Materials,Wholesaler,0
+CUST01494,41,5,2660.38,4,0.26,0,6,0.11,-0.19,North,Industrial Equipment,Distributor,0
+CUST01495,50,5,2700.76,38,0.08,0,7,0.2,0.49,Central,Components,Retailer,0
+CUST01496,53,5,3372.84,13,0.4,0,7,0.23,-0.4,West,Finished Goods,Retailer,0
+CUST01497,67,6,2589.74,52,0.27,0,2,0.39,-0.25,West,Components,Wholesaler,0
+CUST01498,94,5,1931.43,4,0.03,0,9,0.3,0.19,West,Components,Wholesaler,0
+CUST01499,57,8,3630.67,41,0.17,0,17,0.05,0.02,Central,Packaging,Wholesaler,0
+CUST01500,102,4,6229.9,13,0.41,0,2,0.17,-0.21,Central,Packaging,Distributor,0
+CUST01501,65,6,3716.94,68,0.06,0,6,0.09,-0.2,Central,Raw Materials,Distributor,0
+CUST01502,32,4,2476.49,6,0.14,1,12,0.28,-0.13,North,Industrial Equipment,Retailer,0
+CUST01503,29,5,3236.57,29,0.4,1,15,0.1,-0.02,South,Finished Goods,Retailer,1
+CUST01504,40,3,1121.2,47,0.26,0,10,0.08,0.39,North,Components,Wholesaler,0
+CUST01505,73,4,3207.76,36,0.12,0,2,0.13,0.12,North,Finished Goods,Distributor,0
+CUST01506,30,2,2778.89,36,0.1,0,1,0.44,0.24,Central,Industrial Equipment,Retailer,0
+CUST01507,110,5,2072.68,8,0.45,2,5,0.54,-0.17,East,Industrial Equipment,Retailer,0
+CUST01508,59,5,2290.09,8,0.03,0,6,0.31,0.09,West,Components,Retailer,0
+CUST01509,104,3,2763.83,35,0.34,1,15,0.67,-0.49,East,Raw Materials,Distributor,0
+CUST01510,83,4,5978.06,31,0.15,1,4,0.12,0,East,Industrial Equipment,Retailer,0
+CUST01511,41,1,6314.69,11,0.27,0,2,0.68,-0.02,North,Raw Materials,Wholesaler,1
+CUST01512,29,4,2078.77,10,0.23,0,3,0.14,0.46,West,Finished Goods,Retailer,0
+CUST01513,90,6,2604.66,26,0.17,0,10,0.16,0.39,West,Packaging,Wholesaler,0
+CUST01514,41,0,2641.43,67,0.15,2,7,0.3,-0.12,North,Finished Goods,Retailer,0
+CUST01515,31,7,5405.92,97,0.37,1,6,0.32,-0.28,South,Industrial Equipment,Wholesaler,0
+CUST01516,112,5,3751.94,70,0.37,0,15,0.1,-0.27,Central,Packaging,Retailer,1
+CUST01517,59,4,3644.72,51,0.05,0,0,0.24,-0.13,Central,Raw Materials,Retailer,0
+CUST01518,7,10,4651.5,76,0.36,3,13,0.4,0.31,West,Components,Retailer,1
+CUST01519,60,6,2494.82,16,0.18,3,0,0.69,0.07,Central,Raw Materials,Distributor,0
+CUST01520,56,5,7332.98,18,0.2,2,13,0.54,0.1,Central,Finished Goods,Wholesaler,0
+CUST01521,104,4,3460.06,63,0.21,0,8,0.24,0.18,West,Packaging,Retailer,0
+CUST01522,86,8,2162.99,29,0.16,2,7,0.31,-0.33,East,Industrial Equipment,Retailer,0
+CUST01523,24,8,3052.44,30,0.15,1,7,0.56,-0.25,West,Raw Materials,Wholesaler,0
+CUST01524,19,8,6819.63,10,0.03,0,13,0.4,0.1,Central,Industrial Equipment,Retailer,0
+CUST01525,73,4,2741.26,61,0.32,0,2,0.21,-0.27,Central,Finished Goods,Distributor,0
+CUST01526,7,5,5838.66,43,0.11,2,11,0.29,-0.48,South,Finished Goods,Retailer,0
+CUST01527,39,8,2455.44,22,0.25,0,13,0.64,-0.35,South,Packaging,Wholesaler,0
+CUST01528,18,8,2273.07,18,0.14,1,6,0.17,0.25,North,Packaging,Wholesaler,0
+CUST01529,4,7,4977.98,68,0.04,0,4,0.6,-0.15,North,Raw Materials,Distributor,0
+CUST01530,111,2,2141.61,16,0.3,4,1,0.43,0.01,South,Industrial Equipment,Wholesaler,0
+CUST01531,12,4,5444.7,7,0.25,1,40,0.13,-0.34,South,Packaging,Retailer,1
+CUST01532,3,4,4202.33,71,0.12,0,7,0.25,0.06,Central,Finished Goods,Retailer,0
+CUST01533,113,4,2142.06,72,0.2,1,1,0.54,-0.13,East,Components,Wholesaler,0
+CUST01534,24,1,3329.93,16,0.49,3,2,0.48,0.07,West,Industrial Equipment,Retailer,1
+CUST01535,99,7,2561.05,110,0.06,0,4,0.35,-0.18,South,Packaging,Retailer,0
+CUST01536,5,12,4196.21,26,0.24,0,13,0.26,0.09,East,Raw Materials,Distributor,0
+CUST01537,20,2,9781.9,16,0.07,0,2,0.43,-0.2,Central,Finished Goods,Retailer,0
+CUST01538,15,8,2824.57,42,0.02,1,4,0.05,-0.07,South,Finished Goods,Wholesaler,0
+CUST01539,86,2,4645.14,8,0.09,0,12,0.59,-0.13,South,Packaging,Retailer,1
+CUST01540,75,4,3510.25,12,0.08,2,5,0.63,-0.04,East,Packaging,Retailer,0
+CUST01541,58,6,3509.51,35,0.34,2,7,0.28,0.03,South,Components,Retailer,0
+CUST01542,30,2,3162.56,31,0.12,1,1,0.42,-0.19,East,Finished Goods,Retailer,1
+CUST01543,12,5,2161.2,55,0.15,3,2,0.14,-0.08,West,Packaging,Retailer,0
+CUST01544,69,8,4164.4,9,0.15,0,6,0.5,0,East,Packaging,Distributor,0
+CUST01545,29,9,2954.82,98,0.17,3,7,0.14,0.09,North,Packaging,Wholesaler,1
+CUST01546,72,3,2105.61,20,0.31,1,8,0.38,-0.07,West,Finished Goods,Retailer,1
+CUST01547,83,1,6049.89,30,0.05,0,15,0.16,-0.3,Central,Finished Goods,Retailer,1
+CUST01548,103,5,3657.21,19,0.28,2,4,0.5,-0.03,South,Packaging,Distributor,0
+CUST01549,60,4,3055.03,8,0.27,0,1,0.57,0.14,North,Raw Materials,Retailer,0
+CUST01550,2,4,7237.5,27,0.3,2,12,0.21,-0.42,East,Packaging,Retailer,0
+CUST01551,35,4,1261.62,47,0.28,2,8,0.48,-0.42,North,Industrial Equipment,Distributor,1
+CUST01552,103,2,6974.75,24,0.04,2,11,0.2,-0.24,South,Raw Materials,Wholesaler,1
+CUST01553,65,3,2134.31,13,0.24,0,8,0.14,-0.1,West,Industrial Equipment,Retailer,0
+CUST01554,75,6,3890.69,56,0.28,2,4,0.47,-0.67,South,Finished Goods,Wholesaler,1
+CUST01555,56,5,2506.31,58,0.22,0,4,0.41,0.11,South,Industrial Equipment,Retailer,0
+CUST01556,21,6,2084.64,23,0.03,0,3,0.24,-0.1,South,Raw Materials,Wholesaler,0
+CUST01557,108,5,7134.07,37,0.07,1,17,0.21,-0.71,West,Industrial Equipment,Retailer,1
+CUST01558,93,4,9613.46,56,0.11,1,29,0.15,-0.36,Central,Raw Materials,Distributor,1
+CUST01559,120,1,3066.6,46,0.47,1,10,0.47,-0.13,Central,Finished Goods,Wholesaler,0
+CUST01560,103,3,4165.16,36,0.35,2,5,0.52,-0.55,North,Finished Goods,Retailer,0
+CUST01561,36,11,3573.66,45,0.27,0,3,0.35,0.22,West,Packaging,Wholesaler,1
+CUST01562,32,2,8971.24,39,0.17,2,9,0.22,0,South,Industrial Equipment,Retailer,1
+CUST01563,31,7,1083.3,29,0.31,2,1,0.23,0.14,Central,Raw Materials,Distributor,0
+CUST01564,111,4,4261.68,9,0.3,1,10,0.2,-0.34,East,Finished Goods,Retailer,1
+CUST01565,68,7,2321.76,12,0.24,0,3,0.28,0.07,Central,Components,Retailer,0
+CUST01566,56,3,947.87,40,0.43,2,0,0.44,-0.23,East,Components,Distributor,1
+CUST01567,117,3,2840.42,19,0.3,0,21,0.25,-0.1,South,Components,Retailer,1
+CUST01568,73,10,9570.37,39,0.32,0,12,0.29,0.05,Central,Components,Retailer,1
+CUST01569,110,5,2414.32,9,0.16,0,1,0.2,-0.07,South,Packaging,Distributor,0
+CUST01570,119,3,5350.37,15,0.53,3,14,0.04,0.18,West,Packaging,Wholesaler,0
+CUST01571,11,5,6696.03,24,0.52,0,3,0.22,-0.01,North,Components,Retailer,1
+CUST01572,45,4,3439.28,2,0.12,1,14,0.66,-0.18,West,Finished Goods,Wholesaler,0
+CUST01573,89,2,3700.6,13,0.03,0,6,0.13,0.19,Central,Finished Goods,Wholesaler,0
+CUST01574,98,1,1347.54,16,0.31,3,6,0.34,0.25,South,Components,Distributor,0
+CUST01575,19,7,2335.8,32,0.26,0,7,0.18,-0.03,Central,Packaging,Wholesaler,0
+CUST01576,39,4,5703.61,23,0.07,2,6,0.32,0.32,North,Packaging,Wholesaler,0
+CUST01577,67,3,3580.91,34,0.05,1,2,0.09,-0.12,North,Finished Goods,Distributor,0
+CUST01578,97,0,4238.81,97,0.18,1,21,0.33,-0.09,South,Components,Retailer,0
+CUST01579,15,7,3726.54,22,0.13,0,10,0.58,-0.05,South,Finished Goods,Wholesaler,0
+CUST01580,73,5,11563.42,16,0.18,1,2,0.16,-0.09,West,Components,Wholesaler,0
+CUST01581,37,2,2733.16,30,0.32,0,4,0.29,-0.14,Central,Industrial Equipment,Wholesaler,0
+CUST01582,27,7,8374.74,67,0.03,0,21,0.35,-0.25,North,Industrial Equipment,Wholesaler,0
+CUST01583,63,8,3727.25,16,0.02,0,1,0.14,-0.33,West,Packaging,Retailer,0
+CUST01584,51,5,8793.86,95,0.15,2,10,0.13,-0.02,Central,Components,Wholesaler,1
+CUST01585,77,3,1765.63,31,0.11,0,2,0.15,0.29,East,Industrial Equipment,Wholesaler,0
+CUST01586,39,5,3833.6,53,0.26,1,3,0.3,0.18,Central,Finished Goods,Distributor,0
+CUST01587,99,5,2789.09,37,0.07,1,6,0.09,0.06,North,Industrial Equipment,Retailer,1
+CUST01588,11,6,3739.51,42,0.22,1,9,0.65,0.3,West,Finished Goods,Distributor,0
+CUST01589,104,3,6783.9,13,0.22,1,7,0.42,-0.04,East,Packaging,Retailer,1
+CUST01590,5,4,4265.63,19,0.31,0,20,0.57,-0.33,East,Raw Materials,Wholesaler,0
+CUST01591,89,1,6776.46,5,0.34,1,11,0.51,-0.15,West,Finished Goods,Wholesaler,0
+CUST01592,43,2,2395.57,24,0.09,1,16,0.16,-0.07,West,Packaging,Wholesaler,0
+CUST01593,47,2,2202.7,44,0.19,0,6,0.43,-0.19,East,Finished Goods,Distributor,0
+CUST01594,4,4,3494.19,24,0.08,1,12,0.32,0.12,South,Finished Goods,Wholesaler,0
+CUST01595,85,4,3390.53,55,0.16,2,16,0.37,0.21,South,Industrial Equipment,Retailer,1
+CUST01596,21,3,3126.84,21,0.13,1,9,0.34,-0.53,Central,Industrial Equipment,Wholesaler,0
+CUST01597,80,2,2044.18,15,0.26,0,8,0.45,-0.09,East,Components,Wholesaler,0
+CUST01598,88,0,6695.95,53,0.15,1,10,0.69,-0.86,South,Components,Wholesaler,1
+CUST01599,102,7,2836.82,47,0.16,1,10,0.61,-0.08,East,Finished Goods,Retailer,0
+CUST01600,86,6,7588.15,82,0.3,2,9,0.1,-0.08,West,Packaging,Retailer,1
+CUST01601,37,2,3487.74,102,0.08,1,13,0.3,0.45,North,Finished Goods,Retailer,1
+CUST01602,89,5,4947.49,44,0.17,1,6,0.49,0.36,North,Packaging,Wholesaler,0
+CUST01603,100,3,4706.69,53,0.53,2,19,0.32,0.21,East,Packaging,Wholesaler,0
+CUST01604,39,3,2200.96,7,0.26,0,0,0.17,-0.32,West,Industrial Equipment,Distributor,0
+CUST01605,16,4,4238.49,9,0.23,1,12,0.49,-0.33,East,Packaging,Retailer,0
+CUST01606,107,3,10002.43,13,0.07,0,18,0.51,-0.36,South,Industrial Equipment,Wholesaler,0
+CUST01607,19,3,3977.41,69,0.23,0,4,0.58,0.38,West,Industrial Equipment,Distributor,1
+CUST01608,72,3,5685.66,69,0.18,5,5,0.27,-0.3,North,Finished Goods,Retailer,1
+CUST01609,30,4,5071.03,117,0.16,0,20,0.58,-0.16,West,Finished Goods,Wholesaler,1
+CUST01610,16,6,4100.55,13,0.16,0,11,0.28,-0.3,East,Raw Materials,Distributor,0
+CUST01611,94,2,3837.45,26,0.1,0,12,0.19,-0.4,South,Finished Goods,Retailer,0
+CUST01612,19,6,4679.86,5,0.36,4,5,0.81,0.04,North,Packaging,Wholesaler,0
+CUST01613,81,3,5270.1,7,0.12,0,5,0.34,-0.01,West,Raw Materials,Retailer,0
+CUST01614,84,8,1646.34,22,0.02,0,5,0.03,-0.67,North,Industrial Equipment,Retailer,0
+CUST01615,9,8,3968,14,0.31,2,5,0.18,-0.41,East,Industrial Equipment,Distributor,0
+CUST01616,22,6,3129.9,14,0.23,0,6,0.27,0.02,Central,Raw Materials,Retailer,0
+CUST01617,96,3,2792.41,17,0.33,4,11,0.37,-0.07,West,Packaging,Distributor,0
+CUST01618,62,2,7064.1,75,0.57,5,5,0.23,-0.16,North,Packaging,Wholesaler,1
+CUST01619,16,5,2314.08,60,0.12,1,2,0.48,0.12,Central,Industrial Equipment,Retailer,0
+CUST01620,120,4,1608.21,12,0.03,0,18,0.56,-0.45,West,Components,Retailer,1
+CUST01621,33,7,5364.96,59,0.35,2,4,0.62,-0.22,Central,Industrial Equipment,Distributor,0
+CUST01622,2,3,1585.7,15,0.12,0,5,0.47,0.1,North,Raw Materials,Retailer,0
+CUST01623,111,2,1199.47,7,0.08,0,1,0.22,-0.23,Central,Components,Retailer,0
+CUST01624,3,8,5707.56,17,0.22,0,8,0.32,0.04,West,Industrial Equipment,Retailer,0
+CUST01625,67,4,3779.31,35,0.2,1,3,0.29,-0.37,Central,Packaging,Wholesaler,0
+CUST01626,120,0,4491.74,52,0.11,1,2,0.62,-0.28,Central,Components,Retailer,1
+CUST01627,70,5,2715.32,43,0.42,0,14,0.36,-0.55,Central,Components,Distributor,0
+CUST01628,71,6,1617.4,18,0.39,0,24,0.15,-0.63,East,Industrial Equipment,Retailer,1
+CUST01629,48,2,1804.1,37,0.17,0,4,0.24,-0.18,Central,Industrial Equipment,Retailer,1
+CUST01630,17,9,2981.84,11,0.19,2,12,0.39,0.08,Central,Industrial Equipment,Wholesaler,0
+CUST01631,70,3,1720.17,28,0.16,0,9,0.21,-0.08,Central,Components,Retailer,0
+CUST01632,108,2,4100.56,13,0.18,1,8,0.17,0.27,West,Components,Distributor,0
+CUST01633,12,4,2685.57,23,0.18,1,2,0.22,-0.16,Central,Components,Distributor,0
+CUST01634,106,2,3834.41,96,0.06,1,8,0.22,-0.64,East,Raw Materials,Wholesaler,1
+CUST01635,51,5,3771.89,20,0.16,1,12,0.24,0.05,East,Raw Materials,Distributor,0
+CUST01636,65,4,4284.42,9,0.29,0,29,0.47,-0.35,North,Industrial Equipment,Distributor,1
+CUST01637,21,4,4558.35,30,0.07,1,1,0.15,-0.01,East,Components,Retailer,0
+CUST01638,75,4,2866.52,30,0.03,0,11,0.42,-0.69,Central,Components,Retailer,0
+CUST01639,23,11,3832.16,30,0.18,0,8,0.29,-0.13,North,Packaging,Wholesaler,0
+CUST01640,34,2,3943.42,42,0.03,1,6,0.42,0.15,Central,Finished Goods,Distributor,0
+CUST01641,87,7,910.61,19,0.24,1,18,0.65,0.11,West,Components,Distributor,0
+CUST01642,8,4,4942.32,45,0.17,0,4,0.44,-0.12,North,Industrial Equipment,Wholesaler,0
+CUST01643,55,1,3761.11,27,0.18,0,23,0.2,-0.06,South,Industrial Equipment,Retailer,0
+CUST01644,72,6,4723.13,8,0.16,0,0,0.4,-0.19,North,Finished Goods,Distributor,0
+CUST01645,17,6,1706.56,49,0.01,0,5,0.31,-0.13,West,Packaging,Wholesaler,1
+CUST01646,37,5,2911.21,32,0.17,1,14,0.4,0.13,South,Packaging,Distributor,0
+CUST01647,42,6,1900.09,43,0.06,1,8,0.13,-0.26,North,Raw Materials,Wholesaler,0
+CUST01648,80,6,5216.23,9,0.2,1,3,0.18,-0.23,North,Industrial Equipment,Retailer,0
+CUST01649,118,4,1599.08,51,0.19,1,4,0.61,-0.49,East,Components,Wholesaler,0
+CUST01650,101,6,2078.16,113,0.14,1,10,0.26,0.13,South,Raw Materials,Wholesaler,0
+CUST01651,24,7,4646.52,8,0.13,2,3,0.15,-0.14,Central,Finished Goods,Wholesaler,0
+CUST01652,4,2,2450,56,0.25,0,20,0.57,-0.4,Central,Finished Goods,Wholesaler,1
+CUST01653,8,5,2078.47,32,0.38,2,6,0.23,0.18,South,Components,Distributor,0
+CUST01654,72,2,5702.7,27,0.27,0,6,0.23,-0.08,Central,Raw Materials,Distributor,0
+CUST01655,20,2,5832.74,52,0.22,1,9,0.24,-0.27,North,Raw Materials,Retailer,1
+CUST01656,29,4,5151.99,48,0.04,2,1,0.5,0.18,East,Raw Materials,Retailer,0
+CUST01657,102,6,5523.63,66,0.13,2,8,0.19,-0.16,East,Industrial Equipment,Retailer,1
+CUST01658,105,1,3049.19,10,0.28,1,32,0.18,-0.5,South,Raw Materials,Wholesaler,0
+CUST01659,101,3,3094.79,68,0.07,0,6,0.08,0.2,West,Industrial Equipment,Wholesaler,0
+CUST01660,32,2,2424.92,37,0.13,3,8,0.42,-0.3,East,Components,Wholesaler,1
+CUST01661,75,4,3798.08,5,0.38,0,13,0.24,0.78,Central,Components,Wholesaler,0
+CUST01662,74,5,2590.63,20,0.17,0,19,0.3,-0.19,Central,Raw Materials,Distributor,0
+CUST01663,24,5,2729.34,32,0.45,0,8,0.17,-0.63,Central,Industrial Equipment,Retailer,0
+CUST01664,67,8,4817.19,19,0.51,1,6,0.23,0.43,West,Industrial Equipment,Wholesaler,1
+CUST01665,64,4,6644.18,25,0.3,1,14,0.18,-0.08,South,Finished Goods,Distributor,0
+CUST01666,49,4,4311.51,17,0.07,0,3,0.36,0.01,Central,Packaging,Retailer,0
+CUST01667,91,1,9291.67,153,0.4,0,19,0.31,0.04,South,Finished Goods,Retailer,1
+CUST01668,82,3,2349.52,45,0.05,1,15,0.13,-0.45,West,Packaging,Wholesaler,0
+CUST01669,65,4,1260.31,29,0.23,0,13,0.67,-0.67,East,Industrial Equipment,Retailer,0
+CUST01670,88,7,5130.95,11,0.15,0,9,0.43,0.48,East,Packaging,Wholesaler,0
+CUST01671,92,5,2265.37,66,0.15,0,11,0.44,-0.5,Central,Raw Materials,Distributor,0
+CUST01672,69,1,2979.38,41,0.24,0,11,0.38,0.39,North,Components,Retailer,1
+CUST01673,33,1,1308.47,12,0.07,1,9,0.12,0.08,Central,Packaging,Distributor,1
+CUST01674,92,4,2112.09,12,0.32,0,4,0.17,-0.02,Central,Packaging,Retailer,0
+CUST01675,87,5,1515.92,25,0.1,0,12,0.04,-0.2,East,Raw Materials,Wholesaler,0
+CUST01676,119,4,2727.48,30,0.2,0,2,0.24,0.58,West,Components,Retailer,0
+CUST01677,19,6,2787.77,44,0.04,2,2,0.49,-0.26,South,Raw Materials,Wholesaler,0
+CUST01678,51,4,3639.05,27,0.11,1,20,0.68,-0.25,West,Raw Materials,Distributor,0
+CUST01679,111,0,6848.93,124,0.07,0,2,0.13,0.12,North,Raw Materials,Retailer,0
+CUST01680,63,4,5025.59,19,0.1,0,17,0.17,-0.25,West,Industrial Equipment,Distributor,0
+CUST01681,114,1,1419.14,27,0.14,2,2,0.27,-0.35,West,Raw Materials,Wholesaler,0
+CUST01682,3,13,4838.73,68,0.1,1,6,0.51,-0.08,South,Components,Distributor,0
+CUST01683,6,5,3682.93,49,0.18,0,6,0.37,0.13,Central,Industrial Equipment,Wholesaler,0
+CUST01684,96,5,3281.96,28,0.02,0,1,0.16,0.46,South,Raw Materials,Wholesaler,0
+CUST01685,44,3,3420.41,36,0.21,0,11,0.1,0.52,East,Packaging,Distributor,0
+CUST01686,63,6,3875.79,27,0.09,0,2,0.1,-0.57,Central,Components,Wholesaler,0
+CUST01687,52,7,2367.2,8,0.34,1,2,0.14,0.23,North,Packaging,Distributor,0
+CUST01688,50,4,3132.88,84,0.12,0,1,0.06,-0.34,East,Industrial Equipment,Retailer,1
+CUST01689,113,7,6641.99,13,0.22,0,0,0.3,-0.33,West,Components,Retailer,0
+CUST01690,13,3,2351.6,21,0.06,0,13,0.4,-0.22,North,Finished Goods,Wholesaler,0
+CUST01691,93,8,1965.62,136,0.26,0,4,0.31,-0.23,East,Raw Materials,Retailer,1
+CUST01692,107,4,3347.81,11,0.11,0,5,0.59,-0.36,West,Raw Materials,Wholesaler,0
+CUST01693,80,0,1859.73,98,0.16,0,6,0.45,-0.72,Central,Finished Goods,Distributor,0
+CUST01694,49,4,1342.74,71,0.22,0,4,0.66,0.34,South,Industrial Equipment,Wholesaler,0
+CUST01695,21,2,2865.63,97,0.38,0,2,0.1,0.19,Central,Raw Materials,Distributor,1
+CUST01696,83,8,7682.82,41,0.11,2,4,0.01,-0.07,West,Industrial Equipment,Retailer,1
+CUST01697,57,7,3390.62,67,0.08,1,6,0.26,-0.34,East,Raw Materials,Retailer,1
+CUST01698,19,11,3820.81,24,0.17,1,2,0.23,0.28,East,Components,Retailer,0
+CUST01699,44,4,1073.22,1,0.09,0,4,0.04,-0.08,Central,Finished Goods,Distributor,0
+CUST01700,116,3,4407.09,63,0.33,1,15,0.17,-0.23,West,Industrial Equipment,Wholesaler,1
+CUST01701,33,5,3645.87,28,0.04,0,4,0.78,-0.52,East,Industrial Equipment,Distributor,0
+CUST01702,23,3,2402.58,21,0.2,2,9,0.56,0.09,Central,Packaging,Retailer,0
+CUST01703,83,2,3823.91,20,0.2,3,10,0.2,-0.16,West,Industrial Equipment,Retailer,0
+CUST01704,25,4,3803.08,46,0.22,1,1,0.67,0.01,South,Industrial Equipment,Distributor,1
+CUST01705,111,6,1933.88,46,0.16,1,11,0.27,-0.02,West,Packaging,Wholesaler,0
+CUST01706,104,6,4156.88,28,0.08,2,13,0.43,0.11,Central,Finished Goods,Wholesaler,0
+CUST01707,119,3,6690.37,39,0.11,0,9,0.57,0,West,Industrial Equipment,Wholesaler,0
+CUST01708,110,3,3055.3,11,0.05,0,5,0.09,-0.15,West,Raw Materials,Wholesaler,0
+CUST01709,31,5,2149.14,24,0.17,0,1,0.63,0.09,West,Finished Goods,Distributor,0
+CUST01710,27,2,3141.11,11,0.1,0,10,0.27,0.2,Central,Raw Materials,Retailer,0
+CUST01711,42,4,5541.59,11,0.18,2,4,0.22,0.37,North,Packaging,Retailer,0
+CUST01712,57,4,1764.33,36,0.12,0,5,0.57,-0.38,Central,Raw Materials,Retailer,0
+CUST01713,106,5,4760.97,29,0.11,3,3,0.45,0.25,Central,Components,Wholesaler,0
+CUST01714,89,7,2385.33,19,0.26,1,6,0.31,-0.51,North,Raw Materials,Distributor,0
+CUST01715,78,2,3956.58,23,0.05,0,6,0.51,0.22,West,Components,Wholesaler,0
+CUST01716,106,1,2539.23,39,0.22,2,2,0.19,-0.23,East,Industrial Equipment,Distributor,0
+CUST01717,78,6,2535.49,47,0.32,3,9,0.38,0.17,South,Packaging,Wholesaler,0
+CUST01718,47,5,8004.04,42,0.06,0,20,0.16,0.35,North,Finished Goods,Wholesaler,0
+CUST01719,51,5,1595.6,5,0.12,2,14,0.4,0,South,Raw Materials,Wholesaler,0
+CUST01720,63,5,4523.09,2,0.16,0,21,0.33,-0.06,West,Raw Materials,Distributor,0
+CUST01721,12,3,8975.27,14,0.61,0,4,0.45,-0.08,East,Raw Materials,Retailer,0
+CUST01722,90,5,5049.46,2,0.02,0,2,0.19,-0.18,North,Raw Materials,Wholesaler,0
+CUST01723,79,2,1665.53,78,0.02,1,1,0.12,0.26,South,Components,Wholesaler,0
+CUST01724,89,8,1711.51,22,0.39,0,5,0.26,-0.08,North,Components,Distributor,0
+CUST01725,65,4,2290.68,8,0.19,2,5,0.21,-0.66,South,Finished Goods,Retailer,1
+CUST01726,95,5,3777.62,22,0.06,0,7,0.32,0.2,Central,Industrial Equipment,Retailer,0
+CUST01727,115,0,3921.65,72,0.11,2,2,0.14,0.18,West,Raw Materials,Wholesaler,1
+CUST01728,69,6,1720.84,8,0.31,0,8,0.21,-0.04,Central,Packaging,Wholesaler,0
+CUST01729,54,6,2143.05,21,0.05,0,6,0.4,-0.27,North,Finished Goods,Retailer,0
+CUST01730,14,8,2216.5,18,0.16,0,8,0.35,-0.37,West,Components,Wholesaler,0
+CUST01731,94,3,3135.64,21,0.1,2,9,0.09,-0.27,South,Industrial Equipment,Wholesaler,1
+CUST01732,109,6,10317.35,40,0.07,2,7,0.28,0.01,East,Raw Materials,Retailer,0
+CUST01733,85,6,2072.99,56,0.09,0,14,0.3,-0.57,Central,Industrial Equipment,Wholesaler,0
+CUST01734,105,3,2023.68,31,0.24,2,9,0.06,0.07,Central,Finished Goods,Retailer,0
+CUST01735,104,4,1857.1,58,0.13,0,6,0.42,-0.03,West,Components,Distributor,0
+CUST01736,96,5,4912.56,18,0.27,1,3,0.05,0.31,Central,Raw Materials,Retailer,0
+CUST01737,61,6,3385.52,63,0.31,0,5,0.22,0.15,East,Finished Goods,Wholesaler,0
+CUST01738,13,7,2115.56,31,0.22,0,1,0.22,-0.25,North,Components,Wholesaler,0
+CUST01739,2,8,2836.89,52,0.2,2,12,0.24,-0.52,Central,Raw Materials,Retailer,1
+CUST01740,26,6,2240.98,19,0.21,0,3,0.79,-0.28,North,Components,Wholesaler,0
+CUST01741,53,2,4075.47,30,0.1,1,2,0.27,0.34,South,Raw Materials,Wholesaler,0
+CUST01742,90,7,15159.87,105,0.46,0,2,0.35,0.03,Central,Packaging,Retailer,1
+CUST01743,56,6,4689,30,0.21,1,3,0.2,0.12,Central,Finished Goods,Distributor,0
+CUST01744,4,9,3290.7,55,0.2,0,4,0.45,-0.23,North,Packaging,Distributor,0
+CUST01745,27,4,2402.5,60,0.12,0,16,0.21,0.09,Central,Packaging,Wholesaler,0
+CUST01746,118,4,1654.29,44,0.41,2,3,0.84,-0.48,West,Components,Wholesaler,1
+CUST01747,119,4,5185.02,50,0.14,4,19,0.32,0.21,North,Raw Materials,Wholesaler,1
+CUST01748,46,9,5032.36,19,0.3,1,16,0.29,-0.37,East,Components,Retailer,0
+CUST01749,97,4,2680.19,14,0.26,1,16,0.78,-0.6,South,Raw Materials,Retailer,0
+CUST01750,87,5,6750.24,11,0.24,1,10,0.1,0.58,East,Packaging,Wholesaler,0
+CUST01751,112,4,3503.82,38,0.1,2,1,0.34,-0.01,North,Finished Goods,Wholesaler,0
+CUST01752,107,2,5303.48,29,0.03,1,14,0.08,-0.02,North,Components,Wholesaler,0
+CUST01753,76,2,4076.15,36,0.3,2,1,0.55,-0.57,West,Raw Materials,Distributor,1
+CUST01754,48,7,3141.88,9,0.54,1,2,0.31,0.12,West,Components,Retailer,0
+CUST01755,76,12,2048.4,16,0.12,0,4,0.35,0.2,North,Components,Retailer,0
+CUST01756,39,3,3196.96,54,0.11,0,3,0.38,-0.11,West,Finished Goods,Wholesaler,0
+CUST01757,43,7,5503.44,33,0.22,2,12,0.43,0.2,East,Finished Goods,Wholesaler,0
+CUST01758,74,7,2618.94,31,0.22,1,11,0.22,0.28,Central,Finished Goods,Retailer,1
+CUST01759,69,4,4411,24,0.39,1,6,0.08,0.1,East,Components,Retailer,1
+CUST01760,71,2,1909.31,15,0.07,0,10,0.1,-0.66,East,Finished Goods,Wholesaler,1
+CUST01761,47,2,5318.95,65,0.12,2,7,0.39,-0.37,North,Industrial Equipment,Wholesaler,0
+CUST01762,50,8,4113.86,72,0.14,2,6,0.24,0.42,Central,Packaging,Retailer,1
+CUST01763,3,7,1787.98,30,0.03,0,4,0.54,-0.03,West,Packaging,Wholesaler,0
+CUST01764,73,5,3061.9,26,0.04,0,3,0.33,-0.03,North,Components,Distributor,0
+CUST01765,70,4,5780.77,76,0.11,0,0,0.28,-0.28,North,Raw Materials,Wholesaler,1
+CUST01766,113,3,1732.87,16,0.34,1,12,0.53,-0.23,South,Industrial Equipment,Wholesaler,0
+CUST01767,62,7,1921.72,20,0.14,0,3,0.47,0.28,East,Components,Retailer,0
+CUST01768,57,7,3333.5,52,0.33,0,3,0.34,0.37,Central,Raw Materials,Wholesaler,0
+CUST01769,10,4,11196.22,19,0.2,0,3,0.35,0.17,West,Industrial Equipment,Retailer,1
+CUST01770,25,7,2392.47,29,0.32,0,8,0.09,0.1,North,Raw Materials,Distributor,0
+CUST01771,42,4,4547.81,3,0,0,9,0.49,0.13,North,Components,Retailer,0
+CUST01772,46,6,3996.1,73,0.06,0,4,0.49,-0.07,South,Finished Goods,Distributor,0
+CUST01773,45,4,2504.3,49,0.3,0,6,0.32,-0.39,North,Packaging,Wholesaler,0
+CUST01774,48,3,3784.33,62,0.18,0,4,0.53,-0.45,North,Industrial Equipment,Wholesaler,0
+CUST01775,93,3,2707.26,13,0.24,1,12,0.55,0.32,North,Components,Wholesaler,0
+CUST01776,17,6,2844.68,84,0.19,2,8,0.49,-0.06,West,Finished Goods,Retailer,1
+CUST01777,41,5,1388.95,27,0.24,0,0,0.29,0.08,West,Industrial Equipment,Retailer,0
+CUST01778,21,6,3417.14,65,0.27,1,9,0.41,0.01,West,Raw Materials,Retailer,0
+CUST01779,38,3,5678.84,37,0.22,2,7,0.3,0.02,North,Raw Materials,Wholesaler,1
+CUST01780,83,3,3574.51,51,0.07,0,3,0.22,0.05,Central,Components,Wholesaler,0
+CUST01781,7,7,6309.3,40,0.04,1,2,0.35,0.15,South,Raw Materials,Distributor,0
+CUST01782,42,5,4765.61,19,0.05,0,11,0.8,-0.26,North,Packaging,Retailer,1
+CUST01783,4,9,3351.8,6,0.29,1,12,0.06,0.28,North,Industrial Equipment,Distributor,0
+CUST01784,115,4,2451.96,69,0.32,2,7,0.46,-0.26,South,Industrial Equipment,Retailer,1
+CUST01785,88,1,2650.64,1,0.32,0,4,0.63,0.02,North,Raw Materials,Wholesaler,0
+CUST01786,30,8,1542.59,55,0.09,0,3,0.23,-0.38,South,Packaging,Retailer,1
+CUST01787,25,8,2990.23,69,0.29,1,3,0.13,-0.1,West,Finished Goods,Distributor,0
+CUST01788,13,4,3752.96,8,0.54,1,4,0.15,-0.23,Central,Industrial Equipment,Wholesaler,0
+CUST01789,58,7,8897.11,20,0.4,0,14,0.78,-0.04,North,Raw Materials,Wholesaler,1
+CUST01790,91,2,4631.22,7,0.09,0,1,0.68,0.16,East,Raw Materials,Retailer,0
+CUST01791,71,3,2152.38,17,0.11,1,6,0.42,-0.03,South,Industrial Equipment,Wholesaler,0
+CUST01792,106,1,1569.24,61,0.11,1,4,0.47,0.5,South,Industrial Equipment,Retailer,0
+CUST01793,42,11,3091.45,51,0.06,0,8,0.5,0.17,West,Raw Materials,Wholesaler,0
+CUST01794,35,5,5412.52,46,0.16,1,2,0.17,-0.11,South,Finished Goods,Wholesaler,1
+CUST01795,58,8,3067.63,20,0.13,1,5,0.65,-0.07,East,Packaging,Retailer,1
+CUST01796,26,8,4666.16,1,0.1,0,11,0.29,0.06,South,Packaging,Retailer,0
+CUST01797,118,7,3134.99,9,0.67,2,7,0.25,0.15,South,Finished Goods,Retailer,0
+CUST01798,24,9,5137.65,24,0.18,0,4,0.25,-0.4,West,Finished Goods,Wholesaler,0
+CUST01799,58,7,1438.72,11,0.48,0,3,0.3,0.13,South,Packaging,Retailer,0
+CUST01800,64,7,8369.09,55,0.13,0,16,0.61,-0.39,East,Packaging,Retailer,0
